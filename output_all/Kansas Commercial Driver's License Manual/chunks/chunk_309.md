@@ -1,0 +1,2 @@
+## 8.3.5 - Skids
+Don't over steer, over accelerate, or over brake. If you do, your vehicle may skid. On tank trailers, if your drive wheels or trailer wheels begin to skid, your vehicle may jackknife. When any vehicle starts to skid, you must take action to restore traction to the wheels.

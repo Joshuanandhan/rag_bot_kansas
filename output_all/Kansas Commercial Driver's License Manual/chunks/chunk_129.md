@@ -1,0 +1,14 @@
+## 2.16 - Mountain Driving
+In mountain driving, gravity plays a major role. On any upgrade, gravity slows you down. The steeper the grade, the longer the grade, and/or the heavier the load -- the more you will have to use lower gears to climb hills or mountains. In coming down long, steep downgrades, gravity causes the speed of your vehicle to increase. You must select an appropriate safe speed, then use a low gear, and proper braking techniques. You should plan and obtain information about any long, steep grades along your planned route of travel. If possible, talk to other drivers who are familiar with the grades to find out what speeds are safe.
+You must go slowly enough so your brakes can hold you back without getting too hot. If the brakes become too hot, they may start to "fade." This means you must apply them harder and harder to get the same stopping power. If you continue to use the brakes hard, they can keep fading until you cannot slow down or stop at all.
+2.16.1 - Select a "Safe" Speed
+Your most important consideration is to select a speed that is not too fast for the:
+· Total weight of the vehicle and cargo.
+· Length of the grade.
+· Steepness of the grade.
+· Road conditions.
+· Weather.
+If a speed limit is posted, or there is a sign indicating "Maximum Safe Speed," never exceed the speed shown. Also, look for and heed warning signs indicating the length and steepness of the grade.
+You must use the braking effect of the engine as the principal way of controlling your speed. The braking effect of the engine is greatest when it is near the governed rpms and the transmission is in the lower gears. Save your brakes so you will be able to slow or stop as required by road and traffic conditions.
+2.16.2 - Select the Right Gear before Starting Down the Grade
+Shift the transmission to a low gear before starting down the grade. Do not try to downshift after your speed has already built up. You will not be able to shift into a lower gear. You may not even be able to get back into any gear and all engine braking effect will be lost. Forcing an automatic transmission into a lower gear at high speed could damage the transmission and also lead to loss of all engine braking effect. With older trucks, a rule for choosing gears is to use the same gear going down a hill that you would need to climb the hill. However, new trucks have low friction parts and streamlined shapes for fuel economy. They may also have more powerful engines. This means they can go up hills in higher gears and have less friction and air drag to hold them back going down hills. For that reason, drivers of modern trucks may have to use lower gears going down a hill than would be required to go up the hill. You should know what is right for your vehicle.

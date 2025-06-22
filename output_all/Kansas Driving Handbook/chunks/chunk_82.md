@@ -1,0 +1,2 @@
+## Hand Position
+Both hands should be placed on the outside of the steering wheel on opposite sides. Your grip on the steering wheel should be firm but gentle. Use your fingers instead of the palms of your hands and keep your thumbs up along the face of the steering wheel. Never turn the wheel while gripping it from the inside of the rim.

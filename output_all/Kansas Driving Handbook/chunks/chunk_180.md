@@ -1,0 +1,10 @@
+## You can use these precautions to reduce your chances of colliding with an animal:
+· Use caution when driving at dawn and dusk and between the months of October through December, when animals are most active.
+· Use caution and be alert when driving on roadways marked with deer crossing signs. These signs are placed in areas that have had a large number of deer/vehicle collisions.
+· Look well down the road and far off to each side. Scan the sides of the road to watch for the reflection of your vehicle headlights in the eyes of animals, especially at night and near woods and water.
+· Slow down and use caution when approaching animals that are standing near the roadway. They may bolt or change direction at the last minute, and there may be other deer following since they travel in groups.
+· Use flashers or a headlight signal to warn other drivers when animals are spotted on or near the road.
+· If you think you have time to avoid hitting an animal, reduce your speed, tap your brakes to warn other drivers and sound your horn. Deer tend to fixate on headlights so flashing them may cause the animal to freeze in the road. If there are no vehicles close behind you, brake hard but do not lock wheels causing a skid.
+· If a collision is inevitable, do not swerve to avoid the animal. Your risk of personal injury may be greater if you do. Keep your vehicle under control and on the roadway when you hit the animal.
+· Report the crash to the police if it involves a large animal such as a deer or farm animal. If the animal is a domestic pet and homes are nearby, try to notify the pet's owner if possible. Do not go inside someone's home.
+· Pets such as dogs may also run out on the roadway. Dogs that chase vehicles tend to approach in a straight line. Slow down until the dog is near your vehicle, then accelerate away from the dog as it approaches. Dogs are likely to be seen in residential, rural or farm areas.

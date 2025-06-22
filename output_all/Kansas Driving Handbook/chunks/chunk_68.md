@@ -1,0 +1,3 @@
+## Health:
+Driving is a complex skill. Many health problems - a bad cold, infection or virus can affect your driving. Even little problems like a stiff neck, a cough or a sore leg can affect your driving. If you are not feeling well and need to go somewhere, let someone else drive.
+There are many health conditions that can affect your driving. Many over the counter and prescription medications can affect your driving. Check with your doctor if you feel you may have a condition that could prevent you from driving safely.

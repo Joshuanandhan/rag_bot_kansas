@@ -1,0 +1,6 @@
+## 1.2.3 - Self-Certification Statements
+When completing an application for your CDL, you will be required to check the box next to the statement that describes your status.
+1. Interstate non-excepted: Category 1. Interstate, and I am both subject to and meet 49 CFR Part 391. (Copy of DOT medical card and this certification must be submitted to the State Driver's License Agency)
+2. Interstate excepted: Category 2. Interstate, but operating exclusively in transportation or operations excepted under 49 CFR 390.3(f), 391.2, 391.68, or 398.3. (Only this certification must be submitted to the State Driver's License Agency).
+3. Intrastate, and I am both subject to and meet State driver medical qualification requirements. (Requires driver to carry medical card; however, only this certification must be submitted to the State Driver's License Agency). (Requires Intrastate only "K" restriction on CDL credential)
+4. Intrastate excepted: Category 4. Intrastate, but operating exclusively in transportation or operations excepted from all or part of the State driver qualification requirements. (Only this certification must be submitted to the State Driver's License Agency). (Requires Intrastate only "K" restriction on CDL credential)

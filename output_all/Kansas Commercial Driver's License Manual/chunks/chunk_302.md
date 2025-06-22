@@ -1,0 +1,2 @@
+## 8.2.6 - Outage
+Never load a cargo tank totally full. Liquids expand as they warm and you must leave room for the expanding liquid. This is called "outage." Since different liquids expand by different amounts, they require different amounts of outage. You must know the outage requirement when hauling liquids in bulk.

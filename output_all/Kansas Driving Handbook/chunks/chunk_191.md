@@ -1,0 +1,2 @@
+## These exercises are shown in Figures 10.1 - 10.5.
+With a parent/guardian or friend, who is properly licensed and over the age of 21, practice these exercises in a safe area, such as a parking lot or residential area until you can correctly complete them. Try practicing the exercises in a variety of vehicles and locations.

@@ -1,0 +1,7 @@
+## Riding at Night
+At night it is harder for you to see and be seen. Picking your headlight or taillight out of the car lights around you are not easy for other drivers. To compensate, you should:
+1. Reduce Your Speed - Ride even slower than you would during the day - particularly on roads you don't know well. This will increase your chances of avoiding a hazard.
+2. Increase Distance - Distances are harder to judge at night than during the day. Your eyes rely upon shadows and light contrasts to determine how far away an object is and how fast it is coming. These contrasts are missing or distorted under artificial lights at night. Open a three- second following distance or more. And allow more distance to pass and be passed.
+3. Use the Car Ahead - The headlights of the car ahead can give you a better view of the road than even your high beam can. Taillights bouncing up and down can alert you to bumps or rough pavement.
+4. Use Your High Beam - Get all the light you can. Use your high beam whenever you are not following or meeting a car. Be visible: Wear reflective materials when riding at night.
+5. Be Flexible About Lane Position. Change to whatever portion of the lane is best able to help you see, be seen and keep an adequate space cushion.

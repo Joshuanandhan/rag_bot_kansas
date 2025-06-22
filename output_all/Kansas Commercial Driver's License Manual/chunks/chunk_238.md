@@ -1,0 +1,7 @@
+## 6.1.5 - Prevent Trailer Skids
+When the wheels of a trailer lock up, the trailer will tend to swing around. This is more likely to happen when the trailer is empty or lightly loaded. This type of jackknife is often called a "trailer jackknife." See Figure 6.2.
+The procedure for stopping a trailer skid is: Recognize the Skid. The earliest and best way to recognize that the trailer has started to skid is by seeing it in your mirrors. Any time you apply the brakes hard, check the mirrors to make sure the trailer is staying where it should be. Once the trailer swings out of your lane, it's very difficult to prevent a jackknife.
+* (From R.D. Ervin, R.L. Nisconger, C.C. MacAdam, and P.S. Fancher, "Influence of size and weight variables on the stability and control properties of heavy trucks, "University of Michigan Transportation Research Institute, 1983).
+![TRAILER JACKNIFE Line of Travel Trailer Wheels Locked-Up And Sliding Figure 6.2]()
+Stop Using the Brake. Release the brakes to get traction back. Do not use the trailer hand brake (if you have one) to "straighten out the rig." This is the wrong thing to do since the brakes on the trailer wheels
+caused the skid in the first place. Once the trailer wheels grip the road again, the trailer will start to follow the tractor and straighten out.

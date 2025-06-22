@@ -1,0 +1,2 @@
+## Seatbelts (K.S.A. 8-2501)
+Kansas law requires that all occupants use safety restraints in passenger vehicles. Seatbelt use is now a "Primary Violation" in Kansas as well. If a law enforcement officer sees an unrestrained adult in a front seat, or an unrestrained child anywhere in the vehicle, then that vehicle can be stopped solely for that violation.

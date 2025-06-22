@@ -1,0 +1,6 @@
+## Cornering
+A primary cause of single vehicle crashes is motorcyclists running wide in a curve or turn and colliding with the roadway or a fixed object. Every curve is different. Be alert to whether a curve remains constant, gradually widens, gets tighter or involves multiple turns.
+Ride within your skill level and posted speed limits. Your best path may not always follow the curve of the road.
+Change lane position depending on traffic, road conditions and curve of the road. If no traffic is present, start at the outside of a curve to increase your line of sight and the effective radius of the turn. As you turn, move toward the inside of the curve, and as you pass the center, move to the outside to exit.
+Another alternative is to move to the center of your lane before entering a curve - and stay there until you exit. This permits you to spot approaching traffic as soon as possible. You can also adjust for traffic crowding the center line, or debris blocking part of your lane.
+![CONSTANT CURVES MULTIPLE CURVES DECREASING CURVES (TGNWER FT0 WIDENING CURVES]()

@@ -1,0 +1,3 @@
+## 2.7.5 - Space Below
+Many drivers forget about the space under their vehicles. That space can be very small when a vehicle is heavily loaded. This is often a problem on dirt roads and in unpaved yards. Don't take a chance on getting hung up. Drainage channels across roads can cause the ends of some vehicles to drag. Cross such depressions carefully.
+Railroad tracks can also cause problems, particularly when pulling trailers with a low underneath clearance. Don't take a chance on getting hung up halfway across.

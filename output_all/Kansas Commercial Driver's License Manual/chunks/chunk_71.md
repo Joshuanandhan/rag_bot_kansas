@@ -1,0 +1,6 @@
+## 2.2.1 - Accelerating
+Don't roll back when you start. You may hit someone behind you. If you have a manual transmission vehicle, partly engage the clutch before you take your right foot off the brake. Put on the parking brake
+whenever necessary to keep from rolling back. Release the parking brake only when you have applied enough engine power to keep from rolling back. On a tractor-trailer equipped with a trailer brake hand valve, the hand valve can be applied to keep from rolling back. Speed up smoothly and gradually so the vehicle does not jerk. Rough acceleration can cause mechanical damage. When pulling a trailer, rough acceleration can damage the coupling.
+Speed up very gradually when traction is poor, as in rain or snow. If you use too much power, the drive wheels may spin. You could lose control. If the drive wheels begin to spin, take your foot off the accelerator.
+2.2.2 - Steering
+Hold the steering wheel firmly with both hands. Your hands should be on opposite sides of the wheel. If you hit a curb or a pothole (chuckhole), the wheel could pull away from your hands unless you have a firm hold.

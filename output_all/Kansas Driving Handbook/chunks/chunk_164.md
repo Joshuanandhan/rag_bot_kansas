@@ -1,0 +1,2 @@
+## Move-Over Laws
+State law requires drivers approaching a stationary emergency vehicle displaying flashing lights, including towing and recovery vehicles, traveling in the same direction, to vacate the lane closest if safe and possible to do so, or slow to a speed safe for road, weather, and traffic conditions.

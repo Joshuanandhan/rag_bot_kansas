@@ -3,3 +3,6 @@ openai
 numpy
 faiss-cpu
 python-dotenv
+langchain
+langchain-openai
+langchain-community

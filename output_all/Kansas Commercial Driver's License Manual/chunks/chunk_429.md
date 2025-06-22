@@ -1,0 +1,10 @@
+## 12.1 - Scoring
+Crossing Boundaries (encroachments)
+Pull-ups
+Outside Vehicle Observations (looks)
+Final Position/Inside Parallel
+Encroachments - The examiner will score the number of times you touch or cross over an exercise boundary line or cone with any portion of your vehicle. Each encroachment will count as an error.
+Pull-ups - When a driver stops and pulls forward to clear an encroachment or to get a better position, it is scored as a "pull-up". Stopping without changing direction does not count as a pull-up. You will not be penalized for initial pull-ups. However, an excessive number of pull-ups, will count as errors.
+Outside Vehicle Observations (Looks) - You may be permitted to safely stop and exit the vehicle to check the external position of the vehicle (look). When doing so, you must place the vehicle in neutral and set the parking brake(s). Then, when exiting the vehicle, you must do so safely by facing the vehicle and maintaining three points of contact with the vehicle at all times (when exiting a bus, maintain a firm grasp on the handrail at all times). If you do not safely secure the vehicle or safely exit the vehicle it may result in an automatic failure of the basic control skills test.
+The maximum number of times that you may look to check the position of you vehicle is two (2) except for the Straight Line Backing exercise, which allows one look. Each time you open the door, move from a seated position where in physical control of the vehicle or on a bus walk to the back of a bus to get a better view, it is scored as a "look".
+Final Position/Inside Parallel - It is important that you finish each exercise exactly as the examiner has instructed you. If you do not maneuver the vehicle into its final position as described by the examiner, you will be penalized and could fail the basic skills test.

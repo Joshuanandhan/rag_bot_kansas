@@ -1,0 +1,2 @@
+## 8.2.5 - Un-baffled Tanks
+Un-baffled liquid tankers (sometimes called "smooth bore" tanks) have nothing inside to slow down the flow of the liquid. Therefore, forward-and-back surge is very strong. Un-baffled tanks are usually those that transport food products (milk, for example). (Sanitation regulations forbid the use of baffles because of the difficulty in cleaning the inside of the tank.) Be extremely cautious (slow and careful) in driving smooth bore tanks, especially when starting and stopping.

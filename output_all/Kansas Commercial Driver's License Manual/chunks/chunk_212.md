@@ -1,0 +1,2 @@
+## 5.1.12 - Stop Light Switch
+Drivers behind you must be warned when you put your brakes on. The air brake system does this with an electric switch that works by air pressure. The switch turns on the brake lights when you put on the air brakes.

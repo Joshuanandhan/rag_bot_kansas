@@ -1,0 +1,2 @@
+## Turning
+Pay close attention to large vehicles turn signals and give them plenty of room to maneuver. When a truck or bus needs to make a right turn, they will sometimes swing wide to the left in order to safely turn right and clear the corner of a curb or other obstruction. Sometimes space from other lanes is used to clear corners. If you try to get in between the truck or bus and the curb, you will be squeezed in between them and could suffer a serious crash. To avoid a crash, do not turn until the truck or bus has completed its turn.

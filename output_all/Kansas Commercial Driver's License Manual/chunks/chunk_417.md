@@ -1,0 +1,2 @@
+## Stop Arm/Safety Arm
+If equipped, check the stop arm to see that it is mounted securely to the frame of the vehicle. Also, check for loose fittings and damage. Checks that stop arm extends fully when operated

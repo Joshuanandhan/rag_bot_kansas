@@ -1,0 +1,2 @@
+## 5.4.1 - Normal Stops
+Push the brake pedal down. Control the pressure so the vehicle comes to a smooth, safe stop. If you have a manual transmission, don't push the clutch in until the engine rpm is down close to idle. When stopped, select a starting gear.

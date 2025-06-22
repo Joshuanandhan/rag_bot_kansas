@@ -1,0 +1,6 @@
+## 6.1.6 - Turn Wide
+When a vehicle goes around a corner, the rear wheels follow a different path than the front wheels. This is called off-tracking or "cheating." Figure 6.3 shows how off-tracking causes the path followed by a tractor to be wider than the rig itself. Longer vehicles will off-track more. The rear wheels of the powered unit (truck or tractor) will off-track some, and the rear wheels of the trailer will off-track even more. If there is more than one trailer, the rear wheels of the last trailer will off-track the most. Steer the front end wide enough around a corner so the rear end does not run over the curb, pedestrians, etc. However, keep the rear of your vehicle close to the curb. This will stop other drivers from passing you on the right. If you cannot complete your turn without entering another traffic lane, turn wide as you complete the turn. This is better than swinging wide to the left before starting the turn because it will keep other drivers from passing you on the right. See Figure 6.4.
+![Maximum width of swept path Path followed by the innermost tire Path followed by the outside tractor tire OFF TRACKING IN A 90 DEGREE TURN]()
+_Figure 6.3_
+![Jug Handle INCORRECT Button Hook CORRECT]()
+_Figure 6.4_

@@ -1,0 +1,4 @@
+## 1.3.7 - Traffic Violations in Your Personal Vehicle
+The Motor Carrier Safety Improvement Act (MCSIA) of 1999 requires a CDL holder to be disqualified from operating a commercial motor vehicle if the CDL holder has been convicted of certain types of moving violations in their personal vehicle.
+If your privilege to operate your personal vehicle is revoked, cancelled, or suspended due to violations of traffic control laws (other than parking violations) you will also lose your CDL driving privileges. If your privilege to operate your personal vehicle is revoked, cancelled, or suspended due to alcohol, controlled substance or felony violations, you will lose your CDL for 1 year. If you are convicted of a second violation in your personal vehicle or CMV you will lose your CDL for life.
+If your license to operate your personal vehicle is revoked, cancelled, or suspended you may not obtain a "hardship" license to operate a CMV.

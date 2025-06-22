@@ -1,0 +1,6 @@
+## Scoring:
+· Reversal - A reversal is when you stop and reverse direction to get a better position. Each time you reverse direction it is counted as an error. Stopping without changing direction does not count as a reversal.
+· Encroachments - Touching or crossing over an exercise boundary line or cone with any part of your vehicle, other than the vehicle's mirrors is considered an encroachment. Each encroachment will count as an error.
+· Turn Signals - When performing an exercise, you must use the correct turn signal when turning or backing. Each time you fail to use or improperly use your turn signal it will count as an error. If your turn signal cancels automatically, make sure to reactivate it when necessary.
+· Head/Traffic Check(s) - When performing an exercise, it is important to check traffic prior to entering or exiting a roadway. You must make sure that it is safe to perform the exercise and that the roadway is clear in both directions before entering back into traffic or leaving the exercise area. You will be scored if you do not use head/traffic checks during the exercises.
+· Final Position - It is important that you finish each exercise exactly as the examiner has instructed you. If you do not maneuver the vehicle into its final position as described by the examiner, points will be added to your score.

@@ -1,0 +1,9 @@
+## 6.3.2 - Braking with ABS
+ABS is an addition to your normal brakes. It does not decrease or increase your normal braking capability. ABS only activate when wheels are about to lock up. ABS does not necessarily shorten your stopping distance, but it does help you keep the vehicle under control during hard braking. ABS help you avoid wheel lock up. The computer senses impending lockup, reduces the braking pressure to a safe level, and you maintain control. Having ABS on only the trailer, or even on only one axle, still gives you more control over the vehicle during braking. When only the trailer has ABS, the trailer is less likely to swing out, but if you lose steering control or start a tractor jackknife, let up on the brakes (if you can safely do so) until you gain control.
+When you drive a tractor-trailer combination with ABS, you should brake as you always have. In other words:
+· Use only the braking force necessary to stop safely and stay in control.
+· Brake the same way, regardless of whether you have ABS on the tractor, the trailer, or both.
+· As you slow down, monitor your tractor and trailer and back off the brakes (if it is safe to do so) to stay in control.
+Remember, if your ABS malfunctions, you still have regular brakes. Drive normally, but get the system serviced soon. ABS won't allow you to drive faster, follow more closely, or drive less carefully.
+6.4 - Coupling and Uncoupling
+Knowing how to couple and uncouple correctly is basic to safe operation of combination vehicles. Wrong coupling and uncoupling can be very dangerous. General coupling and uncoupling steps are listed below. There are differences between different rigs, so learn the details of coupling and uncoupling the truck(s) you will operate.

@@ -1,0 +1,4 @@
+## 6.1.1 - Rollover Risks
+More than half of truck driver deaths in crashes are the result of truck rollovers. When more cargo is piled up in a truck, the "center of gravity" moves higher up from the road. The truck becomes easier to turn over. Fully loaded rigs are ten times more likely to roll over in a crash than empty rigs.
+The following two things will help you prevent rollover -- keep the cargo as close to the ground as possible, and drive slowly around turns. Keeping cargo low is even more important in combination vehicles than in straight trucks. Also, keep the load centered on your rig. If the load is to one side so it makes a trailer lean, a rollover is more likely. Make sure your cargo is centered and spread out as much as possible. (Cargo distribution is covered in Section 3 of this manual.)
+Rollovers happen when you turn too fast. Drive slowly around corners, on ramps, and off ramps. Avoid quick lane changes, especially when fully loaded.

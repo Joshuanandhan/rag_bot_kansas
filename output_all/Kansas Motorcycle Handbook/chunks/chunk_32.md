@@ -1,0 +1,2 @@
+## Head Checks
+Checking your mirrors is not enough. Motorcycles have "blind spots" like cars. Before you change lanes, turn your head, and look to the side for other vehicles. On a road with several lanes, check the far lane and the one next to you. A driver in the distant lane may head for the same space you plan to take. Frequent head checks should be your normal scanning routine, also. Only by knowing what is happening all around you are you fully prepared to deal with it.

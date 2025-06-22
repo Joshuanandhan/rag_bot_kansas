@@ -1,0 +1,2 @@
+## Prescription Drugs
+Some prescription drugs can impact your driving and can affect your reflexes, judgment, vision, and alertness in ways similar to alcohol. Prescription drugs, such as, antidepressants, pain reducers, sleep aids and sedatives will have an impact on driving safely. Check the label on the prescription and packaging before you take a drug for warnings about its effects. If you are not sure if it is safe to take the drug and drive, ask your doctor or pharmacist about any side effects.

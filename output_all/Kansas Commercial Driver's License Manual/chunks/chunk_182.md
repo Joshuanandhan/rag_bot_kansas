@@ -1,0 +1,4 @@
+## 4.1.3 - Bus Interior
+People sometimes damage unattended buses. Always check the interior of the bus before driving to ensure rider safety. Aisles and stairwells should always be clear. The following parts of your bus must be in safe working condition: Each handhold and railing. Floor covering.
+Signaling devices, including the restroom emergency buzzer, if the bus has a restroom. Emergency exit handles. The seats must be safe for riders. All seats must be securely fastened to the bus.
+Never drive with an open emergency exit door or window. The "Emergency Exit" sign on an emergency door must be clearly visible. If there is a red emergency door light, it must work. Turn it on at night or any other time you use your outside lights.

@@ -1,0 +1,2 @@
+## 5.1.3 - Air Storage Tanks
+Air storage tanks are used to hold compressed air. The number and size of air tanks varies among vehicles. The tanks will hold enough air to allow the brakes to be used several times, even if the compressor stops working.

@@ -1,0 +1,3 @@
+## 3.2.2 - Legal Weight Limits
+You must keep weights within legal limits. States have maximums for GVWRs, GCWRs, and axle weights. Often, maximum axle weights are set by a bridge formula. A bridge formula permits less maximum axle weight for axles that are closer together. This is to prevent overloading bridges and roadways. Overloading can have bad effects on steering, braking, and speed control. Overloaded trucks have to go very slowly on upgrades. Worse, they may gain too much speed on downgrades. Stopping distance increases. Brakes can fail when forced to work too hard.
+During bad weather or in mountains, it may not be safe to operate at legal maximum weights. Take this into account before driving.

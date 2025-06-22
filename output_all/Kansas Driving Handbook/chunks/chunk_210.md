@@ -1,0 +1,2 @@
+## Trip Planning
+There are ways you can help reduce your driving costs. First, determine your overall transportation needs. For each trip, determine if it is necessary. If so, there may be times you do not need to drive yourself. You might ride with someone else, or you could take public transportation if it is available. The best way to extend the life of your vehicle and save on fuel is to use it as little as possible.

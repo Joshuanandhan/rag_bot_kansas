@@ -1,0 +1,2 @@
+## Online Knowledge Exam
+The Kansas Department of Revenue offers Kansans the ability to complete their non-commercial knowledge exam online, bring in their passing results, and eliminate the in-office knowledge exam. For more information, and to see if you qualify, visit https://ks.knowtodrive.com.

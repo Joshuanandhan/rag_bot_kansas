@@ -1,0 +1,3 @@
+## 8.3.2 - Controlling Surge
+Keep a steady pressure on the brakes. Do not release too soon when coming to a stop. Brake far in advance of a stop and increase your following distance.
+If you must make a quick stop to avoid a crash, use controlled or stab braking. If you do not remember how to stop using these methods, review subsection 2.17.2. Also, remember that if you steer quickly while braking, your vehicle may roll over.

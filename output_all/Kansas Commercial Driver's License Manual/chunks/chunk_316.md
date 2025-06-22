@@ -1,0 +1,2 @@
+## 9.2.2 - The Carrier
+Takes the shipment from the shipper to its destination. Prior to transportation, checks that the shipper correctly described, marked, labeled, and otherwise prepared the shipment for transportation. Refuses improper shipments.

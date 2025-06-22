@@ -1,0 +1,3 @@
+## 2.7.7 - Space Needed to Cross or Enter Traffic
+Be aware of the size and weight of your vehicle when you cross or enter traffic. Here are some important things to keep in mind.
+Because of slow acceleration and the space large vehicles require, you may need a much larger gap to enter traffic than you would in a car. Acceleration varies with the load. Allow more room if your vehicle is heavily loaded. Before you start across a road, make sure you can get all the way across before traffic reaches you.

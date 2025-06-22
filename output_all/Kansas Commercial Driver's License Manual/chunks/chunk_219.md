@@ -1,0 +1,3 @@
+## 5.3 - Inspecting Air Brake Systems
+You should use the basic seven-step inspection procedure described in Section 2 to inspect your vehicle. There are more things to inspect on a vehicle with air brakes than one without them. These things are discussed below, in the order they fit into the seven-step method.
+5.3.1 - During Step 2 Engine Compartment Checks Check Air Compressor Drive Belt (if compressor is belt-driven). If the air compressor is belt-driven, check the condition and tightness of the belt. It should be in good condition.

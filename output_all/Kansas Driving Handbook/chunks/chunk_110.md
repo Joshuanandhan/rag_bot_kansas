@@ -1,0 +1,7 @@
+## Perpendicular and Angle Parking:
+Entering a Perpendicular or Angle Parking Space - Identify the space in which you will park and check traffic. Signal your intentions, and as you approach, position the vehicle as far away from the parking space as possible. Move forward slowly, turning the steering wheel left or right as appropriate, until the vehicle reaches the middle of the space. Center the vehicle in the space and straighten wheels. Move to the front of the parking space, stop and secure the vehicle.
+· Exiting a Perpendicular or Angle Parking Space - When exiting the parking space start the engine, check for traffic in all directions, place your foot on the brake, shift to reverse and signal in the direction you are turning. Continue to check traffic and move straight back until your front bumper clears the vehicle parked beside you, opposite of the way you are turning. Then turn the steering wheel sharply in the direction that the rear of your vehicle should move. When the vehicle clears the parking area and centers in lane, stop and shift to drive. Accelerate smoothly, steering as needed to straighten wheels.
+![H85, LLC]()
+Angle Parking
+![HSS, LLC]()
+_Perpendicular Parking_

@@ -1,0 +1,3 @@
+## 4.3 - On the Road
+## 4.3.1 - Passenger Supervision
+Many charter and intercity carriers have passenger comfort and safety rules. Mention rules about smoking, drinking, or use of radio and tape players at the start of the trip. Explaining the rules at the start will help to avoid trouble later. While driving, scan the interior of your bus as well as the road ahead, to the sides, and to the rear. You may have to remind riders about rules, or to keep arms and heads inside the bus.

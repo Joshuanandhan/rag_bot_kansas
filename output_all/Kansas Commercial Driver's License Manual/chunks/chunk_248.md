@@ -1,0 +1,2 @@
+## 6.2.7 - Shut-off Valves
+Shut-off valves (also called cut-out cocks) are used in the service and supply air-lines at the back of trailers used to tow other trailers. These valves permit closing the air-lines off when another trailer is not being towed. You must check that all shut-off valves are in the open position except the ones at the back of the last trailer, which must be closed.

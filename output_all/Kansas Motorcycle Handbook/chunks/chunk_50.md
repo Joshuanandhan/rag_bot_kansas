@@ -1,0 +1,2 @@
+## Animals
+Naturally, you should do everything you safely can to avoid hitting an animal. If you are in traffic, however, remain in your lane. Hitting something small is less dangerous to you than hitting something big, like a car. Motorcycles seem to attract dogs. If you are chased, downshift and approach the animal slowly. As you approach it, accelerate away and leave the animal behind. Don't kick at an animal. Keep control of your motorcycle and look to where you want to go. For larger animals (deer, elk, cattle) brake and prepare to stop - they are unpredictable.

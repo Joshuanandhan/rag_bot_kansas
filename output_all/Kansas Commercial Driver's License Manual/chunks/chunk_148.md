@@ -1,0 +1,2 @@
+## 2.20.2 - Notify Authorities
+If you have a cell phone or CB, call for assistance before you get out of your vehicle. If not, wait until after the accident scene has been properly protected, then phone or send someone to phone the police. Try to determine where you are so you can give the exact location.

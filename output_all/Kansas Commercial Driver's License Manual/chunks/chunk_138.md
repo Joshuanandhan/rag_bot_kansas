@@ -1,0 +1,11 @@
+## 2.17.4 - Tire Failure
+Recognize Tire Failure. Quickly knowing you have a tire failure will let you have more time to react. Having just a few extra seconds to remember what it is you're supposed to do can help you. The major signs of tire failure are:
+Sound. The loud "bang" of a blowout is an easily recognized sign. Because it can take a few seconds for your vehicle to react, you might think it was some other vehicle. But any time you hear a tire blow, you'd be safest to assume it is yours.
+Vibration. If the vehicle thumps or vibrates heavily, it may be a sign that one of the tires has gone flat. With a rear tire, that may be the only sign you get.
+Feel. If the steering feels "heavy," it is probably a sign that one of the front tires has failed. Sometimes, failure of a rear tire will cause the vehicle to slide back and forth or "fishtail." However, dual rear tires usually prevent this.
+Respond to Tire Failure. When a tire fails, your vehicle is in danger. You must immediately: Hold the Steering Wheel Firmly. If a front tire fails, it can twist the steering wheel out of your hand. The only way to prevent this is to keep a firm grip on the steering wheel with both hands at all times. Stay off the Brake. It's natural to want to brake in an emergency. However, braking when a tire has failed could cause loss of control. Unless you're about to run into something, stay off the brake until the vehicle has slowed down. Then brake very gently, pull off the road, and stop.
+Check the Tires. After you've come to a stop, get out and check all the tires. Do this even if the vehicle seems to be handling all right. If one of your dual tires goes, the only way you may know it is by getting out and looking at it.
+2.18 - Antilock Braking Systems (ABS)
+ABS is a computerized system that keeps your wheels from locking up during hard brake applications.
+ABS is an addition to your normal brakes. It does not decrease or increase your normal braking capability. ABS only activates when wheels are about to lock up.
+ABS does not necessarily shorten your stopping distance, but it does help you keep the vehicle under control during hard braking.

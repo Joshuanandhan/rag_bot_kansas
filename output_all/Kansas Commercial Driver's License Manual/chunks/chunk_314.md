@@ -1,0 +1,5 @@
+## 9.1.3 - Assure Safe Drivers and Equipment
+In order to get a hazardous materials endorsement on a CDL, you must pass a written test about transporting hazardous materials. To pass the test, you must know how to: Identify what are hazardous materials. Safely load shipments. Properly placard your vehicle in accordance with the rules. Safely transport shipments.
+Learn the rules and follow them. Following the rules reduces the risk of injury from hazardous materials. Taking shortcuts by breaking rules is unsafe. Non-compliance with regulations can result in fines and jail.
+Inspect your vehicle before and during each trip. Law enforcement officers may stop and inspect your vehicle. When stopped, they may check your shipping papers, vehicle placards, and the hazardous materials endorsement on your driver license, and your knowledge of hazardous materials.
+9.2 - Hazardous Materials Transportation-Who Does What

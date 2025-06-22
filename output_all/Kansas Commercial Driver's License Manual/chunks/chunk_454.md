@@ -1,0 +1,2 @@
+## 13.1.13 - Regular Traffic Checks
+Check traffic regularly. Check mirrors regularly. Check mirrors and traffic before, while in and after an intersection. Scan and check traffic in high volume areas and areas where pedestrians are expected to be present.

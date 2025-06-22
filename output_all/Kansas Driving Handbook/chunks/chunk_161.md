@@ -1,0 +1,20 @@
+## Motorcycles, Scooters and Mopeds
+Motorcyclists/scooters/mopeds have the same rights and responsibilities as other drivers. However, it is more difficult to see them, and it is more difficult to determine what they will do. There are special situations and conditions we need to be aware of so we can safely share the road with motorcycles/scooters/mopeds:
+· Motorcycle/scooter/moped operators have the right to use a complete traffic lane, and two motorcycles/scooters/mopeds may share a lane. Do not pass a motorcycle/scooter/moped in the same lane. The motorcycle/scooter/moped needs space to react to other traffic.
+· Motorcycles/scooters/mopeds are small and, therefore, more difficult to see. Their size also allows them to duck easily into your blind spot, therefore, always make a visual check for motorcycles/scooters/mopeds by checking mirrors and blind spots by turning your head and looking before entering or leaving a lane of traffic and at intersections.
+· Motorized Bicycle or Moped means every device having two tandem wheels or three wheels, which may be propelled by either human power or helper motor, or by both, and has:
+1. A motor which produces not more than 3.5 brake horsepower;
+2. A cylinder capacity of not more than 130 cubic centimeters;
+3. An automatic transmission; and
+4. The capability of a maximum design speed of no more than 30 miles mph.
+· Approximately one-half of all motorcycle/scooter/moped crashes involve another motor vehicle. Nearly 40 percent were caused by the other vehicle turning left in front of the motorcyclist/scooter/moped. Motorcycles/scooters/mopeds have a much smaller profile than motor vehicles, which can make it more difficult to judge the speed and distance as they approach. Before
+turning left be alert for motorcycles/scooters/mopeds by looking carefully to the front and sides of your vehicle.
+· Do not assume a motorcycle/scooter/moped is turning when you see its turn signal flashing. Motorcycle/scooter/moped turn signals may not self- cancel, and the motorcyclist/scooter/moped may have forgotten to turn them off. Do not pull out in front of a motorcycle/scooter/moped until you see that it is beginning to turn. Keep in mind that motorcycles/scooters/mopeds may not have turn signals, so it is important to leave enough space for the motorcyclist/scooter/moped to maneuver.
+![HSS, LLC]()
+· Always signal your intentions before changing lanes or merging with traffic. This allows the motorcyclist/scooter/moped to anticipate traffic flow and find a safe lane position.
+· Obstacles and road conditions that may be minor to a motorist can be deadly to a motorcyclist/scooter/moped. Be prepared for them to make sudden changes in lanes or speed as they attempt to avoid a hazard on the road such as potholes, gravel, wet or slippery surfaces, pavement seams, railroad crossings and grooved pavement. Allow room for the motorcyclists/scooters/mopeds to maneuver.
+· When following a motorcyclist/scooter/moped, allow for a 3 to 4 second following distance or more in wet conditions, or you may not have enough time or space to avoid a crash. Motorcycles/scooters/mopeds can stop quickly and following too closely endangers your life and that of the motorcyclist.
+· Always dim your headlights when approaching a motorcycle/scooter/moped. Because of their vulnerability, the blinding effect of your high beams can be far more dangerous to them than to drivers of motor vehicles.
+· When a motorcycle/scooter/moped is passing your vehicle, you should maintain your lane position and speed. Allow the motorcyclist/scooter/moped to complete the maneuver and assume proper lane position as quickly as possible. Never speed up or interfere with their ability to pass safely.
+· Keep in mind that scooters and mopeds travel at much lower speeds than motorcycles.
+![HSS, LLC]()

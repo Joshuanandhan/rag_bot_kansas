@@ -1,0 +1,2 @@
+## 9.1.1 - Contain the Material
+Transporting hazardous materials can be risky. The regulations are intended to protect you, those around you, and the environment. They tell shippers how to package the materials safely and drivers how to load, transport, and unload the material. These are called "containment rules."

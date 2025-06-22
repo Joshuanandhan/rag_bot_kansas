@@ -1,0 +1,21 @@
+## As a driver:
+· You must yield to bicyclists in intersections as you would for pedestrians and other vehicles.
+· You must yield the right-of-way to a bicyclist when a bicycle path or bike lane intersects a road. Do not stop, park or drive on a designated bicycle path or lane unless you are entering or leaving an alley or driveway, performing official duties, directed by a police officer, or an emergency situation exists.
+· When approaching or passing a bicyclist slow down and allow as much space as possible and consider a bicyclist's speed when you pass. If you are about to make a right turn, you must not pass a bicyclist immediately before the turn. To avoid a collision, you should slow down and let the cyclist clear the intersection before making your turn.
+· Be careful after you have passed a bicyclist. Do not slow down or stop quickly. A motor vehicle's brakes are more powerful than a bicycle's, and you could cause a crash.
+· Do not sound your horn close to bicyclists unless there is a chance of a collision. Sounding your horn to alert your presence may startle them and cause them to steer into your path and crash.
+· When making turns, watch carefully for bicyclists entering your lane. Be especially careful if you see children riding bikes on the sidewalk. They may come onto the road.
+· Never turn sharply in front of a bicyclist, and do not force a bicyclist off the road.
+· Although bicyclists are required to ride in the direction of traffic, you should look for them riding anywhere on the roadway.
+· Be particularly careful around bicyclists when the roadway is wet or covered with sand or gravel. Like motor vehicles, bicycles cannot brake as quickly or turn as sharply under these conditions. These conditions affect bicycles much more than vehicles.
+· Cooperate with bicyclists. They are required to use hand signals, as shown, when turning and stopping. However, keep in mind that a bicyclist may be unable to signal if road or traffic conditions require them to keep both hands on the handlebars. Look for other clues of a bicyclist's intent, like turning their head or looking over their shoulder before changing lane position.
+![Stop Left Turn Right Turn or Right Turn]()
+· When parked on the street or parallel parking a vehicle, check to the sides and rear for bicyclists before you open your vehicle door, and always use caution in exiting the vehicle by looking around for other oncoming vehicles. The "Dutch Reach" method can be performed to safely help you achieve exiting your vehicle. It entails that the motorist uses their right hand to pull the handle to open the door which will inherently turn your body to provide better visibility of traffic approaching from the rear. This method will help you avoid unnecessary collisions with your door and vehicles of all sorts.
+· You should check for bicyclists in your path before backing. Be especially cautious near schools or residential areas where bicyclists may be present.
+Roads are designed to accommodate many modes of transportation and types of road users. The better we understand and prepare ourselves on how to interact with each other, the safer we will all be.
+There are several designations to denote upon bicyclists and other road users that may specify the type of road you might encounter more bicycle traffic on.
+· Sharrows - are road markers on the pavement that provide a recommendation of where in a lane a bicyclist should ride to flow easiest with other traffic. Designated by a bicycle with two chevrons (arrows) pointing above it, you will find sharrows on roads with higher volumes of traffic.
+· Bike Lanes - are road markers on the pavement that provide a designated part of the roadway for bicycle traffic to use. This does not preclude the bicyclist from exiting such a lane to proceed straight through an intersection and avoid a collision, as well as to make a left-hand turn. Bike lanes can be designated using solid white lines and are commonly found towards the right side of the roadway.
+![40]()
+· Bikeways or Bike Routes - are roads with lower traffic volumes that are recommended for use by bicycles because of the lower potential for collisions and greater ease of use. These roads are commonly side roads and neighborhood roads.
+![BIKE ROUTE]()

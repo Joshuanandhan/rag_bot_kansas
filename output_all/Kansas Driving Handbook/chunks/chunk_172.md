@@ -1,0 +1,2 @@
+## Driving Slow Moving Vehicles
+If you are driving a slow-moving vehicle and you must drive so slowly that other vehicles have to reduce speed to the rear, pull to the side of the roadway when safe to do so and let the other vehicles pass. Many states have "turnout" areas on some two-way, single lane roadways that must be used when you are causing vehicles to the rear to slow down significantly. Other two-way, single lane roadways sometimes have selective "passing lanes" to reduce congestion to the rear of slower vehicles.

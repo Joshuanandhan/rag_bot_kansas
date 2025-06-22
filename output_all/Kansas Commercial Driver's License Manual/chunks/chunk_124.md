@@ -1,0 +1,3 @@
+## 2.15.1 - Types of Crossings
+Passive Crossings. This type of crossing does not have any type of traffic control device. The decision to stop or proceed rests entirely in your hands. Passive crossings require you to recognize the crossing, search for any train using the tracks and decide if there is sufficient clear space to cross safely.
+Active Crossings. This type of crossing has a traffic control device installed at the crossing to regulate traffic at the crossing. These active devices include flashing red lights, with or without bells and flashing red lights with bells and gates.

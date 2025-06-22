@@ -1,0 +1,2 @@
+## 7.2- Coupling and Uncoupling
+Knowing how to couple and uncouple correctly is basic to safe operation of doubles and triples. Wrong coupling and uncoupling can be very dangerous. Coupling and uncoupling steps for doubles and triples are listed below.

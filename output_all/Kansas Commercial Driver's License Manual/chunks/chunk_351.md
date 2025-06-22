@@ -1,0 +1,24 @@
+## 9.7.3 - Fires
+You might have to control minor truck fires on the road. However, unless you have the training and equipment to do so safely, don't fight hazardous materials fires. Dealing with hazardous materials fires requires special training and protective gear.
+When you discover a fire, call for help. You may use the fire extinguisher to keep minor truck fires from spreading to cargo before firefighters arrive. Feel trailer doors to see if they are hot before opening them. If hot, you may have a cargo fire and should not open the doors. Opening doors lets air in and may make the fire flare up. Without air, many fires only smolder until firemen arrive, doing less damage. If your cargo is already on fire, it is not safe to fight the fire. Keep the shipping papers with you to give to emergency personnel as soon as they arrive. Warn other people of the danger and keep them away.
+If you discover a cargo leak, identify the hazardous materials leaking by using shipping papers, labels, or package location. Do not touch any leaking material -- many people injure themselves by touching hazardous materials. Do not try to identify the material or find the source of a leak by smell. Toxic gases can destroy your sense of smell and can injure or kill you even if they don't smell. Never eat, drink, or smoke around a leak or spill.
+If hazardous materials are spilling from your vehicle, do not move it any more than safety requires. You may move off the road and away from places where people gather, if doing so serves safety. Only move your vehicle if you can do so without danger to yourself or others.
+Never continue driving with hazardous materials leaking from your vehicle in order to find a phone, truck stop, help, or similar reason. Remember, the carrier pays for the cleanup of contaminated parking lots,
+172
+roadways, and drainage ditches. The costs are enormous, so don't leave a lengthy trail of contamination. If hazardous materials are spilling from your vehicle:
+· Park it.
+· Secure the area.
+· Stay there.
+· Call for help or send someone else for help.
+· When sending someone for help, give that person:
+· A description of the emergency.
+· Your exact location and direction of travel.
+· Your name, the carrier's name, and the name of the community or city where your terminal is located.
+· The proper shipping name, hazard class, and identification number of the hazardous materials, if you know them.
+This is a lot for someone to remember. It is a good idea to write it all down for the person you send for help. The emergency response team must know these things to find you and to handle the emergency. They may have to travel miles to get to you. This information will help them to bring the right equipment the first time, without having to go back for it.
+Never move your vehicle, if doing so will cause contamination or damage the vehicle. Keep upwind and away from roadside rests, truck stops, cafes, and businesses. Never try to repack leaking containers. Unless you have the training and equipment to repair leaks safely, don't try it. Call your dispatcher or supervisor for instructions and, if needed, emergency personnel.
+9.7.4 - Responses to Specific Hazards
+Class 1 (Explosives). If your vehicle has a breakdown or accident while carrying explosives, warn others of the danger. Keep bystanders away. Do not allow smoking or open fire near the vehicle. If there is a fire, warn every one of the danger of explosion. Remove all explosives before separating vehicles involved in a collision. Place the explosives at least 200 feet from the vehicles and occupied buildings. Stay a safe distance away.
+Class 2 (Compressed Gases). If compressed gas is leaking from your vehicle, warn others of the danger. Only permit those involved in removing the hazard or wreckage to get close. You must notify the shipper if compressed gas is involved in any accident. Unless you are fueling machinery used in road construction or maintenance, do not transfer a flammable compressed gas from one tank to another on any public roadway.
+Class 3 (Flammable Liquids). If you are transporting a flammable liquid and have an accident or your vehicle breaks down, prevent bystanders from gathering. Warn people of the danger. Keep them from smoking. Never transport a leaking cargo tank farther than needed to reach a safe place. Get off the roadway if you can do so safely. Don't transfer flammable liquid from one vehicle to another on a public roadway except in an emergency.
+Class 4 (Flammable Solids) and Class 5 (Oxidizing Materials). If a flammable solid or oxidizing material spills, warn others of the fire hazard. Do not open smoldering packages of flammable solids. Remove them from the vehicle if you can safely do so. Also, remove unbroken packages if it will decrease the fire hazard.

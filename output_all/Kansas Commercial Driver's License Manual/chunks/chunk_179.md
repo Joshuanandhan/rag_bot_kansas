@@ -1,0 +1,2 @@
+## 4.1 - Vehicle Inspection
+Before driving your bus, you must be sure it is safe. You must review the inspection report made by the previous driver. Only if defects reported earlier have been certified as repaired or not needed to be repaired, should you sign the previous driver's report. This is your certification that the defects reported earlier have been fixed.

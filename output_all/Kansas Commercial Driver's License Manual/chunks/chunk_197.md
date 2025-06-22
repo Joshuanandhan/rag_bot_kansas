@@ -1,0 +1,2 @@
+## 4.6 - Use of Brake-door Interlocks
+Urban mass transit coaches may have a brake and accelerator interlock system. The interlock applies the brakes and holds the throttle in idle position when the rear door is open. The interlock releases when you close the rear door. Do not use this safety feature in place of the parking brake.

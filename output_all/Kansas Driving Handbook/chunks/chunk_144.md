@@ -1,0 +1,2 @@
+## Accelerating
+Sometimes it is best or necessary to accelerate to avoid a collision. This may happen when another vehicle is about to hit you from the side or from behind and there is room to the front of your vehicle to get out of danger. Be sure to slow down once the danger has passed.

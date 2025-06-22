@@ -1,0 +1,4 @@
+## 10.4 - Railroad-highway Crossings
+## 10.4.1 - Types of Crossings
+Passive Crossings. This type of crossing does not have any type of traffic control device. You must stop at these crossings and follow proper procedures. However, the decision to proceed rests entirely in your hands. Passive crossings require you to recognize the crossing, search for any train using the tracks and decide if there is sufficient clear space to cross safely. Passive crossings have yellow circular advance warning signs, pavement markings and cross-bucks to assist you in recognizing a crossing.
+Active Crossings. This type of crossing has a traffic control device installed at the crossing to regulate traffic at the crossing. These active devices include flashing red lights, with or without bells and flashing red lights with bells and gates.

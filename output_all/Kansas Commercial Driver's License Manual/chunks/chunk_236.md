@@ -1,0 +1,6 @@
+## 6.1.3 - Brake Early
+Control your speed whether fully loaded or empty. Large combination vehicles take longer to stop when they are empty than when they are fully loaded. When lightly loaded, the very stiff suspension springs and strong brakes give poor traction and make it very easy to lock up the wheels. Your trailer can swing
+out and strike other vehicles. Your tractor can jackknife very quickly. You also must be very careful about driving "bobtail" tractors (tractors without semitrailers). Tests have shown that bobtails can be very hard to stop smoothly. It takes them longer to stop than a tractor-semitrailer loaded to maximum gross weight.
+In any combination rig, allow lots of following distance and look far ahead, so you can brake early. Don't be caught by surprise and have to make a "panic" stop.
+![INFLUENCE OF COMBINATION TYPE ON REARWARD AMPLIFICATION 1.0 1.5 2.0 2.5 3.0 3.5 4.0 .5 axle tractor semitrailer with 45 ft. .3 axle tractor semitrailer with 27 ft. . Turnpike double 45 ft. trailers .B-train double 27 ft. trailers .Rocky mountain double - 45 ft. *California truck full trailer ·65 ft. conventional double - 27 ft. . Triple 27 ft. trailers I]()
+_Figure 6.1_

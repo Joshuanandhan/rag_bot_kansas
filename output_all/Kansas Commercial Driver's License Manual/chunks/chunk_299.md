@@ -1,0 +1,2 @@
+## 8.2.3 - Bulkheads
+Some liquid tanks are divided into several smaller tanks by bulkheads. When loading and unloading the smaller tanks, the driver must pay attention to weight distribution. Don't put too much weight on the front or rear of the vehicle.

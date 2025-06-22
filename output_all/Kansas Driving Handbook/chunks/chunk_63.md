@@ -1,0 +1,2 @@
+## Other Impairing Drugs and Driving:
+Besides alcohol there are many other drugs that can affect your ability to drive safely. These drugs can have effects like those of alcohol or even worse. This is true of many prescription drugs and even many of the drugs you can buy over the counter, without a prescription.

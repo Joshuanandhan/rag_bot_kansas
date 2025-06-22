@@ -1,0 +1,2 @@
+## 9.5.4 - Compressed Gas
+Keep liquid discharge valves on a compressed gas tank closed except when loading and unloading. Unless your engine runs a pump for product transfer, turn it off when loading or unloading. If you use the engine, turn it off after product transfer, before you unhook the hose. Unhook all loading/unloading connections before coupling, uncoupling, or moving a cargo tank. Always chock trailers and semi-trailers to prevent motion when uncoupled from the power unit.

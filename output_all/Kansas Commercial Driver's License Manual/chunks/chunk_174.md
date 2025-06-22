@@ -1,0 +1,2 @@
+## 3.4.3 - Livestock
+Livestock can move around in a trailer, causing unsafe handling. With less than a full load, use false bulkheads to keep livestock bunched together. Even when bunched, special care is necessary because livestock can lean on curves. This shifts the center of gravity and makes rollover more likely.

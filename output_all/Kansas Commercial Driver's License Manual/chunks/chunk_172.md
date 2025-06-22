@@ -1,0 +1,2 @@
+## 3.4.1 - Dry Bulk
+Dry bulk tanks require special care because they have a high center of gravity, and the load can shift. Be extremely cautious (slow and careful) going around curves and making sharp turns.

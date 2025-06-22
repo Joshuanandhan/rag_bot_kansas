@@ -1,0 +1,2 @@
+## Engine Seizure
+When the engine locks or freezes it is usually low on oil. The engine's moving parts can't move smoothly against each other, and the engine overheats. The first sign may be a loss of engine power or a change in the engine's sound. Squeeze the clutch lever to disengage the engine from the rear wheel. Pull off the road and stop. Check the oil. If needed, oil should be added as soon as possible, or the engine will seize. When this happens, the effect is the same as a locked rear wheel. Let the engine cool before restarting.

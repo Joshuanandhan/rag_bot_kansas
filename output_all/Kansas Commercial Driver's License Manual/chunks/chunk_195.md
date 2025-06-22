@@ -1,0 +1,3 @@
+## 4.4 - After-trip Vehicle Inspection
+Inspect your bus at the end of each shift. If you work for an interstate carrier, you must complete a written inspection report for each bus driven. The report must specify each bus and list any defect that would affect safety or result in a breakdown. If there are no defects, the report should say so.
+Riders sometimes damage safety-related parts such as handholds, seats, emergency exits, and windows. If you report this damage at the end of a shift, mechanics can make repairs before the bus goes out again. Mass transit drivers should also make sure passenger signaling devices and brake-door interlocks work properly.

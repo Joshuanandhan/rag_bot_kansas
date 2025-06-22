@@ -1,0 +1,5 @@
+## Keep in mind:
+· When you meet a truck coming from the opposite direction, keep as far as possible to the right side of the roadway to avoid a side swept crash and to reduce the wind turbulence between the two vehicles, which pushes the vehicles apart.
+· Many collisions with large vehicles occur at intersections because motorists are unable to judge accurately the speed of a truck approaching before making a left turn. When in doubt about the speed of an oncoming truck or bus, do not turn left in its path. The truck or bus may be going faster than you think and it takes longer for them to stop than a car.
+· Many intersections are marked with stop lines to show where you must come to a complete stop. These stop lines help to set you farther back at an intersection to give larger vehicles more turning space. Always stop behind stop lines.
+· Do not cut off a large vehicle in traffic or on the highway to reach an exit or turn or to beat a truck into a single-lane construction zone. The few seconds that might be saved are not worth a life.

@@ -1,0 +1,3 @@
+## 11.6.1 - Class A Vehicle Inspection Test
+If you are applying for a Class A CDL, you will be required to perform one of the four versions of a Vehicle inspection in the vehicle you have brought with you for testing. Each of the four tests are equivalent and you will not know which test you will take until just before the testing begins.
+All of the tests include an engine start, an in-cab-inspection, and an inspection of the coupling system. Then, your test may require an inspection of the entire vehicle or only a portion of the vehicle which your CDL Examiner will explain to you.

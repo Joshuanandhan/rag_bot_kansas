@@ -1,0 +1,2 @@
+## Headlight
+The best way to help others see your motorcycle is to keep the headlight on - always. Studies show that, during the day, a motorcycle with its light on is twice as likely to be noticed. Use low beam at night and in fog.

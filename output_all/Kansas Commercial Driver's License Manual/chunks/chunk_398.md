@@ -1,0 +1,3 @@
+## Heater/Defroster Test that the heater and defroster work.
+## Parking Brake Check
+With air pressure built to governor cutout and the parking brake engaged (trailer brakes released on combination vehicles), check that the parking brake will hold vehicle by gently trying to pull forward with parking brake on. With air pressure built to governor cutout, the parking brake released and the trailer parking brake engaged (combination vehicles only), check that the trailer parking brake will hold vehicle by gently trying to pull forward with the trailer parking brake on.

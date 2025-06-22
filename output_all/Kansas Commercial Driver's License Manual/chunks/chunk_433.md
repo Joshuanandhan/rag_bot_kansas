@@ -1,0 +1,2 @@
+## 12.2.4 - Parallel Park (Driver Side)
+You may be asked to park in a parallel parking space that is on your left. You are to drive past the entrance to the parallel parking space with your vehicle parallel to the parking area; and back into the space without crossing front, side or rear boundaries marked by cones. You are required to get your entire vehicle completely into the space. (See Figure 12.4)

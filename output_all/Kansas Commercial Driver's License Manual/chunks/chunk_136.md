@@ -1,0 +1,6 @@
+## 2.17.2 - How to Stop Quickly and Safely
+If somebody suddenly pulls out in front of you, your natural response is to hit the brakes. This is a good response if there's enough distance to stop, and you use the brakes correctly.
+You should brake in a way that will keep your vehicle in a straight line and allow you to turn if it becomes necessary. You can use the "controlled braking" method or the "stab braking" method.
+Controlled Braking. With this method, you apply the brakes as hard as you can without locking the wheels. Keep steering wheel movements very small while doing this. If you need to make a larger steering adjustment or if the wheels lock, release the brakes. Re-apply the brakes as soon as you can.
+Stab Braking. With this method, you apply your brakes all the way and release brakes when wheels lock up. As soon as the wheels start rolling, apply the brakes fully again. (It can take up to one second for the wheels to start rolling after you release the brakes. If you re-apply the brakes before the wheels start rolling, the vehicle won't straighten out.)
+Don't Jam on the Brakes. Emergency braking does not mean pushing down on the brake pedal as hard as you can. That will only keep the wheels locked up and cause a skid. If the wheels are skidding, you cannot control the vehicle.

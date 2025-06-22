@@ -1,0 +1,2 @@
+## 7.1.8 - Antilock Braking Systems on Converter Dollies
+Converter dollies built on or after March 1, 1998, are required to have antilock brakes. These dollies will have a yellow lamp on the left side of the dolly.

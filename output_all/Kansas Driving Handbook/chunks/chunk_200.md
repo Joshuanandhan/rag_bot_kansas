@@ -1,0 +1,2 @@
+## Lane Changes:
+· During multiple lane portions of the test, you will be asked to change lanes to the left, and then back to the right. You should make the necessary traffic checks first by looking in your mirrors and checking your blind spots by looking over your shoulder (head check). Make sure you use the correct turn signal and smoothly change lanes when it is safe to do so. Cancel your turn signal upon completion and check traffic.

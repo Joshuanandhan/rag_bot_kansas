@@ -1,0 +1,2 @@
+## Traffic Signs:
+· During the road test you will be asked to identify several traffic signs. They can be located anywhere on the road test. If the examiner asks you what road sign you just passed, you should be able to tell the examiner.

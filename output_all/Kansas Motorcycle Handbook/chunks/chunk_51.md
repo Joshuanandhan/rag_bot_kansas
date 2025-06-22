@@ -1,0 +1,2 @@
+## Flying Objects
+From time-to-time riders are struck by insects, cigarettes thrown from cars or pebbles kicked up by the tires of the vehicle ahead. If you are wearing face protection, it might get smeared or cracked, making it difficult to see. Without face protection, an object could hit you in the eye, face or mouth. Whatever happens, keep your eyes on the road and your hands on the handlebars. When safe, pull off the road and repair the damage.

@@ -1,0 +1,3 @@
+## Enhanced Mirror Settings
+· After the seat is properly adjusted and you are seated in an upright position, adjust the left/right side view mirror by leaning your head to the left/right until it touches the driver side window/center of vehicle, about five inches so that the rear fender is just visible on the right/left edge of the mirror about a half inch up from the bottom.
+· ** Note: You will not see the left and right sides of the vehicle when glancing at the outside mirrors; however, this adjustment adds 12 to 16 degrees additional viewing area to each side of the vehicle. This setting may not work on all vehicles and therefore the traditional mirror setting may be appropriate.

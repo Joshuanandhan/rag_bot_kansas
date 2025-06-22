@@ -1,0 +1,2 @@
+## Avoiding Collisions
+When it looks like a collision may happen, many drivers panic and fail to act. In some cases, they do act, but they do something that does not help to reduce the chance of the collision. There usually is something you can do to avoid the crash or reduce the impact of the crash. In avoiding a collision, you have three options: brake, steer or accelerate.

@@ -1,0 +1,2 @@
+## "U" TURNS (K.S.A. 8-1546)
+Do not make a "U" turn on a curve, near the top of a hill or anywhere you cannot be seen by other drivers for at least 500 feet. Obey local ordinances and regulatory signs regarding such turns.

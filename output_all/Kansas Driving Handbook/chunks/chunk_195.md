@@ -1,0 +1,4 @@
+## Road Test
+You will drive over a test route that may have a variety of traffic situations. You will follow the directions of the examiner. Directions will be given to you so you will have plenty of time to do what the examiner has asked. You will not be asked to drive in an unsafe manner. At all times during the test, you must drive safe and responsibly. During the driving test, the examiner will be scoring you on specific driving maneuvers as well as on your general driving behavior.
+With a parent/guardian or friend, who is properly licensed and over the age of 21, practice driving in low traveled, residential areas until you are confident you can drive in other types of traffic situations, such as urban areas and expressways. All new drivers are encouraged to take a driver's education course as driving is a complicated task.
+How You Will Be Tested

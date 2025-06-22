@@ -1,0 +1,6 @@
+## Police/Traffic Stops
+· If you are pulled over by law enforcement, move to the right side of the roadway and position your vehicle as far out of the way of traffic as possible, where it is safe for both you and the police officer.
+· Turn off your engine, radio, CD player or any other device that might interfere with communicating with the officer. Turn on your hazard flashers and if at night your interior lights to help the officer see that everything is in order inside the vehicle. Roll down your window so that you and the officer can communicate.
+· Remain calm and keep your safety belt fastened. Ask your passenger(s) to do so as well. Keep your hands on the steering wheel and limit movements so the officer does not think you are hiding or searching for something.
+· When requested, locate, and provide your Driver's License, proof of insurance and/or vehicle registration. If the officer asks you for these documents, tell the officer where they are located and reach for them slowly with one hand on the wheel. Answer the officer's questions fully and clearly. Remain in the vehicle unless requested to get out.
+· Never run from law enforcement. It is very dangerous, and many fatal crashes occur from police chases. The consequences of running from law enforcement are more severe than the initial traffic citation.

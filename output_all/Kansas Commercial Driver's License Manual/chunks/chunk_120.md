@@ -1,0 +1,13 @@
+## 2.13.2 - Driving
+Slippery Surfaces. Drive slowly and smoothly on slippery roads. If it is very slippery, you shouldn't drive at all. Stop at the first safe place.
+Start Gently and Slowly. When first starting, get the feel of the road. Don't hurry.
+Check for Ice. Check for ice on the road, especially bridges and overpasses. A lack of spray from other vehicles indicates ice has formed on the road. Also, check your mirrors and wiper blades for ice. If they have ice, the road most likely will be icy as well.
+Adjust Turning and Braking to Conditions. Make turns as gently as possible. Don't brake any harder than necessary, and don't use the engine brake or speed retarder. (They can cause the driving wheels to skid on slippery surfaces.)
+Adjust Speed to Conditions. Don't pass slower vehicles unless necessary. Go slowly and watch far enough ahead to keep a steady speed. Avoid having to slow down and speed up. Take curves at slower speeds and don't brake while in curves. Be aware that as the temperature rises to the point where ice begins to melt, the road becomes even more slippery. Slow down more.
+Adjust Space to Conditions. Don't drive alongside other vehicles. Keep a longer following distance. When you see a traffic jam ahead, slow down or stop to wait for it to clear. Try hard to anticipate stops early and slow down gradually. Watch for snowplows, as well as salt and sand trucks, and give them plenty of room.
+Wet Brakes. When driving in heavy rain or deep standing water, your brakes will get wet. Water in the brakes can cause the brakes to be weak, to apply unevenly, or to grab. This can cause lack of braking power, wheel lockups, pulling to one side or the other, and jackknife if you pull a trailer. Avoid driving through deep puddles or flowing water if possible. If not, you should:
+1. Slow down and place transmission in a low gear.
+2. Gently put on the brakes. This presses linings against brake drums or discs and keeps mud, silt, sand, and water from getting in.
+3. Increase engine rpm and cross the water while keeping light pressure on the brakes.
+4. When out of the water, maintain light pressure on the brakes for a short distance to heat them up and dry them out.
+5. Make a test stop when safe to do so. Check behind to make sure no one is following, then apply the brakes to be sure they work well. If not, dry them out further as described above. (CAUTION: Do not apply too much brake pressure and accelerator at the same time, or you can overheat brake drums and linings.

@@ -1,0 +1,2 @@
+## 5.1.9 - Supply Pressure Gauges
+All vehicles with air brakes have a pressure gauge connected to the air tank. If the vehicle has a dual air brake system, there will be a gauge for each half of the system. (Or a single gauge with two needles.) Dual systems will be discussed later. These gauges tell you how much pressure is in the air tanks.

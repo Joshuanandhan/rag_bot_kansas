@@ -1,0 +1,2 @@
+## Keep the Group Small
+Small groups make it easier and safer for car drivers who need to get around them. A small number isn't separated as easily by traffic or red lights. Riders won't always be hurrying to catch up. If your group is larger than four or five riders, divide it up into two or more smaller groups.

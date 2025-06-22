@@ -1,0 +1,2 @@
+## SIGNALING FOR STOPS AND TURNS (K.S.A. 8-1548)
+Before you slow down, turn, or change lanes, make sure that you can do so safely. Let other drivers, cyclists and pedestrians know what you intend to do by giving the proper signal. All signals must be given at least 100 feet before making the actual move or turn. Signals should be held until you are ready to make the actual turn. If you are driving a vehicle required to have turn signals, then you must signal your intentions to turn with your electric turn signals.

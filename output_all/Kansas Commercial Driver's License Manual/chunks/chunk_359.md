@@ -1,0 +1,2 @@
+## 10.1.1 - Danger Zones
+The danger zone is the area on all sides of the bus where children are in the most danger of being hit, either by another vehicle or their own bus. The danger zones may extend as much as 30 feet from the front bumper with the first 10 feet being the most dangerous, 10 feet from the left and right sides of the bus and 10 feet behind the rear bumper of the school bus. In addition, the area to the left of the bus is always considered dangerous because of passing cars. Figure 10.1 illustrates these danger zones.

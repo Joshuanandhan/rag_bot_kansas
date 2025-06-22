@@ -1,0 +1,3 @@
+## Alcohol and Other Impairing Drugs
+Never drink alcohol while you are taking other drugs. These drugs could multiply the effects of alcohol or have additional effects of their own. These effects not only reduce your ability to be a safe driver but could cause serious health problems, even death.
+You cannot drink alcohol or use other impairing drugs and operate a vehicle safely, even if you are an experienced driver. You should never drink alcohol or use other impairing drugs and drive. It is not only unsafe and irresponsible; it is also illegal.

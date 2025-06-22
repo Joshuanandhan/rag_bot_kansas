@@ -1,0 +1,3 @@
+## 5.1.5 - Alcohol Evaporator
+Some air brake systems have an alcohol evaporator to put alcohol into the air system. This helps to reduce the risk of ice in air brake valves and other parts during cold weather. Ice inside the system can make the brakes stop working.
+Check the alcohol container and fill up as necessary, every day during cold weather. Daily air tank drainage is still needed to get rid of water and oil. (Unless the system has automatic drain valves.)
