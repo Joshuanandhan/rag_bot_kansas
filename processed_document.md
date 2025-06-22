@@ -1,0 +1,1455 @@
+# Kansas Motorcycle Handbook
+
+![Image](https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/23ab1753-7638-4e6b-96cf-e9f65c7d62e9/images/e82a433c-b75c-4316-8782-28cee30ff48a.jpg?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T113251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=608d759c00012db9388d3c5e0cc27ac5e5ea44a44223bcbcad45fdad5b67ddbf)
+
+Operating a motorcycle safely in traffic requires special skills and knowledge. The Motorcycle Safety Foundation (MSF) has made this manual available to help novice motorcyclists reduce their risk of having a crash. The manual conveys essential safe riding information and has been designed for use in licensing programs. While designed for the novice, all motorcyclists can benefit from the information this manual contains.
+
+The original Motorcycle Operator Manual was developed by the National Public Services Research Institute (NPSRI) under contract to the National Highway Traffic Safety Administration (NHTSA) and within the terms of a cooperative agreement between NHTSA and the MSF. The manual and related tests were used in a multi-year study of improved motorcycle operator licensing procedures, conducted by the California Department of Motor Vehicles under contract to NHTSA.
+
+The purpose of this manual is to educate the reader to help avoid crashes while safely operating a motorcycle. For this edition, the MSF has updated and expanded the content of the original manual.
+
+These revisions reflect:
+
+·
+
+The latest finding of motorcycle safety research.
+
+· Comments and guidance provided by the motorcycling, licensing and traffic safety communities. Expanded alcohol and drug information. ·
+
+In promoting improved licensing programs, the MSF works closely with state licensing agencies. The Foundation has helped more than half the states in the nation adopt the Motorcycle Operator Manual for use in their licensing systems.
+
+Improved licensing, along with high-quality motorcycle rider education and increased public awareness, has the potential to reduce crashes. Staff at the Foundation are available to assist state, private and governmental agencies in efforts to improve motorcycle safety.
+
+Tai Buche
+
+Tim Buche President, Motorcycle Safety Foundation
+
+![Image](https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/23ab1753-7638-4e6b-96cf-e9f65c7d62e9/images/b8f75766-d643-4e76-985d-f2d9d9915139.jpg?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T113251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=78e2f27a5da22d5542d7372d6ca7f4bb7025261dc5f7a6d44c896a1780c2a601)
+
+2 Jenner Street, Suite 150 Irvine, CA 92618-3806 www.msf-usa.org
+
+| Topic                                      | Page |
+|-------------------------------------------|------|
+| Appointment Scheduling                   | 6    |
+| Preparing to Ride                         | 7    |
+| Wear the Right Gear                       | 7    |
+| Helmet Use                               | 7    |
+| Helmet Selection                          | 8    |
+| Eye and Face Protection                   | 8    |
+| For those under 18                       | 8    |
+| Clothing                                  | 9    |
+| Know Your Motorcycle                      | 9    |
+| The Right Motorcycle for You              | 9    |
+| Borrowing and Lending                     | 10   |
+| Get Familiar with the Motorcycle Controls | 10   |
+| Check your Motorcycle                     | 11   |
+| Know Your Responsibilities                | 12   |
+| Ride Within Your Abilities                 | 13   |
+| Basic Vehicle Control                     | 13   |
+| Body Position                             | 13   |
+| Shifting Gears                            | 14   |
+| Braking                                   | 14   |
+| Turning                                   | 15   |
+| Keeping Your Distance                     | 16   |
+| Lane Positions                            | 16   |
+| Following Another Vehicle                 | 17   |
+| Being Followed                           | 18   |
+| Passing and Being Passed                 | 18   |
+| Passing                                   | 18   |
+| Being Passed                             | 19   |
+| Lane Sharing                             | 20   |
+| Merging Cars                             | 20   |
+| Cars Alongside                           | 20   |
+| See                                       | 21   |
+| Search                                    | 21   |
+| Evaluate                                  | 21   |
+| Execute                                   | 22   |
+| Intersections                             | 22   |
+
+| | |
+|---|---|
+| Blind Intersections | 23 |
+| Passing Parked Cars | 23 |
+| Parking at the Roadside | 23 |
+| Increasing Conspicuity | 24 |
+| Clothing | 24 |
+| Headlight | 24 |
+| Signals | 25 |
+| Brake Light | 25 |
+| Using Your Mirrors | 25 |
+| Head Checks | 26 |
+| Horn | 26 |
+| Riding at Night | 27 |
+| Crash Avoidance | 27 |
+| Quick Stops | 28 |
+| Swerving or Turning Quickly | 28 |
+| Cornering | 29 |
+| Handling Dangerous Surfaces | 30 |
+| Uneven surfaces and Obstacles | 30 |
+| Slippery Surfaces | 30 |
+| Railroad Tracks, Trolley Tracks, and Pavement Seams | 31 |
+| Mechanical Problems | 32 |
+| Tire Failure | 32 |
+| Stuck Throttle | 33 |
+| Wobble | 33 |
+| Chain Problems | 34 |
+| Engine Seizure | 34 |
+| Animals | 34 |
+| Flying Objects | 34 |
+| Getting Off the Road | 35 |
+| Carrying Cargo and Passengers | 35 |
+| Passengers | 35 |
+| Riding with Passengers | 35 |
+| Instructing Passengers | 35 |
+| Equipment | 36 |
+| Carrying Loads | 36 |
+| Group Riding | 36 |
+
+| Topic | Page |
+|---|---|
+| Keep the Group Small | 37 |
+| Keep the Group Together | 37 |
+| Keep Your Distance | 37 |
+| Staggered Formation | 38 |
+| Single-File Formation | 38 |
+| Being in Shape to Ride | 39 |
+| Why this Information is Important | 39 |
+| Alcohol and other Drugs | 39 |
+| Alcohol in the Body | 39 |
+| Blood Alcohol Concentration | 40 |
+| Alcohol and the Law | 41 |
+| Consequences of Conviction | 41 |
+| Minimize the Risk | 41 |
+| Don't Drink | 41 |
+| Step in to Protect Friends | 42 |
+| Fatigue | 42 |
+| Kansas Statutes | 43 |
+| Definitions | 43 |
+| Three-Wheeled Motorcycle | 43 |
+| Moped | 43 |
+| Earning Your License | 43 |
+| Knowledge Test- Sample Questions | 44 |
+| Answers to Sample Questions | 44 |
+| Motorcycles Make Sense- So Does Professional Training | 45 |
+
+Appointment Scheduling Appointments are recommended when visiting the driver's license office. Please visit https://www.ksrevenue.org/DOVAppointmentInfo/ for information on scheduling with your local
+
+![Image](https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/23ab1753-7638-4e6b-96cf-e9f65c7d62e9/images/689291c0-4efe-4648-a39c-dc83e34de0c6.jpg?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T113251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a7374e2f0a1d47a1b4fe66d32bf4f08e4f64d0a8aeeda8ef6268b7338227b070)
+
+## Preparing to Ride
+
+What you do before you start a trip goes a long way toward determining whether you'll get where you want to go safely.
+
+Before taking off on any trip, a safe rider makes a point to:
+
+1. Wear the right gear
+
+2. Become familiar with the motorcycle
+
+3. Check the motorcycle equipment
+
+4. Be a responsible rider
+
+## Wear the Right Gear
+
+When you ride, your gear is "right" if it protects you. In any crash, you have a far better chance of avoiding serious injury if you wear:
+
+1. An approved helmet
+
+2. Face or eye protection
+
+3. Protective clothing
+
+## Helmet Use
+
+Crashes can occur- particularly among untrained, beginning riders. One out of every five motorcycle crashes result in head or neck injuries. Head injuries are just as severe as neck injuries - and are far more common. Crash analyses show that head and neck injuries account for a majority of serious and fatal injuries to motorcyclists. Research also shows that, with few exceptions, head and neck injuries are reduced by properly wearing an approved helmet.
+
+Some riders don't wear helmets because they think helmets will limit their view to the sides. Others wear helmets only on long trips or when riding at high speeds.
+
+Here are some facts to consider:
+
+1. An approved helmet lets you see as far to the sides as necessary. A study of more than 900 motorcycle crashes, where 40% of the riders wore helmets, did not find even one case in which a helmet kept a rider from spotting danger.
+
+2. Most crashes happen on short trips (less than five miles long), just a few minutes after starting.
+
+3. Most riders are riding slower than 30 mph when a crash occurs. At these speeds, helmets can cut both the number and the severity of head injuries by half.
+
+No matter what the speed, helmeted riders are three times more likely to survive head injuries than those not wearing helmets at the time of the crash.
+
+## Helmet Selection
+
+There are two primary types of helmets, providing two different levels of coverage: three-quarter and full face.
+
+Whichever style you choose, you can get the most protection by making sure that the helmet:
+
+1. Meets U.S. Department of Transportation (DOT) and state standards. Helmets with a label from the Snell Memorial Foundation give you an added assurance of quality.
+
+2. Fits snugly, all the way around.
+
+3. Has no obvious defects such as cracks, loose padding or frayed straps.
+
+Whatever helmet you decide on, keep it securely fastened on your head when you ride. Otherwise, if you are involved in a crash, it's likely to fly off your head before it gets a chance to protect you.
+
+K.S.A. 8-1598. Operation of motorcycles; equipment required for operators and riders. (a) No person under the age of 18 years shall operate or ride upon a motorcycle or a motorized bicycle, unless wearing a helmet which complies with minimum guidelines established by the national highway traffic safety administration pursuant to the national traffic and motor vehicle safety act of 1966 for helmets designed for use by motorcyclists and other motor vehicle users.
+
+## Eye and Face Protection
+
+A plastic shatter-resistant face shield can help protect your whole face in a crash. It also protects you from wind, dust, dirt, rain, insects and pebbles thrown up from cars ahead. These problems are distracting and can be painful. If you must deal with them, you can't devote your full attention to the road.
+
+Goggles protect your eyes, though they won't protect the rest of your face like a face shield does. A windshield is not a substitute for a face shield or goggles. Most windshields will not protect your eyes from the wind. Neither will eyeglasses or sunglasses. Glasses won't keep your eyes from watering, and they might blow off when you turn your head while riding.
+
+To be effective, eye or face shield protection must:
+
+1. Be free of scratches.
+
+2. Be resistant to penetration.
+
+3. Give a clear view to either side.
+
+4. Fasten securely, so it does not blow off.
+
+5. Permit air to pass through, to reduce fogging.
+
+6. Permit enough room for eyeglasses or sunglasses, if needed.
+
+Tinted eye protection should not be worn at night or any other time when little light is available.
+
+For those under 18
+
+(2) No person under the age of 18 years shall ride as a passenger on a motorcycle unless such person is wearing an eye-protective device which shall consist of protective glasses, goggles or transparent face shields which are shatter proof and impact resistant.
+
+K.S.A. 8-1598. (b) No person shall allow or permit any person under the age of 18 years to: (1) Operate a motorcycle or motorized bicycle or to ride as a passenger upon a motorcycle or motorized bicycle without being in compliance with the provisions of subsection (a); or (2) operate a motorcycle or to ride as a passenger upon a motorcycle without being in compliance with the provisions of subsection (c).
+
+(c) (1) No person shall operate a motorcycle unless such person is wearing an eye-protective device which shall consist of protective glasses, goggles or transparent face shields which are shatter proof and impact resistant, except when the motorcycle is equipped with a windscreen which has a minimum height of 10 inches measured from the center of the handlebars.
+
+## Clothing
+
+The right clothing protects you in a collision. It also provides comfort, as well as protection from heat, cold, debris and hot and moving parts of the motorcycle.
+
+Jacket and pants should cover arms and legs completely. They should fit snugly enough to keep from flapping in the wind, yet loosely enough to allow the operator to move freely. Leather offers the most protection. Sturdy synthetic material provides a lot of protection as well.
+
+Wear a jacket even in warm weather to prevent dehydration. Many are designed to protect without getting you overheated, even on summer days.
+
+Boots or shoes should be high and sturdy enough to cover your ankles and give them support. Soles should be made of hard, durable, slip-resistant material. Keep heels short so they do not catch on rough surfaces. Tuck in laces so they won't catch on your motorcycle.
+
+Gloves allow a better grip and help protect your hands in a crash. Your gloves should be made of leather or similar durable material.
+
+In cold or wet weather, your clothes should keep you warm and dry, as well as protect you from injury. You cannot control a motorcycle well if you are numb. Riding for long periods in cold weather can cause severe chill and fatigue. A winter jacket should resist wind and fit snugly at the neck, wrists and waist. Good-quality rain suits designed for motorcycle riding resist tearing apart or ballooning up at high speeds.
+
+## Know Your Motorcycle
+
+There are plenty of things on the highway that can cause you trouble. Your motorcycle should not be one of them. To make sure that your motorcycle won't let you down:
+
+1. Read the owner's manual first.
+
+2. Start with the right motorcycle for you.
+
+3. Be familiar with the motorcycle controls.
+
+4. Check the motorcycle before every ride.
+
+5. Keep it in safe riding condition between rides.
+
+6. Avoid add-ons and modifications that make your motorcycle harder to handle.
+
+## The Right Motorcycle for You
+
+First, make sure your motorcycle is right for you. It should "fit" you. Your feet should reach the ground while you are seated on the motorcycle.
+
+At minimum, your street-legal motorcycle should have:
+
+1. Headlight, taillight and brake light
+
+2. Front and rear brakes
+
+3. Turn signals
+
+4. Horn
+
+5. Two mirrors
+
+## Test Your Knowledge
+
+Select the alternative (a, b, c, or d) that best answers the question.
+
+I. A plastic shatter-resistant face shield:
+
+a. Is not necessary if you have a windshield
+
+b. Only protects your eyes
+
+c. Helps protect your whole face
+
+d. Does not protect your face as well as goggles
+
+Answer- Page 44
+
+## Borrowing and Lending
+
+Borrowers and lenders of motorcycles, beware. Crashes are common among beginning riders, especially in the first months of riding. Riding an unfamiliar motorcycle adds to the problem. If you borrow a motorcycle, get familiar with it in a controlled area. If you lend your motorcycle, make sure the operator is licensed and knows how to ride before allowing them on the road.
+
+No matter how experienced you may be, ride extra carefully on any motorcycle that's new or unfamiliar to you. More than half of all crashes occur on motorcycles ridden by the operator for less than six months.
+
+Get Familiar with the Motorcycle Controls
+
+Make sure you are completely familiar with the motorcycle before you take it on the street. Be sure to review the owner's manual. This is particularly important if you are riding a borrowed motorcycle.
+
+If you are going to use an unfamiliar motorcycle:
+
+1. Make all the checks you would on your own motorcycle.
+
+2. Find out where everything is, particularly the turn signals, horn, headlight switch, fuel-supply valve and engine cut-off switch. Find and operate these items without having to look for them.
+
+3. Know the gear pattern. Work the throttle, clutch and brakes a few times before you start riding. All controls react a little differently.
+
+4. Ride very cautiously and be aware of surroundings. Accelerate gently, take turns more slowly and leave extra room for stopping.
+
+_MOTORCYCLE CONTROLS_
+
+![Image](https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/23ab1753-7638-4e6b-96cf-e9f65c7d62e9/images/a5880514-c325-4832-9cb9-002c35f9e0e7.jpg?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T113251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=fa4918b10cb85f08c0e83f0e39173f7489e8cce5914979ecbf7d693407bb73fa)
+
+## Check your Motorcycle
+
+A motorcycle needs more frequent attention than a car. A minor technical failure in a car seldom leads to anything more than an inconvenience for the driver.
+
+If something's wrong with the motorcycle, you'll want to find out about it before you get in traffic. Make a complete check of your motorcycle before every ride.
+
+Before mounting the motorcycle, make the following checks:
+
+1. Tires - Check the air pressure, general wear and tread.
+
+2. Fluids - Oil and fluid levels. At a minimum, check hydraulic fluids and coolants weekly. Look under the motorcycle for signs of an oil or gas leak.
+
+3. Headlights and Taillight - Check them both. Test your switch to make sure both high and low beams are working.
+
+4. Turn Signals - Turn on both right and left turn signals. Make sure all lights are working properly.
+
+5. Brake Light - Try both brake controls, and make sure each one turns on the brake light.
+
+Once you have mounted the motorcycle, complete the following checks before starting out:
+
+1. Clutch and Throttle - Make sure they work smoothly. The throttle should snap back when you let go. The clutch should feel tight and smooth.
+
+2. Mirrors - Clean and adjust both mirrors before starting. It's difficult to ride with one hand while you try to adjust a mirror. Adjust each mirror so you can see the lane behind and as much as possible of the lane next to you. When properly adjusted, a mirror may show the edge of your arm or shoulder-but it's the road behind and to the side that's most important.
+
+3. Brakes - Try the front and rear brake levers one at a time. Make sure each one feels firm and holds the motorcycle when the brake is fully applied.
+
+4. Horn - Try the horn. Make sure it works.
+
+5. In addition to the checks, you should make before every trip, check the following items at least once a week: Wheels, cables, fasteners and fluid levels. Follow your owner's manual to get recommendations.
+
+Know Your Responsibilities
+
+"Accident" implies an unforeseen event that occurs without anyone's fault or negligence. Most often in traffic, that is not the case. In fact, most people involved in a crash can usually claim some responsibility for what takes place.
+
+Consider a situation where someone decides to try to squeeze through an intersection on a yellow light turning red. Your light turns green. You pull into the intersection without checking for possible latecomers. That is all it takes for the two of you to tangle. It was the driver's responsibility to stop, and it was your responsibility to look before pulling out. Neither of you held up your end of the deal. Just because someone else is the first to start the chain of events leading to a crash, it doesn't leave any of us free of responsibility.
+
+As a rider you can't be sure that other operators will see you or yield the right of way. To lessen your chances of a crash occurring:
+
+1. Be visible - wear proper clothing, use your headlight, ride in the best lane position to see and be seen.
+
+2. Communicate your intentions - use the proper signals, brake light and lane position.
+
+3. Maintain an adequate space cushion - following, being followed, lane sharing, passing and being passed.
+
+4. Scan your path of travel 12 seconds ahead.
+
+5. Identify and separate multiple hazards.
+
+6. Be prepared to act - remain alert and know how to carry out proper crash-avoidance skills.
+
+Blame doesn't matter when someone is injured in a crash. There is rarely a single cause of any crash. The ability to ride aware, make critical decisions and carry them out separates responsible riders from all the rest. Remember, it is up to you to keep from being the cause of, or an unprepared participant in, any crash.
+
+Ride Within Your Abilities
+
+This manual cannot teach you how to control direction, speed or balance. That's something you can learn only through practice. However, control begins with knowing your abilities and riding within them, along with knowing and obeying the rules of the road.
+
+Basic Vehicle Control
+
+Body Position
+
+To control a motorcycle well:
+
+1. Posture - Sit so you can use your arms to steer the motorcycle rather than to hold yourself up.
+
+2. Seat - Sit far enough forward so that arms are slightly bent when you hold the handle grips. Bending your arms permits you to press on the handlebars without having to stretch.
+
+3. Hands - Hold the handle grips firmly to keep your grip over rough surfaces. Start with your right wrist flat. This will help you keep from accidentally using too much throttle. Also, adjust the handlebars so your hands are even with or below your elbows. This permits you to use the proper muscles for precision steering.
+
+![Image](https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/23ab1753-7638-4e6b-96cf-e9f65c7d62e9/images/5216db99-677a-4204-8cab-98972cd33e96.jpg?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T113251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d0140ad04b76afb0d9089518f2c6be7bd8da236f623ac4d5c0bcc3400b50006c)
+
+4. Knees - Keep your knees against the gas tank to help you keep your balance as the motorcycle turns.
+
+5. Feet - Keep your feet firmly on the footrests to maintain balance. Don't drag your feet. If your foot catches on something, you could be injured and it could affect your control of the motorcycle. Keep your feet near the controls so you can get to them fast if needed. Also, don't let your toes point downward - they may get caught between the road and the footrests.
+
+Shifting Gears
+
+There is more to shifting gears than simply getting the motorcycle to pick up speed smoothly. Learning to use the gears when downshifting, turning or starting on hills is important for safe motorcycle operation.
+
+Shift down through the gears with the clutch as you slow or stop. Remain in first gear while you are stopped so that you can move quickly if you need to.
+
+Make certain you are riding slowly enough when you shift into a lower gear. If not, the motorcycle will lurch, and the rear wheel may skid. When riding downhill or shifting into first gear you may need to use the brakes to slow enough before downshifting safely. Work toward a smooth, even clutch release, especially when downshifting.
+
+It is best to change gears before entering a turn. However, sometimes shifting while in the turn is necessary. If so, remember to do so smoothly. A sudden change in power to the rear wheel can cause a skid.
+
+Braking
+
+Your motorcycle has two brakes: one each for the front and rear wheel. Use both at the same time. The front brake is more powerful and can provide at least three-quarters of your total stopping power. The front brake is safe to use if you use it properly.
+
+Remember:
+
+1. Use both brakes every time you slow or stop. Using both brakes for even "normal" stops will permit you to develop the proper habit or skill of using both brakes properly in an emergency. Squeeze the front brake and press down on the rear. Grabbing at the front brake or jamming down on the rear can cause the brakes to lock, resulting in control problems.
+
+2. If you know the technique, using both brakes in a turn is possible, although it should be done very carefully. When leaning the motorcycle some of the traction is used for cornering. Less traction is available for stopping. A skid can occur if you apply too much brake. Also, using the front brake incorrectly on a slippery surface may be hazardous. Use caution and squeeze the brake lever, never grab.
+
+3. Some motorcycles have integrated braking systems that activate the front and rear brakes together when applying the rear brake pedal. (Consult the owner's manual for a detailed explanation on the operation and effective use of these systems.)
+
+## Turning
+
+Riders often try to take curves or turns too fast. When they can't hold the turn, they end up crossing into another lane of traffic or going off the road. Or, they overreact and brake too hard, causing a skid and loss of control. Approach turns and curves with caution.
+
+Use four steps for better control:
+
+1. SLOW - Reduce speed before the turn by closing the throttle and, if necessary, applying both brakes.
+
+2. LOOK - Look through the turn to where you want to go. Turn just your head, not your shoulders, and keep your eyes level with the horizon.
+
+3. PRESS - To turn, the motorcycle must lean. To lean the motorcycle, press on the handle grip in the direction of the turn. Press left - lean left - go left. Press right - lean right - go right. Higher speeds and/or tighter turns require the motorcycle to lean more.
+
+4. ROLL - Roll on the throttle through the turn to stabilize the suspension. Maintain steady speed or accelerate gradually through the turn. This will help keep the motorcycle stable.
+
+In normal turns, the rider and the motorcycle should lean together at the same angle.
+
+In slow tight turns, counterbalance by leaning the motorcycle only and keeping your body straight.
+
+Normal Turns
+
+Slow, Tight Turns
+
+# Test Your Knowledge
+
+Select the alternative (a, b, c, or d) that best answers the question.
+
+II. More than half of all crashes:
+
+a. Occur at speeds greater than 35 mph
+
+b. Happen at night
+
+c. Are caused by worn tires
+
+d. Involve riders who have been operating their motorcycle less than 6 months
+
+Answer- page 44
+
+Test Your Knowledge
+
+Select the alternative (a, b, c, or d) that best answers the question.
+
+III. When riding you should:
+
+a. Turn you head and shoulders to look through turns
+
+b. Keep your arms straight
+
+c. Keep your knees away from the gas tank
+
+d. Turn just your head and eyes to look where you are going
+
+Answer- Page 44
+
+Keeping Your Distance
+
+The best protection you can have is distance - a "cushion of space" - all around your motorcycle. If someone else makes a mistake, distance permits you:
+
+1. Time to react
+
+2. Space to maneuver
+
+Lane Positions
+
+In some ways the size of the motorcycle can work to your advantage. Each traffic lane gives a motorcycle three paths of travel, as indicated in the illustration.
+
+Your lane position should:
+
+1. Increase your ability to see and be seen
+
+2. Avoid others' blind spots
+
+3. Avoid surface hazards
+
+4. Protect your lane from other drivers
+
+5. Communicate your intentions
+
+6. Avoid wind blast from other vehicles
+
+7. Provide an escape route
+
+Select the appropriate path to maximize your space cushion and make yourself more easily seen by others on the road.
+
+![Image](https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/23ab1753-7638-4e6b-96cf-e9f65c7d62e9/images/72bfd953-23d6-4ac3-b4bc-00d44d33bc23.jpg?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T113251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3760248e1fd0c2daf23ff00548133a3ca453021ad6e5efdf9ad53863a761d593)
+
+In general, there is no single best position for riders to be seen and to maintain a space cushion around the motorcycle. No portion of the lane need be avoided - including the center.
+
+Position yourself in the portion of the lane where you are most likely to be seen and you can maintain a space cushion around you. Change position as traffic situations change. Ride in path 2 or 3 if vehicles and other potential problems are on your left only. Remain in path 1 or 2 if hazards are on your right only. If vehicles are being operated on both sides of you, the center of the lane, path 2, is usually your best option.
+
+The oily strip in the center portion that collects drippings from cars is usually no more than two feet wide. Unless the road is wet, the average center strip permits adequate traction to ride on safely. You can operate to the left or right of the grease strip and still be within the center portion of the traffic lane. Avoid riding on big buildups of oil and grease usually found at busy intersections or toll booths.
+
+Following Another Vehicle
+
+Following too closely could be a factor in crashes involving motorcyclists. In traffic, motorcycles need as much distance to stop as cars. Normally, a minimum of two seconds distance should be maintained behind the vehicle ahead.
+
+To gauge your following distance:
+
+1. Pick out a marker, such as a pavement marking or lamppost, on or near the road ahead.
+
+2. When the rear bumper of the vehicle ahead passes the marker, count off the seconds: "one-thousand-one, one-thousand-two."
+
+3. If you reach the marker before you reach "two," you are following too closely.
+
+A two-second following distance leaves a minimum amount of space to stop or swerve if the driver ahead stops suddenly. It also permits a better view of potholes and other hazards in the road.
+
+A larger cushion of space is needed if your motorcycle will take longer than normal to stop. If the pavement is slippery, if you cannot see through the vehicle ahead, or if traffic is heavy and someone may squeeze in front of you, open a three-second or more following distance.
+
+Keep well behind the vehicle ahead even when you are stopped. This will make it easier to get out of the
+
+way if someone bears down on you from behind. It will also give you a cushion of space if the vehicle ahead starts to back up for some reason.
+
+When behind a car, ride where the driver can see you in the rearview mirror. Riding in the center portion of the lane should put your image in the middle of the rearview mirror - where a driver is most likely to see you.
+
+Riding at the far side of a lane may permit a driver to see you in a sideview mirror. But remember that most drivers don't look at their sideview mirrors nearly as often as they check the rearview mirror. If the traffic situation allows, the center portion of the lane is usually the best place for you to be seen by the drivers ahead and to prevent lane sharing by others.
+
+Being Followed
+
+Speeding up to lose someone that is following too closely can end up with someone tailgating you at a higher speed.
+
+A better way to handle tailgaters is to get them in front of you. When someone is following too closely, change lanes and let them pass. If you can't do this, slow down and open extra space ahead of you to allow room for both you and the tailgater to stop. This will also encourage them to pass. If they don't pass, you will have given yourself and the tailgater more time and space to react in case an emergency does develop ahead.
+
+Passing and Being Passed
+
+Passing and being passed by another vehicle is not much different than with a car. However, visibility is more critical. Be sure other drivers see you, and that you see potential hazards.
+
+Passing
+
+1. Ride in the left portion of the lane at a safe following distance to increase your line of sight and make you more visible. Signal and check for oncoming traffic. Use your mirrors and turn your head to look for traffic behind.
+
+2. When safe, move into the left lane and accelerate. Select a lane position that doesn't crowd the car you are passing and provides space to avoid hazards in your lane.
+
+3. Ride through the blind spot as quickly as possible.
+
+4. Signal again, and complete mirror and head checks before returning to your original lane and then cancel the signal.
+
+Remember, passes must be completed within posted speed limits, and only where permitted. Know your signs and road markings!
+
+Being Passed
+
+When you are being passed from behind or by an oncoming vehicle, stay in the center portion of your lane. Riding any closer to them could put you in a hazardous situation.
+
+Avoid being hit by:
+
+1. The other vehicle - A slight mistake by you or the passing driver could cause a sideswipe.
+
+2. Extended mirrors - Some drivers forget that their mirrors hang out farther than their fenders.
+
+3. Objects thrown from windows - Even if the driver knows you're there, a passenger may not see you and might toss something on you or the road ahead of you.
+
+4. Blasts of wind from larger vehicles - They can affect your control. You have more room for error if you are in the middle portion when hit by this blast than if you are on either side of the lane.
+
+Do not move into the portion of the lane farthest from the passing vehicle. It might invite the other driver to cut back into your lane too early.
+
+![Image](https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/23ab1753-7638-4e6b-96cf-e9f65c7d62e9/images/f2a668b1-46f5-4f9d-8616-5f6ff706f097.jpg?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T113251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f8c89d63a067dca2398f35a957d0a9f9fe3a5fc1180eb9cac151ab506bd9f7c3)
+
+![Image](https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/23ab1753-7638-4e6b-96cf-e9f65c7d62e9/images/4e494801-2335-4f43-8a7e-6ab639bfc447.jpg?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T113251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=be5659acd40640d8b69ba37c41b35f6dde25d8f01c4c8092066e9c92e704a8ae)
+
+## Lane Sharing
+
+Cars and motorcycles need a full lane to operate safely. Lane sharing is usually prohibited. Riding between rows of stopped or moving cars in the same lane can leave you vulnerable to the unexpected. A hand could come out of a window; a door could open; a car could turn suddenly. Discourage lane sharing by others. Keep a center portion position whenever drivers might be tempted to squeeze by you.
+
+Drivers are most tempted to do this:
+
+1. In heavy, bumper-to-bumper traffic
+
+2. When they want to pass you
+
+3. When you are preparing to turn at an intersection
+
+4. When you are moving into an exit lane or leaving a highway
+
+## Merging Cars
+
+Drivers on an entrance ramp may not see you on the highway. Give them plenty of room. Change to another lane if one is open. If there is no room for a lane change, adjust speed to open space for the merging driver.
+
+## Cars Alongside
+
+Do not ride next to cars or trucks in other lanes if you do not have to. You might be in the blind spot of a car in the next lane, which could switch into your lane without warning. Cars in the next lane also block your escape if you come upon danger in your own lane. Speed up or drop back to find a place clear of traffic on both sides.
+
+![Image](https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/23ab1753-7638-4e6b-96cf-e9f65c7d62e9/images/d83618f4-3839-4560-ab13-b148001c666c.jpg?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T113251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=bd1861a032dea8484ed531e3be07414074eabf924c956b51b4ee49426b86d301)
+
+# Test Your Knowledge
+
+Select the alternative (a, b, c, or d) that best answers the question.
+
+IV. Usually, a good way to handle tailgaters is to:
+
+a. Change lanes and let them pass
+
+b. Use your horn and make obscene gestures
+
+c. Speed up to put distance between you and the tailgater
+
+d. Ignore them
+
+Answer- Page 44
+
+See
+
+Good, experienced riders remain aware of what is going on around them. They improve their riding strategy by using SEE, a three-step process used to make appropriate judgments, and apply them correctly in different traffic situations: Search
+
+Evaluate
+
+Execute
+
+Search
+
+Search aggressively ahead, to the sides and behind to avoid potential hazards even before they arise. How assertively you search, and how much time and space you have, can eliminate or reduce harm. Focus even more on finding potential escape routes in or around intersections, shopping areas and school and construction zones. Be especially alert in areas with limited visibility. Visually "busy" surroundings could hide you and your motorcycle from others.
+
+Search for factors such as:
+
+1. Oncoming traffic that may turn left in front of you
+
+2. Traffic coming from the left and right
+
+3. Traffic approaching from behind
+
+4. Hazardous road conditions
+
+Evaluate
+
+Think about how hazards can interact to create risks for you. Anticipate potential problems and have a plan to reduce risks.
+
+1. Road and surface characteristics - Potholes, guardrails, bridges, telephone poles and trees won't move into your path but may influence your riding strategy.
+
+2. Traffic control devices - Look for traffic signals, including regulatory signs, warning signs, and pavement markings, to help you evaluate circumstances ahead.
+
+3. Vehicles and other traffic - May move into your path and increase the likelihood of a crash.
+
+Think about your time and space requirements to maintain a margin of safety. You must leave yourself time to react if an emergency arises.
+
+## Execute
+
+Carry out your decision.
+
+To create more space and minimize harm from any hazard:
+
+1. Communicate your presence with lights and/or horn
+
+2. Adjust your speed by accelerating, stopping or slowing
+
+3. Adjust your position and/or direction
+
+Apply the "one step at a time" to handle two or more hazards. Adjust speed to permit two hazards to separate. Then deal with them one at a time as single hazards. Decision-making becomes more complex with three or more hazards. Weigh the consequences of each and give equal distance to the hazards.
+
+In potential high-risk areas, such as intersections, shopping areas and school and construction zones, cover the clutch and both brakes to reduce the time you need to react.
+
+## Intersections
+
+The greatest potential for conflict between you and other traffic is at intersections. An intersection can be in the middle of an urban area or at a driveway on a residential street - anywhere traffic may cross your path of travel. Over one-half of motorcycle/car crashes are caused by drivers entering a rider's right-of- way. Cars that turn left in front of you, including cars turning left from the lane to your right, and cars on side streets that pull into your lane, are the biggest dangers. Your use of SEE at intersections is critical.
+
+There are no guarantees that others see you. Never count on "eye contact" as a sign that a driver will yield. Too often, a driver looks right at a motorcyclist and still fails to "see" him or her. The only eyes that you can count on are your own. If a car can enter your path, assume that it will. Good riders are always "looking for trouble" - not to get into it, but to stay out of it.
+
+Increase your chances of being seen at intersections. Ride with your headlight on in a lane position that provides the best view of oncoming traffic. Provide a space cushion around the motorcycle that permits you to take evasive action.
+
+As you approach the intersection, select a lane position that increases your visibility to the driver. Cover the clutch and both brakes to reduce reaction time.
+
+Reduce your speed as you approach an intersection. After entering the intersection, move away from vehicles preparing to turn. Do not change speed or position radically. The driver might think that you are preparing to turn.
+
+![Image](https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/23ab1753-7638-4e6b-96cf-e9f65c7d62e9/images/bd11768a-54ea-428c-b86a-fe471d60c7e0.jpg?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T113251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9384d015628967f656c88e95f2b418c0316b48aaa4b8086c21f351c8507fe622)
+
+## Blind Intersections
+
+If you approach a blind intersection, move to the portion of the lane that will bring you into another driver's field of vision at the earliest possible moment. In this picture, the rider has moved to the left portion of the lane - away from the parked car - so the driver on the cross street can see him as soon as possible. Remember, the key is to see as much as possible and remain visible to others while protecting your space. If you have a stop sign or stop line, stop there first. Then edge forward and stop again, just short of where the cross-traffic lane meets your lane. From that position, lean your body forward and look around buildings, parked cars or bushes to see if anything is coming. Just make sure your front wheel stays out of the cross lane of travel while you're looking.
+
+![Image](https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/23ab1753-7638-4e6b-96cf-e9f65c7d62e9/images/fe612dfd-685b-4ff3-9789-b1f4115efdb9.jpg?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T113251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4f30bf959af87dfc1ca87f661af118bab08394d23b017daaab7709cf1b7355b7)
+
+## Passing Parked Cars
+
+When passing parked cars, stay toward the left of your lane. You can avoid problems caused by doors opening, drivers getting out of cars or people stepping from between cars. If oncoming traffic is present, it is usually best to remain in the centerline position to maximize your space cushion. A bigger problem can occur if the driver pulls away from the curb without checking for traffic behind. Even if he does look, he may fail to see you. In either event, the driver might cut into your path. Slow down or change lanes to make room for someone cutting in. Cars making a sudden U-turn are the most dangerous. They may cut you off entirely, blocking the whole roadway and leaving you with no place to go. Since you can't tell what a driver will do, slow down and get the driver's attention. Sound your horn and continue with caution.
+
+## Parking at the Roadside
+
+Park at a 90° angle to the curb with your rear wheel touching the curb.
+
+![Image](https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/23ab1753-7638-4e6b-96cf-e9f65c7d62e9/images/95456eff-a933-4d01-8960-a29614dc4c31.jpg?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T113251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2fa64d4ff8f96782905c4006cd39f9ab4c0e578d9f5db24c2e9989e3b5b04a88)
+
+# Test Your Knowledge
+
+Select the alternative (a, b, c, or d) that best answers the question.
+
+V. Making eye contact with other drivers:
+
+a. Is a good sign they see you
+
+b. Is not worth the effort it takes
+
+c. Doesn't mean that the driver will yield
+
+d. Guarantees that the other driver will yield
+
+Answer- Page 44
+
+## Increasing Conspicuity
+
+In crashes with motorcyclists, drivers often say that they never saw the motorcycle. From ahead or behind, a motorcycle's outline is much smaller than a car's. Also, it's hard to see something you are not looking for, and most drivers are not looking for motorcycles. More likely, they are looking through the skinny, two-wheeled silhouette in search of cars that may pose a problem to them.
+
+Even if a driver does see you coming, you aren't necessarily safe. Smaller vehicles appear farther away and seem to be traveling slower than they are. It is common for drivers to pull out in front of motorcyclists, thinking they have plenty of time. Too often, they are wrong.
+
+However, you can do many things to make it easier for others to recognize you and your motorcycle.
+
+## Clothing
+
+Most crashes occur in broad daylight. Wear bright-colored clothing to increase your chances of being seen. Remember, your body is half of the visible surface area of the rider/motorcycle unit.
+
+Bright orange, red, yellow or green jackets or vests are your best bets for being seen. Your helmet can do more than protect you in a crash. Brightly colored helmets can also help others see you.
+
+Any bright color is better than drab or dark colors. Reflective, bright-colored clothing (helmet and jacket or vest) is best.
+
+Reflective material on a vest and on the sides of the helmet will help drivers coming from the side to spot you. Reflective material can also be a big help for drivers coming toward you or from behind.
+
+## Headlight
+
+The best way to help others see your motorcycle is to keep the headlight on - always. Studies show that, during the day, a motorcycle with its light on is twice as likely to be noticed. Use low beam at night and in fog.
+
+## Signals
+
+The signals on a motorcycle are like those on a car; they tell others what you plan to do. However, due to a rider's added vulnerability, signals are even more important. Use them anytime you plan to change lanes or turn. Use them even when you think no one else is around. It's the car you don't see that's going to give you the most trouble. Your signal lights also make you easier to spot. That's why it's a good idea to use your turn signals even when what you plan to do is obvious. When you enter onto a freeway, drivers approaching from behind are more likely to see your signal blinking and make room for you.
+
+Turning your signal light on before each turn reduces confusion and frustration for the traffic around you. Once you turn, make sure your signal is off or a driver may pull directly into your path, thinking you plan to turn again. Use your signals at every turn so drivers can react accordingly. Don't make them guess what you intend to do.
+
+## Brake Light
+
+Your motorcycle's brake light is usually not as noticeable as the brake lights on a car - particularly when your taillight is on. (It goes on with the headlight.) If the situation will permit, help others notice you by flashing your brake light before you slow down. It is especially important to flash your brake light before:
+
+1. You slow more quickly than others might expect (turning off a high-speed highway)
+
+2. You slow where others may not expect it (in the middle of a block or at an alley).
+
+If you are being followed closely, it's a good idea to flash your brake light before you slow. The tailgater may be watching you and not see something ahead that will make you slow down. This will hopefully discourage them from tailgating and warn them of hazards ahead they may not see.
+
+Using Your Mirrors
+
+While it's most important to keep track of what's happening ahead, you can't afford to ignore situations behind. Traffic conditions change quickly. Knowing what's going on behind is essential for you to make a safe decision about how to handle trouble ahead.
+
+Frequent mirror checks should be part of your normal searching routine. Make a special point of using your mirrors:
+
+1. When you are stopped at an intersection. Watch cars coming up from behind. If the drivers aren't paying attention, they could be on top of you before they see you.
+
+2. Before you change lanes. Make sure no one is about to pass you.
+
+3. Before you slow down. The driver behind may not expect you to slow, or may be unsure about where you will slow. For example, you signal a turn and the driver thinks you plan to turn at a distant intersection, rather than at a nearer driveway.
+
+Some motorcycles have rounded (convex) mirrors. These provide a wider view of the road behind than do flat mirrors. They also make cars seem farther away than they really are. If you are not used to convex mirrors, get familiar with them. (While you are stopped, pick out a parked car in your mirror. Form a mental image of how far away it is. Then, turn around and look at it to see how close you came.) Practice with your mirrors until you become a good judge of distance. Even then, allow extra distance before you change lanes.
+
+![Image](https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/23ab1753-7638-4e6b-96cf-e9f65c7d62e9/images/07fa84fe-9539-4fdd-8195-32474835d741.jpg?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T113251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=401b9ad0e9d4a3fe9c5226901dfbe99e42745dca3aee43af0aaa36f30091711f)
+
+## Head Checks
+
+Checking your mirrors is not enough. Motorcycles have "blind spots" like cars. Before you change lanes, turn your head, and look to the side for other vehicles. On a road with several lanes, check the far lane and the one next to you. A driver in the distant lane may head for the same space you plan to take. Frequent head checks should be your normal scanning routine, also. Only by knowing what is happening all around you are you fully prepared to deal with it.
+
+## Horn
+
+Be ready to use your horn to get someone's attention quickly. It is a good idea to give a quick beep before passing anyone that may move into your lane. Here are some situations:
+
+1. A driver in the lane next to you is driving too closely to the vehicle ahead and may want to pass.
+
+2. A parked car has someone in the driver's seat.
+
+3. Someone is in the street, riding a bicycle or walking.
+
+In an emergency, press the horn button loud and long. Be ready to stop or swerve away from the danger. Keep in mind that a motorcycle's horn isn't as loud as a car's - therefore, use it, but don't rely on it. Other strategies may be appropriate along with the horn.
+
+## Test Your Knowledge
+
+Select the alternative (a, b, c, or d) that best answers the question.
+
+VI. Reflective clothing should:
+
+a. Be worn at night
+
+b. Be worn during the day
+
+c. Not be worn
+
+d. Be worn day and night
+
+Answer- Page 44
+
+## Riding at Night
+
+At night it is harder for you to see and be seen. Picking your headlight or taillight out of the car lights around you are not easy for other drivers. To compensate, you should:
+
+1. Reduce Your Speed - Ride even slower than you would during the day - particularly on roads you don't know well. This will increase your chances of avoiding a hazard.
+
+2. Increase Distance - Distances are harder to judge at night than during the day. Your eyes rely upon shadows and light contrasts to determine how far away an object is and how fast it is coming. These contrasts are missing or distorted under artificial lights at night. Open a three- second following distance or more. And allow more distance to pass and be passed.
+
+3. Use the Car Ahead - The headlights of the car ahead can give you a better view of the road than even your high beam can. Taillights bouncing up and down can alert you to bumps or rough pavement.
+
+4. Use Your High Beam - Get all the light you can. Use your high beam whenever you are not following or meeting a car. Be visible: Wear reflective materials when riding at night.
+
+5. Be Flexible About Lane Position. Change to whatever portion of the lane is best able to help you see, be seen and keep an adequate space cushion.
+
+## Crash Avoidance
+
+No matter how careful you are, there will be times when you find yourself in a tight spot. Your chances of getting out safely depend on your ability to react quickly and properly. Often, a crash occurs because a rider is not prepared or skilled in crash avoidance maneuvers. Two skills critical in avoiding a crash is knowing when and how to stop or swerve. It is not always desirable or possible to stop quickly to avoid an obstacle. Riders must also be able to swerve around an obstacle. Deter-mining which skill is necessary for the situation is important as well.
+
+Studies show that most crash involved riders:
+
+1. Underbrake the front tire and overbrake the rear.
+
+2. Did not separate braking from swerving or did not choose swerving when it was appropriate. The following information offers some good advice.
+
+![Image](https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/23ab1753-7638-4e6b-96cf-e9f65c7d62e9/images/2bdbe092-f687-486d-bcb0-cd063b69668f.jpg?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T113251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=aa7ce1f89a5b62ca28d9ed3e4cd7ecf7169529a0c8e5259ec8464a2a9dea274b)
+
+## Quick Stops
+
+To stop quickly, apply both brakes at the same time. Don't be shy about using the front brake, but don't "grab" it, either. Squeeze the brake lever firmly and progressively. If the front wheel locks, release the front brake immediately then reapply it firmly. At the same time, press down on the rear brake. If you accidentally lock the rear brake on a good traction surface, you can keep it locked until you have completely stopped; but, even with a locked rear wheel, you can control the motorcycle on a straightaway if it is upright and going in a straight line. Always use both brakes at the same time to stop. The front brake can provide 70% or more of the potential stopping power.
+
+If you must stop quickly while turning or riding a curve, the best technique is to straighten the bike upright first and then brake. However, it may not always be possible to straighten the motorcycle and then stop. If you must brake while leaning, apply light brakes and reduce the throttle. As you slow, you can reduce your lean angle and apply more brake pressure until the motorcycle is straight and maximum brake pressure is possible. You should straighten the handlebars in the last few feet of stopping. The motorcycle should then be straight up and in balance.
+
+## Swerving or Turning Quickly
+
+Sometimes you may not have enough room to stop, even if you use both brakes properly. An object might appear suddenly in your path. Or the car ahead might squeal to a stop. The only way to avoid a crash may be to turn quickly, or swerve around it.
+
+A swerve is any sudden change in direction. It can be two quick turns, or a rapid shift to the side. Apply a small amount of hand pressure to the handle grip located on the side of your intended direction of escape. This will cause the motorcycle to lean quickly. The sharper the turn(s), the more the motorcycle must lean.
+
+Keep your body upright and allow the motorcycle to lean in the direction of the turn while keeping your knees against the tank and your feet solidly on the footrests. Let the motorcycle move underneath you. Make your escape route the target of your vision. Press on the opposite handle grip once you clear the obstacle to return you to your original direction of travel. To swerve to the left, press the left handle grip, then press the right to recover. To swerve to the right, press right, then left.
+
+IF BRAKING IS REQUIRED, SEPARATE IT FROM SWERVING. Brake before or after - never while swerving.
+
+![Image](https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/23ab1753-7638-4e6b-96cf-e9f65c7d62e9/images/f519d346-8bf9-4b2e-a54e-dacbb57f4141.jpg?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T113251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=5fcbee678f144a8ee254153f37516620425e14dbcbd0005ff39599e88c359f5b)
+
+![Image](https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/23ab1753-7638-4e6b-96cf-e9f65c7d62e9/images/7d1a08e1-2fee-422d-91ec-99adaa13537c.jpg?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T113251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2f69b4ba668aeff8b9e97963cbbefa846abbd87f309c4f475e5c66132c3aceb8)
+
+## Cornering
+
+A primary cause of single vehicle crashes is motorcyclists running wide in a curve or turn and colliding with the roadway or a fixed object. Every curve is different. Be alert to whether a curve remains constant, gradually widens, gets tighter or involves multiple turns.
+
+Ride within your skill level and posted speed limits. Your best path may not always follow the curve of the road.
+
+Change lane position depending on traffic, road conditions and curve of the road. If no traffic is present, start at the outside of a curve to increase your line of sight and the effective radius of the turn. As you turn, move toward the inside of the curve, and as you pass the center, move to the outside to exit.
+
+Another alternative is to move to the center of your lane before entering a curve - and stay there until you exit. This permits you to spot approaching traffic as soon as possible. You can also adjust for traffic crowding the center line, or debris blocking part of your lane.
+
+![Image](https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/23ab1753-7638-4e6b-96cf-e9f65c7d62e9/images/4c2e5ca3-3025-4a4c-8068-2bc05686167b.jpg?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T113251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=9ed55f5e71c657cba05c2b4a36efe9e8aa78f35f45fc33179197aa539cde2272)
+
+## Test Your Knowledge
+
+Choose the correct alternative (a, b, c, or d) that best answers the question.
+
+VII. The best way to stop quickly is to:
+
+a. Use the front brake only
+
+b. Use the real brake first
+
+c. Throttle down and use the front brake
+
+d. Use both brakes at the same time
+
+Answer- Page 44
+
+## Handling Dangerous Surfaces
+
+Your chance of falling or being involved in a crash increase whenever you ride across:
+
+1. Uneven surfaces or obstacles.
+
+2. Slippery surfaces.
+
+3. Railroad tracks.
+
+4. Grooves and gratings
+
+Uneven surfaces and Obstacles
+
+Watch for uneven surfaces such as bumps, broken pavement, potholes, or small pieces of highway trash. Try to avoid obstacles by slowing or going around them. If you must go over the obstacle, first determine if it is possible. Approach it at as close to a 90° angle as possible. Look where you want to go to control your path of travel. If you must ride over the obstacle, you should:
+
+1. Slow down as much as possible before contact
+
+2. Make sure the motorcycle is straight
+
+3. Rise slightly off the seat with your weight on the footrests to absorb the shock with your knees and elbows, and avoid being thrown off the motorcycle
+
+4. Just before contact, roll on the throttle slightly to lighten the front end
+
+If you ride over an object on the street, pull off the road and check your tires and rims for damage before riding any farther.
+
+Slippery Surfaces
+
+Motorcycles handle better when ridden on surfaces that permit good traction. Surfaces that provide poor traction include:
+
+1. Wet pavement, particularly just after it starts to rain and before surface oil washes to the side of the road
+
+2. Gravel roads, or where sand and gravel collect
+
+3. Mud, snow, and ice
+
+4. Lane markings (painted lines), steel plates and manhole covers, especially when wet
+
+To ride safely on slippery surfaces:
+
+1. Reduce Speed - Slow down before you get to a slippery surface to lessen your chances of skidding. Your motorcycle needs more distance to stop. And it is particularly important to reduce speed before entering wet curves.
+
+2. Avoid Sudden Moves - Any sudden change in speed or direction can cause a skid. Be as smooth as possible when you speed up, shift gears, turn or brake.
+
+3. Use Both Brakes - The front brake is still effective, even on a slippery surface. Squeeze the brake lever gradually to avoid locking the front wheel. Remember, gentle pressure on the rear brake.
+
+4. The center of a lane can be hazardous when wet. When it starts to rain, ride in the tire tracks left by cars. Often, the left tire track will be the best position, depending on traffic and other road conditions as well.
+
+5. Watch for oil spots when you put your foot down to stop or park. You may slip and fall.
+
+6. Dirt and gravel collect along the sides of the road - especially on curves and ramps leading to and from highways. Be aware of what's on the edge of the road, particularly when making sharp turns and getting on or off freeways at high speeds.
+
+7. Rain dries and snow melts faster on some sections of a road than on others. Patches of ice tend to develop in low or shaded areas and on bridges and overpasses. Wet surfaces or wet leaves are just as slippery. Ride on the least slippery portion of the lane and reduce speed.
+
+Cautious riders steer clear of roads covered with ice or snow. If you can't avoid a slippery surface, keep your motorcycle straight up and proceed as slowly as possible. If you encounter a large surface so slippery that you must coast, or travel at a walking pace, consider letting your feet skim along the surface. If the motorcycle starts to fall, you can catch yourself. Be sure to keep off the brakes. If possible, squeeze the clutch and coast. Attempting this maneuver at anything other than the slowest of speeds could prove hazardous.
+
+Railroad Tracks, Trolley Tracks, and Pavement Seams
+
+Usually, it is safer to ride straight within your lane to cross tracks. Turning to take tracks head-on (at a 90° angle) can be more dangerous - your path may carry you into another lane of traffic. For track and road seams that run parallel to your course, move far enough away from tracks, ruts, or pavement seams to cross at an angle of at least 45°. Then, make a quick, sharp turn. Edging across could catch your tires and throw you off balance.
+
+![Image](https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/23ab1753-7638-4e6b-96cf-e9f65c7d62e9/images/4e74845a-006d-40ec-97cb-83beeeae73ec.jpg?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T113251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=17f6f189cc664a2592526aa04362492dd11f979ed18488084a496626c44eb6b7)
+
+![Image](https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/23ab1753-7638-4e6b-96cf-e9f65c7d62e9/images/61ade5a7-4252-4b21-bf4e-5c8261637c7e.jpg?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T113251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d173f4d1587bb6ff4e478a4c011117034226043c382dc775156765720899308a)
+
+![Image](https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/23ab1753-7638-4e6b-96cf-e9f65c7d62e9/images/064d9ee3-8bee-4086-b481-9186a72d4852.jpg?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T113251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=95ae9ce4ce0693a71bf1584b95b22b314de0303964fdbb2adc26cd7d946382bc)
+
+## Test Your Knowledge
+
+Choose the correct alternative (a, b, c, or d) that best answers the question.
+
+VIII. When it starts to rain it is usually best to:
+
+a. Ride in the center of the lane
+
+b. Pull off to the side until the rain stops
+
+c. Ride in the tire tracks left by cars
+
+d. Increase your speed
+
+Answer- Page 44
+
+## Mechanical Problems
+
+You can find yourself in an emergency the moment something goes wrong with your motorcycle. In dealing with any mechanical problem, take into account the road and traffic conditions you face. Here are some guidelines that can help you handle mechanical problems safely.
+
+## Tire Failure
+
+You will seldom hear a tire go flat. If the motorcycle starts handling differently, it may be a tire failure. This can be dangerous. You must be able to tell from the way the motorcycle reacts. If one of your tires suddenly loses air, react quickly to keep your balance. Pull off and check the tires. If the front tire goes flat, the steering will feel "heavy." A front-wheel flat is particularly hazardous because it affects your steering. You have to steer well to keep your balance. If the rear tire goes flat, the back of the motorcycle may jerk or sway from side to side.
+
+If either tire goes flat while riding:
+
+1. Hold handle grips firmly, ease off the throttle, and keep a straight course.
+
+2. If braking is required, however, gradually apply the brake of the tire that isn't flat, if you are sure which one it is.
+
+3. When the motorcycle slows, edge to the side of the road, squeeze the clutch and stop.
+
+## Stuck Throttle
+
+Twist the throttle back and forth several times. If the throttle cable is stuck, this may free it. If the throttle stays stuck, immediately operate the engine cut-off switch and pull in the clutch at the same time. This will remove power from the rear wheel, though engine sound may not immediately decline. Once the motorcycle is "under control," pull off and stop. After you have stopped, check the throttle cable carefully to find the source of the trouble. Make certain the throttle works freely before you start to ride again.
+
+## Wobble
+
+A "wobble" occurs when the front wheel and handlebars suddenly start to shake from side to side at any speed. Most wobbles can be traced to improper loading, unsuitable accessories or incorrect tire pressure. If you are carrying a heavy load, lighten it. If you can't, shift it. Center the weight lower and farther forward on the motorcycle. Make sure tire pressure, spring pre-load, air shocks and dampers are at the settings recommended for that much weight. Make sure windshields and fairings are mounted properly.
+
+Check for poorly adjusted steering; worn steering parts; a front wheel that is bent, misaligned, or out of balance; loose wheel bearings or spokes; and worn swingarm bearings. If none of these is determined to be the cause, have the motorcycle checked out thoroughly by a qualified professional.
+
+Trying to accelerate out of a wobble will only make the motorcycle more unstable. Instead:
+
+1. Grip the handlebars firmly, but don't fight the wobble.
+
+2. Close the throttle gradually to slow down. Do not apply the brakes; braking could make the wobble worse.
+
+3. Move your weight as far forward and down as possible.
+
+4. Pull off the road as soon as you can to fix the problem.
+
+## Test Your Knowledge
+
+Choose the correct alternative (a, b, c, or d) that best answers the question.
+
+IX. If your motorcycle starts to wobble:
+
+a. Accelerate out of the wobble
+
+b. Use the brakes gradually
+
+c. Grip the handlebars firmly and close the throttle gradually
+
+d. Downshift
+
+## Chain Problems
+
+A chain that slips or breaks while you're riding could lock the rear wheel and cause your cycle to skid. Chain slippage or breakage can be avoided by proper maintenance.
+
+Slippage - If the chain slips when you try to speed up quickly or ride uphill, pull off the road. Check the chain and sprockets. Tightening the chain may help. If the problem is a worn or stretched chain or worn or bent sprockets, replace the chain, the sprockets or both before riding again.
+
+Breakage - You'll notice an instant loss of power to the rear wheel. Close the throttle and brake to a stop.
+
+## Engine Seizure
+
+When the engine locks or freezes it is usually low on oil. The engine's moving parts can't move smoothly against each other, and the engine overheats. The first sign may be a loss of engine power or a change in the engine's sound. Squeeze the clutch lever to disengage the engine from the rear wheel. Pull off the road and stop. Check the oil. If needed, oil should be added as soon as possible, or the engine will seize. When this happens, the effect is the same as a locked rear wheel. Let the engine cool before restarting.
+
+## Animals
+
+Naturally, you should do everything you safely can to avoid hitting an animal. If you are in traffic, however, remain in your lane. Hitting something small is less dangerous to you than hitting something big, like a car. Motorcycles seem to attract dogs. If you are chased, downshift and approach the animal slowly. As you approach it, accelerate away and leave the animal behind. Don't kick at an animal. Keep control of your motorcycle and look to where you want to go. For larger animals (deer, elk, cattle) brake and prepare to stop - they are unpredictable.
+
+## Flying Objects
+
+From time-to-time riders are struck by insects, cigarettes thrown from cars or pebbles kicked up by the tires of the vehicle ahead. If you are wearing face protection, it might get smeared or cracked, making it difficult to see. Without face protection, an object could hit you in the eye, face or mouth. Whatever happens, keep your eyes on the road and your hands on the handlebars. When safe, pull off the road and repair the damage.
+
+## Test Your Knowledge
+
+Choose the correct alternative (a, b, c, or d) that best answers the question
+
+X. If you are chased by a dog:
+
+a. Kick it away
+
+b. Stop until the animal loses interest
+
+c. Swerve around the animal
+
+d. Approach the animal slowly, then speed up
+
+## Getting Off the Road
+
+If you need to leave the road to check the motorcycle (or just to rest for a while), be sure you:
+
+1. Check the roadside - Make sure the surface of the roadside is firm enough to ride on. If it is soft grass, loose sand or if you're just not sure about it, slow way down before you turn onto it.
+
+2. Signal - Drivers behind might not expect you to slow down. Give a clear signal that you will be slowing down and changing direction. Check your mirror and make a head check before you take any action.
+
+3. Pull off the road - Get as far off the road as you can. It can be very hard to spot a motorcycle by the side of the road. You don't want someone else pulling off at the same place you are.
+
+4. Park carefully - Loose and sloped shoulders can make setting the side or center stand difficult.
+
+## Carrying Cargo and Passengers
+
+Only experienced riders should carry passengers or large loads. The extra weight changes the way the motorcycle handles, balances, speeds up and slows down. Before taking a passenger or a heavy load on the street, practice away from traffic.
+
+## Passengers
+
+To carry passengers safely:
+
+1. Equip and adjust your motorcycle to carry passengers
+
+2. Instruct the passenger before you start
+
+3. Adjust your riding technique for the added weight
+
+## Riding with Passengers
+
+Your motorcycle will respond more slowly with a passenger on board. The heavier your passenger, the longer it will take to slow down and speed up - especially on a light motorcycle.
+
+Instructing Passengers
+
+Even if your passenger is a motorcycle rider, provide complete instructions before you start. Tell your passenger to:
+
+1. Get on the motorcycle only after you have started the engine
+
+2. Sit as far forward as possible without crowding you
+
+3. Hold firmly to your waist, hips, belts or to the bike's passenger handholds
+
+4. Keep both feet on the footrests, even when stopped
+
+5. Keep legs away from the muffler(s), chains or moving parts
+
+6. Stay directly behind you, leaning as you lean
+
+7. Avoid unnecessary talk or motion
+
+## Equipment
+
+Equipment should include:
+
+1. A proper seat - large enough to hold both of you without crowding. You should not sit any farther forward than you usually do.
+
+2. Footrests - for the passenger. Firm footing prevents your passenger from falling off and pulling you off, too.
+
+3. Protective equipment - the same protective gear recommended for operators.
+
+4. Adjust the suspension to handle the additional weight. You will probably need to add a few pounds of pressure to the tires if you carry a passenger. (Check your owner's manual for appropriate settings.) While your passenger sits on the seat with you, adjust the mirror and headlight according to the change in the motorcycle's angle.
+
+Carrying Loads
+
+Most motorcycles are not designed to carry much cargo. Small loads can be carried safely if positioned and fastened properly.
+
+To maintain safety when carrying a load:
+
+1. Keep the Load Low - Fasten loads securely or put them in saddlebags. Piling loads against a sissy bar or frame on the back of the seat raises the motorcycle's center of gravity and disturbs its balance.
+
+2. Keep the Load Forward - Place the load over, or in front of, the rear axle. Tank bags keep loads forward but use caution when loading hard or sharp objects. Make sure the tank bag does not interfere with handlebars or controls. Mounting loads behind the rear axle can affect how the motorcycle turns and brakes. It can also cause a wobble.
+
+3. Distribute the Load Evenly - Load saddlebags with about the same weight. An uneven load can cause the motorcycle to drift to one side.
+
+4. Secure the Load - Fasten the load securely with elastic cords (bungee cords or nets). Elastic cords with more than one attachment point per side are more secure. A tight load won't catch in the wheel or chain, causing it to lock up and skid. Rope tends to stretch, and knots come loose, permitting the load to shift or fall.
+
+5. Check the Load - Stop and check the load every so often to make sure it has not worked loose or moved.
+
+## Group Riding
+
+If you ride with others, do it in a way that promotes safety and doesn't interfere with the flow of traffic.
+
+## Keep the Group Small
+
+Small groups make it easier and safer for car drivers who need to get around them. A small number isn't separated as easily by traffic or red lights. Riders won't always be hurrying to catch up. If your group is larger than four or five riders, divide it up into two or more smaller groups.
+
+## Keep the Group Together
+
+1. Plan - The leader should look ahead for changes and signal early so "the word gets back" in plenty of time. Start lane changes early to permit everyone to complete the change.
+
+2. Put Beginners Up Front - Place inexperienced riders just behind the leader. That way the more experienced riders can watch them from the back.
+
+3. Follow Those Behind - Let the tail ender set the pace. Use your mirrors to keep an eye on the person behind. If a rider falls behind, everyone should slow down a little to stay with the tail ender.
+
+4. Know the Route - Make sure everyone knows the route. Then, if someone is separated, they won't have to hurry to keep from getting lost or taking a wrong turn. Plan frequent stops on long rides.
+
+## Keep Your Distance
+
+Maintain close ranks but at the same time keep a safe distance to allow each rider in the group time and space to react to hazards. A close group takes up less space on the highway, is easier to see and is less likely to be separated. However, it must be done properly. Don't Pair Up - Never operate directly alongside another rider. There is no place to go if you must avoid a car or something on the road. To talk, wait until you are both stopped.
+
+![Image](https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/23ab1753-7638-4e6b-96cf-e9f65c7d62e9/images/6c0f0972-c1e1-41b2-8d86-e458c5bccf6b.jpg?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T113251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ba293016630ae5a661a82471e7108322ab2b2b66e57713870c73bbb1448f9cf1)
+
+## Staggered Formation
+
+This is the best way to keep ranks close yet maintain an adequate space cushion. The leader rides in the left side of the lane, while the second rider stays one second behind in the right side of the lane. A third rider maintains in the left position, two seconds behind the first rider. The fourth rider would keep a two- second distance behind the second rider. This formation keeps the group close and permits each rider a safe distance from others ahead, behind and to the sides.
+
+1. Passing in Formation - Riders in a staggered formation should pass one at a time.
+
+2. First, the lead rider should pull out and pass when it is safe. After passing, the leader should return to the left position and continue riding at passing speed to open room for the next rider.
+
+3. After the first rider passes safely, the second rider should move up to the left position and watch for a safe chance to pass. After passing, this rider should return to the right position and open up room for the next rider.
+
+Some people suggest that the leader should move to the right side after passing a vehicle. This is not a good idea. It encourages the second rider to pass and cut back in before there is a large enough space cushion in front of the passed vehicle. It's simpler and safer to wait until there is enough room ahead of the passed vehicle to allow each rider to move into the same position held before the pass.
+
+Single-File Formation
+
+It is best to move into a single-file formation when riding curves, turning, entering or leaving a highway.
+
+![Image](https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/23ab1753-7638-4e6b-96cf-e9f65c7d62e9/images/1bb3b9a0-5f30-462c-88dc-89fba2702a2a.jpg?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T113251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f462a26dcf70166adc50b99a511d230b6603633e71297ea451ef92c5a1ed2167)
+
+![Image](https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/23ab1753-7638-4e6b-96cf-e9f65c7d62e9/images/7d1993fa-2bd9-4cd1-840c-458383930cba.jpg?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T113251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=53917de85559ddffb2e7687e137b472cff99c767c35dde0c84b8d911ed34d1c9)
+
+## Test Your Knowledge
+
+Choose the correct alternative (a, b, c, or d) that best answers the question
+
+XI. When riding in a group, inexperienced riders should position themselves:
+
+a. Just behind the leader
+
+b. In front of the group
+
+c. At the tail end of the group
+
+d. Beside the leader
+
+## Being in Shape to Ride
+
+Riding a motorcycle is a demanding and complex task. Skilled riders pay attention to the riding environment and to operating the motorcycle, identifying potential hazards, making good judgments and executing decisions quickly and skillfully. Your ability to perform and respond to changing road and traffic conditions is influenced by how fit and alert you are. Alcohol and other drugs, more than any other factor, degrade your ability to think clearly and to ride safely. As little as one drink can have a significant effect on your performance.
+
+Let's look at the risks involved in riding after drinking or using drugs. What to do to protect yourself and your fellow riders is also examined.
+
+Why this Information is Important
+
+Alcohol is a major contributor to motorcycle crashes, particularly fatal crashes. Studies show that 40% to 45% of all riders killed in motorcycle crashes had been drinking. Only one third of those riders had a blood alcohol concentration above legal limits. The rest had only a few drinks in their systems - enough to impair riding skills. In the past, drug levels have been harder to distinguish or have not been separated from drinking violations for the traffic records. But riding "under the influence" of either alcohol or drugs poses physical and legal hazards for every rider.
+
+Drinking and drug use is as big a problem among motorcyclists as it is among automobile drivers. However, motorcyclists are more likely to be killed or severely injured in a crash. Injuries occur in 90% of motorcycle crashes and 33% of automobile crashes that involve abuse of substances. On a yearly basis, 2,100 motorcyclists are killed and about 50,000 seriously injured in this same type of crash. These statistics are too overwhelming to ignore.
+
+By becoming knowledgeable about the effects of alcohol and other drugs you will see that riding and substance abuse doesn't mix. Take positive steps to protect yourself and prevent others from injuring themselves.
+
+Alcohol and other Drugs
+
+No one is immune to the effects of alcohol or drugs. Friends may brag about their ability to hold their liquor or perform better on drugs, but alcohol or drugs make them less able to think clearly and perform physical tasks skillfully. Judgment and the decision-making processes needed for vehicle operation are affected long before legal limitations are reached.
+
+Many over the counter, prescription and illegal drugs have side effects that increase the risk of riding. It is difficult to accurately measure the involvement of drugs in motorcycle crashes. But we do know what effects various drugs have on the process involved in riding a motorcycle. We also know that the combined effects of alcohol and other drugs are more dangerous than either is alone.
+
+Alcohol in the Body
+
+Alcohol enters the bloodstream quickly. Unlike most foods and beverages, it does not need to be digested. Within minutes after being consumed, it reaches the brain and begins to affect the drinker. The major effect alcohol has is to slow down and impair bodily functions - both mental and physical. Whatever you do, you do less well after consuming alcohol.
+
+## Blood Alcohol Concentration
+
+Blood Alcohol Concentration or BAC is the amount of alcohol in relation to blood in the body. Generally, alcohol can be eliminated in the body at the rate of almost one drink per hour. But a variety of other factors may also influence the level of alcohol retained. The more alcohol in your blood, the greater the degree of impairment.
+
+Three factors play a major part in determining BAC:
+
+1. The amount of alcohol you consume
+
+2. How fast you drink
+
+3. Your body weight
+
+Other factors also contribute to the way alcohol affects your system.
+
+Your gender, physical condition and food intake are just a few that may cause your BAC level to be even higher, but the full effects of these are not completely known. Alcohol may still accumulate in your body even if you are drinking at a rate of one drink per hour. Abilities and judgment can be affected by that one drink. A 12-ounce can of beer, a mixed drink with one shot of liquor and a 5-ounce glass of wine all contains the same amount of alcohol. The faster you drink; the more alcohol accumulates in your body. If you drink two drinks in an hour, at the end of that hour, at least one drink will remain in your bloodstream.
+
+Without considering any other factors, these examples illustrate why time is a critical factor when a rider decides to drink.
+
+A person drinking:
+
+- Seven drinks over the span of three hours would have at least four (7 - 3 = 4) drinks remaining in their system at the end of the three hours. They would need at least another four hours to eliminate the four remaining drinks before they consider riding.
+
+- Four drinks over the span of two hours would have at least two (4- 2 = 2) drinks remaining in their system at the end of the two hours. They would need at least another two hours to eliminate the two remaining drinks before they consider riding.
+
+There are times when a larger person may not accumulate as high a concentration of alcohol for each drink consumed, since they have more blood and other bodily fluids. However, because of individual differences it is better not to take the chance that abilities and judgment have not been affected. The real issue is not if you are legally intoxicated, impairment of judgment and skills begins well below the legal limit.
+
+![Image](https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/23ab1753-7638-4e6b-96cf-e9f65c7d62e9/images/5584c0a4-418c-4075-83c7-e82f3970c3a3.jpg?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T113251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=eacd588fe7fc483e469883f97aaa21cbf11d92d458fe46ffd21923d9e93b191c)
+
+## Alcohol and the Law
+
+In Kansas, a person with a BAC of .08% or above is considered intoxicated. It doesn't matter how sober you may look or act. The breath or urine test is what usually determines whether you are riding legally or illegally. Your chances of being stopped for riding under the influence of alcohol are increasing. Law enforcement is stepping up across the country in response to the senseless deaths and injuries caused by drinking drivers and riders.
+
+## Consequences of Conviction
+
+Years ago, first offenders had a good chance of getting off with a small fine and participation in alcohol- abuse classes. Today the laws of most states impose stiff penalties on drinking operators, and those penalties are mandatory, meaning that judges must impose them.
+
+If you are convicted of riding under the influence of alcohol or drugs, you may receive any of the following penalties:
+
+1. License Suspension - Mandatory suspension for conviction, arrest or refusal to submit to a breath test.
+
+2. Fines - Severe fines are another aspect of a conviction, usually levied with a license suspension.
+
+3. Community Service - Performing tasks such as picking up litter along the highway, washing cars in the motor-vehicle pool or working at an emergency ward.
+
+4. Costs - Additional lawyer's fees to pay, lost work time spent in court or alcohol-education programs, public transportation costs (while your license is suspended) and the added psychological costs of being tagged a "drunk driver."
+
+Minimize the Risk
+
+Your ability to judge how well you are riding is affected first. Although you may be performing more and more poorly, you think you are doing better and better. The result is that you ride confidently, taking greater and greater risks. Minimize the risks of drinking and riding by taking steps before you drink. Control your drinking or control your riding.
+
+Don't Drink
+
+Once you start, your resistance becomes weaker. Setting a limit or pacing yourself are poor alternatives at best. Your ability to exercise good judgment is one of the first things affected by alcohol. Even if you have tried to drink in moderation, you may not realize to what extent your skills have suffered from alcohol's fatiguing effects.
+
+1. Don't Ride - If you haven't controlled your drinking, you must control your riding.
+
+2. Leave the motorcycle - so, you won't be tempted to ride. Arrange another way to get home.
+
+3. Wait - If you exceed your limit, wait until your system eliminates the alcohol and its fatiguing effects.
+
+People who have had too much to drink are unable to make a responsible decision. It is up to others to step in and keep them from taking too great a risk. No one wants to do this, as it can be uncomfortable, embarrassing and thankless. You are rarely thanked for your efforts at the time. But the alternatives are often worse.
+
+There are several ways to keep friends from hurting themselves:
+
+1. Arrange a safe ride - Provide alternative ways for them to get home.
+
+2. Slow the pace of drinking - Involve them in other activities.
+
+3. Keep them there - Use any excuse to keep them from getting on their motorcycle. Serve them food and coffee to pass the time. Explain your concerns for their risks of getting arrested or hurt or hurting someone else. Take their key, if you can.
+
+4. Get friends involved - Use peer pressure from a group of friends to intervene.
+
+It helps to enlist support from others when you decide to step in. The more people on your side, the easier it is to be firm and the harder it is for the rider to resist. While you may not be thanked at the time, you will never have to say, "If only I had ... "
+
+## Fatigue
+
+Riding a motorcycle is more tiring than driving a car. On a long trip, you'll tire sooner than you would in a car. Avoid riding when tired. Fatigue can affect your control of the motorcycle.
+
+1. Protect yourself from the elements - Wind, cold, and rain make you tire quickly. Dress warmly. A windshield is worth its cost if you plan to ride long distances.
+
+2. Limit your distance - Experienced riders seldom try to ride more than about six hours a day.
+
+3. Take frequent rest breaks - Stop and get off the motorcycle at least every two hours.
+
+4. Don't drink or use drugs - Artificial stimulants often result in extreme fatigue or depression when they start to wear off. Riders are unable to concentrate on the task at hand.
+
+## Test your knowledge
+
+Choose the correct alternative (a, b, c, or d) that best answers the question
+
+XII. If you wait one hour per drink for the alcohol to be eliminated from your body before riding:
+
+a. You cannot be arrested for drinking and riding
+
+b. Your riding skills will not be affected
+
+c. Side effects from the drinking may remain
+
+d. You will be okay if you ride slowly
+
+## Kansas Statutes
+
+## Definitions
+
+8-126. The following words and phrases when used in this act shall have the meanings respectively ascribed to them herein:
+
+(a) "All-terrain vehicle" means any motorized nonhighway vehicle 50 inches or less in width, having a dry weight of 1,500 pounds or less, traveling on three or more nonhighway tires.
+
+(b) "Autocycle" means a three-wheel motorcycle that has a steering wheel and seating that does not require the operator to straddle or sit astride it. - Does not require motorcycle license.
+
+(v) "Motorcycle" means every motor vehicle, including autocycles, designed to travel on not more than three wheels in contact with the ground, except any such vehicle as may be included within the term "tractor" as defined in this section.
+
+W - restricted to operate a motorcycle with three wheels.
+
+Three-Wheeled Motorcycle
+
+8-240: (3) On and after January 1, 2017, an applicant for a class M license who passes a driving examination on a three-wheeled motorcycle which is not an autocycle shall have a restriction placed on such applicant's license limiting the applicant to the operation of a registered three-wheeled motorcycle. An applicant for a class M license who passes a driving examination on a two-wheeled motorcycle may operate any registered two-wheeled or three-wheeled motorcycle. The driving examination required by this paragraph shall be administered by the division, by the department of defense or as part of a curriculum recognized by the motorcycle safety foundation.
+
+Moped
+
+Requires a moped license, not a motorcycle license.
+
+(w) "Motorized bicycle" means every device having two tandem wheels or three wheels, which may be propelled by either human power or helper motor, or by both, and which has:
+
+(1) A motor which produces not more than 3.5 brake horsepower;
+
+(2) a cylinder capacity of not more than 130 cubic centimeters;
+
+(3) an automatic transmission; and
+
+(4) the capability of a maximum design speed of no more than 30 miles per hour.
+
+Earning Your License
+
+Safe riding requires knowledge and skill. Licensing tests are the best measurement of the skills necessary to operate safely in traffic. Assessing your own skills is not enough. People often overestimate their own abilities. It's even harder for friends and relatives to be totally honest about your skills. Licensing exams are designed to be scored more objectively.
+
+To earn your license, you must pass a knowledge test and an on-cycle skill test. Knowledge test questions are based on information, practices and ideas from this manual. They require that you know and understand road rules and safe riding practices. An on-cycle skill test will either be conducted in an actual traffic environment or in a controlled, off-street area.
+
+Knowledge Test- Sample Questions
+
+1. It is most important to flash your brake light when:
+
+a. Someone is following too closely
+
+b. You will be slowing suddenly
+
+c. There is a stop sign ahead
+
+d. Your signals are not working
+
+2. The front brake supplies how much of the potential stopping power?
+
+a. About one-quarter.
+
+b. About one-half.
+
+c. About three-quarters.
+
+d. All of the stopping power.
+
+3. To swerve correctly:
+
+a. Shift your weight quickly
+
+b. Turn the handlebars quickly
+
+c. Press the handle grip in the direction of the turn
+
+d. Press the handle grip in the opposite direction of the turn
+
+4. If a tire goes flat while riding and you must stop, it is usually best to:
+
+a. Relax on the handle grips
+
+b. Shift your weight toward the good tire
+
+c. Brake on the good tire and steer to the side of the road
+
+d. Use both brakes and stop quickly
+
+5. The car below is waiting to enter the intersection. It is best to:
+
+a. Make eye contact with the driver
+
+b. Reduce speed and be ready to react
+
+c. Maintain speed and position
+
+d. Maintain speed and move right
+
+Answers to Sample Questions
+
+1. B
+
+2. C
+
+3. C
+
+4. C
+
+5. B
+
+Test Your Knowledge Answers
+
+I.
+
+C
+
+II. D
+
+III. D
+
+IV. A
+
+V. C
+
+VI.
+
+D
+
+VII. D
+
+VIII. C
+
+IX. C
+
+X. D
+
+XI. B
+
+XII. C
+
+## Motorcycles Make Sense- So Does Professional Training
+
+Motorcycles are inexpensive to operate, fun to ride and easy to park. Unfortunately, many riders never learn critical skills needed to ride safely.
+
+Professional training for beginning and experienced riders prepares them for real-world traffic situations. Motorcycle Safety Foundation RiderCoursesSM teach and improve such skills as:
+
+· Effective turning
+
+· Braking maneuvers
+
+· Protective apparel selection
+
+· Obstacle avoidance
+
+· Traffic strategies
+
+· Maintenance
+
+For the basic or experienced RiderCourse nearest you, call toll free: 800.446.9227
+
+![Image](https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/23ab1753-7638-4e6b-96cf-e9f65c7d62e9/images/642f573e-a69c-47ce-bf41-00ebdbb4e16d.jpg?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T113251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=42904a3eea0d93916c4d86801412297b899189da38190cc3569316737568421d)
+
+The Motorcycle Safety Foundation's (MSF) purpose is to improve the safety of the motorcyclists on the nation's street and highways. In an attempt to reduce motorcycle crashes and injuries, the Foundation has programs in rider education, licensing improvement, public information and statics. These programs are designed for both motorcyclists and motorists. A national not-for-profit organization, the MSF is sponsored by BMW, Ducati, Harley-Davidson, Honda, Kawasaki, KTM, Piaggio/Vespa, Suzuki, Vengeance, Victory, and Yamaha. The information contained in this publication is offered for the benefit of those who have an interest in riding motorcycles. The information has been compiled from publications, interviews, and observations familiar with the use of motorcycles, accessories, and training. Because there are many differences in product design, riding styles, federal, state and local laws, there may be organizations and individuals who hold differing opinions. Consult your local regulatory agencies for information concerning the operation of motorcycle in your area. Although the MSF will continue to research, field test and publish responsible viewpoints on the subject, it disclaims any liability for the views expressed herein.
+
+Printing and distribution courtesy of
+
+Motorcycle Safety Foundation 2 Jenner Street, Suite 150, Irvine, CA 92618-3806 www.msf-usa.org
+
+Second Revision- December 1978 Third Revision February 1981 Fourth Revision- January 1983 Fifth Revision- October 1987 Sixth Revision- April 1991
+
+Seventh Revision- September 1992
+
+Eighth Revision- January 1999
+
+Ninth Revision-March 2000
+
+Tenth Revision-January 2002
+
+Eleventh Revision- July 2002 Twelfth Revision- May 2004

@@ -1,0 +1,5 @@
+chunkr-ai
+openai
+numpy
+faiss-cpu
+python-dotenv
