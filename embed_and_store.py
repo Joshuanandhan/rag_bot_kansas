@@ -25,6 +25,7 @@ print(f"Loaded {len(docs)} documents")
 ids = vector_store.add_documents(documents=docs)
 print(f"Added {len(ids)} documents to vector store")
 
+vector_store.save_local("faiss_index")
 
 #When you ride, your gear is "right" if it protects you. In any crash, you have a far better chance of avoiding serious injury if you wear:
 # 1. An approved helmet

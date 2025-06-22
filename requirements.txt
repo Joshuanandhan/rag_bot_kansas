@@ -6,3 +6,5 @@ python-dotenv
 langchain
 langchain-openai
 langchain-community
+gradio
+langgraph
