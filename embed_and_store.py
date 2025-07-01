@@ -1,3 +1,9 @@
+import dotenv
+import os
+
+# Load environment variables from .env file
+dotenv.load()
+
 from langchain_community.document_loaders import DirectoryLoader
 
 from langchain_openai import OpenAIEmbeddings

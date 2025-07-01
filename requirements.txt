@@ -8,3 +8,6 @@ langchain-openai
 langchain-community
 gradio
 langgraph
+unstructured
+deep-translator
+

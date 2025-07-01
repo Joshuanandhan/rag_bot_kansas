@@ -1,5 +1,5 @@
 import os
-import getpass
+from dotenv import load_dotenv
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_community.vectorstores import FAISS
 from langchain_core.tools import Tool
@@ -9,13 +9,16 @@ from langgraph.checkpoint.memory import MemorySaver
 from typing import List, Dict, Any
 import json
 
+# Load environment variables from .env file
+load_dotenv()
+
 class RAGAgent:
     def __init__(self, faiss_index_path: str = "faiss_index"):
         """Initialize the RAG Agent with FAISS vectorstore and OpenAI models."""
         
-        # Set up OpenAI API key if not already set
+        # Check if OpenAI API key is set in environment
         if not os.environ.get("OPENAI_API_KEY"):
-            os.environ["OPENAI_API_KEY"] = getpass.getpass("Enter your OpenAI API key: ")
+            raise ValueError("OPENAI_API_KEY not found in environment variables. Please add it to your .env file.")
         
         # Initialize embeddings
         self.embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
