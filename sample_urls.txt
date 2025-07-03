@@ -1,0 +1,12 @@
+# Sample URLs for Kansas DMV and Driving Information
+# Lines starting with # are comments and will be ignored
+# Add one URL per line
+
+https://www.ksrevenue.gov/dovindex.html
+https://www.ksrevenue.gov/dovstations.html
+https://www.ksrevenue.gov/dovoffice.html
+https://www.ksrevenue.gov/DOVAppointmentInfo/
+https://www.dmv.org/ks-kansas/
+
+# Example usage:
+# python webscraper.py -f sample_urls.txt -o output_all -n kansas_dmv_web 

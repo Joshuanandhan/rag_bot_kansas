@@ -13,7 +13,7 @@ import json
 load_dotenv()
 
 class RAGAgent:
-    def __init__(self, faiss_index_path: str = "faiss_index"):
+    def __init__(self, faiss_index_path: str = "unified_faiss_index"):
         """Initialize the RAG Agent with FAISS vectorstore and OpenAI models."""
         
         # Check if OpenAI API key is set in environment

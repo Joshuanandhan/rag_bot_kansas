@@ -10,4 +10,10 @@ gradio
 langgraph
 unstructured
 deep-translator
+requests
+beautifulsoup4
+lxml
+pandas
+scikit-learn
+sentence-transformers
 
