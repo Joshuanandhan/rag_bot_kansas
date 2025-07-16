@@ -1,0 +1,3 @@
+## 9.3.9 - Hazardous Waste Manifest
+When transporting hazardous wastes, you must sign by hand and carry a Uniform Hazardous Waste Manifest. The name and EPA registration number of the shippers, carriers, and destination must appear on the manifest. Shippers must prepare, date, and sign by hand the manifest. Treat the manifest as a shipping
+paper when transporting the waste. Only give the waste shipment to another registered carrier or disposal/treatment facility. Each carrier transporting the shipment must sign by hand the manifest. After you deliver the shipment, keep your copy of the manifest. Each copy must have all needed signatures and dates, including those of the person to whom you delivered the waste.

@@ -1,0 +1,2 @@
+## 11.2.2 - Suspension
+Springs/Air/Torque Look for missing, shifted, cracked, or broken leaf springs. Look for broken or distorted coil springs. If vehicle is equipped with torsion bars, torque arms, or other types of suspension components, check that they are not damaged and are mounted securely. Air ride suspension should be checked for damage and leaks.

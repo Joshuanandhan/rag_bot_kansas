@@ -1,0 +1,62 @@
+[
+  {
+    "index_name": "Flat L2",
+    "index_type": "flat_l2",
+    "success": true,
+    "creation_time": 0.00023984909057617188,
+    "train_time": 0,
+    "add_time": 0.00016260147094726562,
+    "memory_usage_mb": 0.29296875,
+    "avg_search_time_ms": 0.5651473999023438,
+    "min_search_time_ms": 0.016689300537109375,
+    "max_search_time_ms": 2.7379989624023438,
+    "std_search_time_ms": 1.0864444389341799,
+    "num_vectors": 50,
+    "vector_dimension": 1536,
+    "overall_score": 2.0
+  },
+  {
+    "index_name": "Flat IP",
+    "index_type": "flat_ip",
+    "success": false,
+    "error": "in method 'fvec_renorm_L2', argument 3 of type 'float *'"
+  },
+  {
+    "index_name": "IVF Flat",
+    "index_type": "ivf_flat",
+    "success": true,
+    "creation_time": 0.008089065551757812,
+    "train_time": 0.006530046463012695,
+    "add_time": 0.0006608963012695312,
+    "memory_usage_mb": 0.29296875,
+    "avg_search_time_ms": 0.10404586791992188,
+    "min_search_time_ms": 0.0069141387939453125,
+    "max_search_time_ms": 0.47016143798828125,
+    "std_search_time_ms": 0.18315219034718389,
+    "num_vectors": 50,
+    "vector_dimension": 1536,
+    "overall_score": 2.3
+  },
+  {
+    "index_name": "IVF PQ",
+    "index_type": "ivf_pq",
+    "success": false,
+    "error": "Error in void faiss::Clustering::train_encoded(idx_t, const uint8_t *, const Index *, Index &, const float *) at /Users/runner/work/faiss-wheels/faiss-wheels/faiss/faiss/Clustering.cpp:279: Error: 'nx >= k' failed: Number of training points (50) should be at least as large as number of clusters (256)"
+  },
+  {
+    "index_name": "HNSW",
+    "index_type": "hnsw",
+    "success": true,
+    "creation_time": 0.0015439987182617188,
+    "train_time": 0,
+    "add_time": 0.0013880729675292969,
+    "memory_usage_mb": 0.29296875,
+    "avg_search_time_ms": 0.0850677490234375,
+    "min_search_time_ms": 0.015020370483398438,
+    "max_search_time_ms": 0.34618377685546875,
+    "std_search_time_ms": 0.13067360185513135,
+    "num_vectors": 50,
+    "vector_dimension": 1536,
+    "overall_score": 1.7000000000000002
+  }
+]

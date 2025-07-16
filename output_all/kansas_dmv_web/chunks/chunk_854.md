@@ -1,0 +1,11 @@
+# Kansas Department of Revenue - Business Seizure - 04-30-2025
+
+**Source URL:** https://www.ksrevenue.gov/press/2025/bs04302025.html
+**Domain:** www.ksrevenue.gov
+**Scraped:** 2025-07-09T12:49:23.630005
+**Crawl Depth:** 5
+**Links Found:** 0
+
+---
+
+KDOR seizes assets in execution of Sedgwick County tax warrant 04/30/2025 Agents from the Kansas Department of Revenue (KDOR) accompanied by the Sedgwick County Sheriff Department on the 30th day, of April, 2025 executed tax warrants and seized the assets of The Anchor A Drinking Establishment Inc for nonpayment of Sales, Withholding and Liquor Drink tax totaling $32,549.07. The warrants were filed in Sedgwick. The assets were seized at 10:00 am at 1109 E Douglas Ave, Wichita Ks and 1113 E Douglas Ave, Wichita Ks. The types of assets seized include all known bank accounts, on-site cash, business inventory, as well as personal property belonging to the owner. The business was sealed closed with a public notice posted on the outside. All seized assets will be sold at public auction and the proceeds will pay for the delinquent taxes. KDOR’s policy and practice is to work with taxpayers in delinquent status to voluntarily enter into repayment agreements. It is only after these efforts and multiple failed collection attempts that the Department is forced to execute a tax warrant, utilizing such actions as bank levies, till taps, and ultimately asset seizure to ensure compliance with the law. KDOR’s responsibility to recover delinquent taxes not only ensures fairness for individuals and business owners who do pay their taxes, but also ensures that money is lawfully collected to fund state and local programs on which Kansans depend. These programs include education, highways, public safety, and human services. Customers, employees or others that may have items at the business may contact the agent assigned to this case at (785) 213-4453. The Anchor A Drinking Establishment Inc 1109 E Douglas Ave Wichita Ks 67211 The Anchor A Drinking Establishment Inc 1113 E Douglas Ave Wichita Ks 67211 Tax Warrants Executed: Sales Tax, SG-2025-ST-002160, Sedgwick County; SG-2025-ST-002892, Sedgwick County - $29,678.66 Withholding Tax, SG-2025-ST-002382, Sedgwick County - $1,930.51 Liquor Drink Tax, SG-2025-ST-002877, Sedgwick County - $939.90 Combined total: $32, 549.07 Back to the siezures page.

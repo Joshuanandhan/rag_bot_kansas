@@ -1,0 +1,2 @@
+## 8.2.2 - Danger of Surge
+Liquid surge results from movement of the liquid in partially filled tanks. This movement can have bad effects on handling. For example, when coming to a stop, the liquid will surge back and forth. When the wave hits the end of the tank, it tends to push the truck in the direction the wave is moving. If the truck is on a slippery surface such as ice, the wave can shove a stopped truck out into an intersection. The driver of a liquid tanker must be very familiar with the handling of the vehicle.

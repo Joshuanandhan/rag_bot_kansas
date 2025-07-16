@@ -1,0 +1,2 @@
+## 8.2.1 - High Center of Gravity
+High center of gravity means that much of the load's weight is carried high up off the road. This makes the vehicle top-heavy and easy to roll over. Liquid tankers are especially easy to roll over. Tests have shown that tankers can turn over at the speed limits posted for curves. Take highway curves and on ramp/off ramp curves well below the posted speeds.

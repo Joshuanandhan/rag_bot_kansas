@@ -1,0 +1,5 @@
+## Space to Merge
+When merging with other traffic flow, select a gap in the traffic flow of 4 to 6 seconds. Move into the middle of a 4 to 6 second gap, so both vehicles can adjust to a 3-second following interval. You need a 4 to 6 second gap whenever changing lanes, entering a roadway, or merging with other traffic flows.
+![CHECK FOR GAP ADJUST SPEED O MERGE ¢ D HSS, LLC]()
+You should try not to merge into a gap that is less than 4 to 6 seconds. A small gap can quickly become even smaller. Enter a gap that gives you time to adjust to the appropriate following interval. If crossing several lanes is necessary, change lanes one at a time as it is very difficult to determine that all the lanes are free and safe to cross and can create traffic congestion and cause multiple crashes.
+![CHECK FOR GAP ADJUST SPEED MERGE 0 HSS, LLC]()

@@ -1,0 +1,2 @@
+## 13.1.4 -Lane Changes
+During multiple lane portions of the test, you will be asked to change lanes to the left, and then back to the right. You should make the necessary traffic checks first, then use proper signals and smoothly change lanes when it is safe to do so.

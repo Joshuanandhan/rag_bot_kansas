@@ -1,0 +1,5 @@
+## 2.7.4 - Space Overhead
+Hitting overhead objects is a danger. Make sure you always have overhead clearance. Don't assume that the heights posted at bridges and overpasses are correct. Re-paving or packed snow may have reduced the clearances since the heights were posted.
+The weight of a cargo van changes its height. An empty van is higher than a loaded one. That you got under a bridge when you were loaded does not mean that you can do it when you are empty.
+If you doubt you have safe space to pass under an object, go slowly. If you aren't sure you can make it, take another route. Warnings are often posted on low bridges or underpasses, but sometimes they are not. Some roads can cause a vehicle to tilt. There can be a problem clearing objects along the edge of the road, such as signs, trees, or bridge supports. Where this is a problem, drive a little closer to the center of the road.
+Before you back into an area, get out and check for overhanging objects such as trees, branches, or electric wires. It's easy to miss seeing them while you are backing. (Also check for other hazards at the same time.)

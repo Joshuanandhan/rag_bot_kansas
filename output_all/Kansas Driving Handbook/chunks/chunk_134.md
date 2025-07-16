@@ -1,0 +1,15 @@
+## Signaling Your Movements
+Generally, other drivers expect your vehicle to maintain its travel path. You must use the appropriate turn signal before changing direction or slowing the vehicle to inform and warn other roadway users.
+![Signal Well in Advance 0 A STOP B HSS, LLC]()
+· In urban areas signal 100 feet or 3 to 5 seconds before making a turn or a lane change.
+· At speeds above 40 mph, signal 200 feet or 3 to 5 seconds before making a turn or a lane change.
+· Extra caution should be used when a vehicle is signaling a turn near a private street or side street that is close to an intersection. In the illustration [on the previous page], Driver A should not assume that Driver B will yield the right of way. Driver B should not assume where Driver A is turning. If Driver A is turning at the intersection they should wait until they have passed the side street before signaling their intentions, so Driver B does not pull into their travel path.
+Signal prior to changing direction - An appropriate signal gives other roadway users time to react to your vehicle movements. You should use a turn signal prior to turning left or right at an intersection. You should use the lane change device (hold signal device halfway up or down) prior to lane changes or merge areas.
+· Since it is easy to overlook other roadway users needing to know what you are planning to do, get into the habit of signaling prior to changing direction.
+· Signal as early as possible for the maneuver. Signal at least 3 to 4 seconds before you make your move, so other roadway users can respond to your change in direction. Most states have specific rules for when signals must be used. If there are streets, driveways, or entrances between your
+vehicle and where you want to turn, wait until the problem has passed prior to using the appropriate signal.
+· After making a turn or lane change, make sure the turn signal is off. On some occasions, the signals may not cancel properly. Drivers must cancel the signal if it has not cancelled by itself, so other roadway users do not become confused by an incorrect signal. Use of the lane changer-device (hold signal device halfway up or down) when changing lanes helps to eliminate this problem prior to changing lanes.
+Signal when reducing speeds - Brake lights let other roadway users know that the vehicle in front is slowing down. Always reduce speed as early as it is safe to do so. When stopping or reducing speed at a place where another driver may not expect it, tap the brake pedal three or four times lightly to warn other roadway users. Signal prior to reducing speed when:
+· Turning off a roadway that does not have separate turning or exiting lanes.
+· Parking or turning before an intersection since the following traffic expects your vehicle to travel through the intersection.
+· Avoiding a hazard in the roadway or stopping for slowing traffic that a driver close behind your vehicle cannot see.

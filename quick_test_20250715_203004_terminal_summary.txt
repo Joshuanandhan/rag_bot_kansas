@@ -1,0 +1,29 @@
+🎯 QUICK PERFORMANCE TEST TERMINAL SUMMARY
+==================================================
+Generated: 2025-07-15T20:30:05.305666
+
+🏆 PERFORMANCE RANKING:
+1. Fast & Cheap: 2.74s
+2. Balanced: 3.70s
+3. High Quality: 11.97s
+
+🥇 FASTEST CONFIGURATION: Fast & Cheap (2.74s)
+   ⚡ Retrieval: 0.67s
+   🤖 Generation: 0.68s
+   📝 Response length: 89 chars
+
+💰 ESTIMATED COSTS PER 1000 QUERIES:
+   Fast & Cheap: ~$0.76
+   Balanced: ~$0.29
+   High Quality: ~$7.56
+
+📁 GENERATED FILES:
+   📄 Raw results: quick_test_20250715_203004.json
+   📊 Dashboard: quick_test_20250715_203004_dashboard.png
+   📋 Terminal summary: quick_test_20250715_203004_terminal_summary.txt
+
+🔍 NEXT STEPS:
+1. View the dashboard PNG file for visual analysis
+2. Use the fastest configuration for your use case
+3. Consider running 'comprehensive' test for detailed analysis
+4. Monitor actual costs in your OpenAI usage dashboard

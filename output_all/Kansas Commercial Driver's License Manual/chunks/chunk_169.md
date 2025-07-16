@@ -1,0 +1,2 @@
+## 3.3.3 - Header Boards
+Front-end header boards ("headache racks") protect you from your cargo in case of a crash or emergency stop. Make sure the front-end structure is in good condition. The front-end structure should block the forward movement of any cargo you carry.

@@ -1,0 +1,2 @@
+## 2.17 - Driving Emergencies
+Traffic emergencies occur when two vehicles are about to collide. Vehicle emergencies occur when tires, brakes, or other critical parts fail. Following the safety practices in this manual can help prevent emergencies. But if an emergency does happen, your chances of avoiding a crash depend upon how well you act. Actions you can take are discussed below.

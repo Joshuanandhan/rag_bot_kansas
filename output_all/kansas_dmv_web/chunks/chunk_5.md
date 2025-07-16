@@ -1,0 +1,11 @@
+# Kansas Department of Revenue Division of Vehicles - E-Lien
+
+**Source URL:** https://www.ksrevenue.gov/dovelien.html
+**Domain:** www.ksrevenue.gov
+**Scraped:** 2025-07-09T12:31:10.904402
+**Crawl Depth:** 1
+**Links Found:** 0
+
+---
+
+Motor Vehicle System (MVS) Current Lien Information section of the transaction snapshot. When that box is checked the “Cancel” will come up in blue below to be selected for cancelling the transaction. If the vehicle has already been titled and registered with the incorrect information, you will need to contact the local county treasurer’s motor vehicle office the vehicle is registered in. The county office will be able to assist you in determining what is required to correct the title record. How do I release a lien? To release a lien that you have electronically filed with a title status of approved and electronic true, you may search using the VIN or by using the transaction date that the lien was filed. Releasing a lien is completed by selecting "Reports" from the main menu. When entering the VIN to release, the beginning date will need to be removed before searching. When using the transaction date, the system will populate all filings for that date or date range in chronological order. You will click “View” for the desired VIN to see the electronic filing. There is a select box that you will check next to the owner name in the Motor Vehicle System (MVS) Current Lien Information section of the transaction snapshot. When that box is checked the "Special Mail Out" option will be available for selection if the title needs to be issued to an address other than the one the state has on file for the vehicle owner. Additionally, the “Release” will come up in blue below to be selected to release the lien. If you are unable to electronically release your lien, please submit a signed and notarized lien release in one of the following manners: County treasurer’s motor vehicle office: take or fax to ANY county treasurer’s motor vehicle office to process. E-mail: KDOR_LienRelease@ks.gov Fax: 785-296-2383 If title is immediately needed, the vehicle owner may take release of lien to Kansas Vehicle Title Services Co. There is a fee for this transaction. Address: 2127 SW 37th St. Phone: 785-215-8435 Continue to the E-lien site

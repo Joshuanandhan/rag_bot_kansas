@@ -1,0 +1,2 @@
+## 4.2.3 - Standee Line
+No rider may stand forward of the rear of the driver's seat. Buses designed to allow standing must have a two-inch line on the floor or some other means of showing riders where they cannot stand. This is called the standee line. All standing riders must stay behind it.

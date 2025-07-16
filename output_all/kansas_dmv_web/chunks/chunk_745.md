@@ -1,0 +1,11 @@
+# Kansas Department of Revenue - Property Valuation - Valuation and Tax Maps
+
+**Source URL:** https://www.ksrevenue.gov/pvdvaluationmaps.html
+**Domain:** www.ksrevenue.gov
+**Scraped:** 2025-07-09T12:45:20.642135
+**Crawl Depth:** 5
+**Links Found:** 0
+
+---
+
+Valuation and Tax Maps 2024 Agricultural Values Nov 2023 to JULY 2024 Commercial Value Change Nov 2023 to July 2024 Oil and Gas Nov 2023 to July 2024 Per Capita Tax 2024 Per Capita Value 2024 Public Utilities Nov 2023 to July 2024 Residential Values Nov 2023 to July 2024 Total Value Change Nov 2023 to July 2024 2023 Agricultural Values Nov 2022 to JULY 2023 Commercial Value Change Nov 2022 to July 2023 Oil and Gas Nov 2022 to July 2023 Public Utilities Nov 2022 to July 2023 Residential Values Nov 2022 to July 2023 Total Value Change Nov 2022 to July 2023 2022 Agricultural Values Nov 2021 to July 2022 Commercial Value Change Nov 2021 to July 2022 Oil and Gas Nov 2021 to July 2022 Per Capita Tax 2022 Per Capita Value 2022 Public Utilities Nov 2021 to July 2022 Residential Values Nov 2021 to July 2022 Total Value Change Nov 2021 to July 2022 2021 Agricultural Values Nov 2020 to July 2021 Commercial Value Change Nov 2020 to July 2021 Oil and Gas Nov 2020 to July 2021 Per Capita Tax 2021 Per Capita Value 2021 Public Utilities Nov 2020 to July 2021 Residential Values Nov 2020 to July 2021 Total Value Change Nov 2020 to July 2021 2020 Agricultural Values Nov 2019 to July 2020 Commercial Value Change Nov 2019 to July 2020 Oil and Gas Nov 2019 to July 2020 Per Capita Tax 2020 Per Capita Value 2020 Public Utilities Nov 2019 to July 2020 Residential Values Nov 2019 to July 2020 Total Value Change Nov 2019 to July 2020 2019 Agricultural Values Nov 2018 to July 2019 Commercial Value Change Nov 2018 to July 2019 Oil and Gas Nov 2018 to July 2019 Per Capita Tax 2019 Per Capita Value 2019 Public Utilities Nov 2018 to July 2019 Residential Values Nov 2018 to July 2019 Total Value Change Nov 2018 to July 2019 2018 Agricultural Values Nov 2017 to July 2018 Commercial Value Change Nov 2017 to July 2018 Oil and Gas Nov 2017 to July 2018 Per Capita Tax 2018 Per Capita Value 2018 Residential Values Nov 2017 to July 2018 Total Value Change Nov 2017 to July 2018

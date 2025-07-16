@@ -1,0 +1,4 @@
+## White Lane Markings:
+Multiple lanes of travel in the same direction are separated by white lane markings. A dashed white line between lanes of traffic means that you may cross it to change lanes if a safe gap in traffic is available. A solid white line between lanes of traffic means that you must stay within the lane unless a special situation requires a lane change. They also mark the right edge of the roadway and parking spaces. Solid white lines designate turn lanes and prevent lane changes near intersections. White arrows on the roadway indicate which way traffic is flowing and can also indicate which turns may be made from which lanes.
+![HA LLC]()
+_One direction roadway, passing permitted_

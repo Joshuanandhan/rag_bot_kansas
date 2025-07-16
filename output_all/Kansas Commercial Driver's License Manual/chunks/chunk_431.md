@@ -1,0 +1,2 @@
+## 12.2.2 - Offset Back/Right
+You may be asked to back into a space that is to the right rear of your vehicle. You will drive straight forward the outer boundary. From that position you must back the vehicle into the opposite lane until the front of your vehicle has passed the first set of cones without striking boundary lines or cones. (See Figure 12.2)

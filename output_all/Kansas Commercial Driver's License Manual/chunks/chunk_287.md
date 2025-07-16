@@ -1,0 +1,4 @@
+## 7.2.4 - Coupling and Uncoupling Other Combinations
+The methods described so far apply to the more common tractor-trailer combinations. However, there are other ways of coupling and uncoupling the many types of truck-trailer and tractor-trailer combinations that are in use. There are too many to cover in this manual. You will need to learn the correct way to couple and uncouple the vehicle(s) you will drive according to the manufacturer and/or owner specifications.
+7.3 - Inspecting Doubles and Triples
+Use the seven-step inspection procedure described in Section 2 to inspect your combination vehicle. There are more things to inspect on a combination vehicle than on a single vehicle. Many of these items are simply more of what you would find on a single vehicle. (For example, tires, wheels, lights, reflectors, etc.) However, there are also some new things to check. These are discussed below.

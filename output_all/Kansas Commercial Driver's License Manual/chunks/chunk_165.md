@@ -1,0 +1,2 @@
+## 3.2.3 - Don't Be Top-heavy
+The height of the vehicle's center of gravity is very important for safe handling. A high center of gravity (cargo piled up high or heavy cargo on top) means you are more likely to tip over. It is most dangerous in curves, or if you have to swerve to avoid a hazard. It is very important to distribute the cargo so it is as low as possible. Put the heaviest parts of the cargo under the lightest parts.

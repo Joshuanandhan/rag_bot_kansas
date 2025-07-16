@@ -1,0 +1,2 @@
+## 8.2.4 - Baffled Tanks
+Baffled liquid tanks have bulkheads in them with holes that let the liquid flow through. The baffles help to control the forward and backward liquid surge. Side-to-side surge can still occur. This can cause a roll over.

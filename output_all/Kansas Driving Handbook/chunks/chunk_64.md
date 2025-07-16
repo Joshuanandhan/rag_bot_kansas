@@ -1,0 +1,2 @@
+## Over-the-Counter Drugs
+Over-the-counter drugs taken for headaches, colds, hay fever or other allergies or those to calm nerves can make you drowsy and affect your driving. Pep pills, "uppers" and diet pills can make you feel nervous, dizzy, unable to concentrate, and they can affect your vision. Check the label on the product before you take an over-the-counter drug for warnings about its effect. If you are not sure if it is safe to take the drug and drive, ask your doctor or pharmacist about any side effects.

@@ -1,0 +1,14 @@
+## RIGHT-OF-WAY
+Right-of-way rules are an aid to safe and smooth traffic flow. They emphasize courtesy and common sense.
+· The driver of a vehicle approaching an intersection must yield the right-of-way to a vehicle that has already entered the intersection from a different highway.
+· When two vehicles enter an intersection from different roadways at approximately the same time the driver on the left shall yield the right-of-way to the vehicle on the right.
+· When entering an intersection with no traffic controls you must yield to the vehicle on your right.
+· If you are entering a through street or highway at which there are stop signs, you must stop completely and proceed when you can do so without interfering with other traffic.
+· Emergency vehicles (police cars, fire engines and ambulances) have the right-of-way when they are displaying a red light in front or when they signal with a siren or bell. Immediately drive to the right and stop until the emergency vehicles have passed. NEVER follow such vehicles. K.S.A. 8-1530
+· When approaching a stationary emergency vehicle from the rear that is using flashing warning lights on a street or highway with two or more lanes in each direction, proceed with due caution and move to a lane that is not next to the stopped emergency vehicle. If it is not possible to change lanes, then the driver must reduce speed and proceed with due caution. K.S.A. 8-1530
+· You must yield to construction vehicles and workers that are actually engaged in work on the roadway. Just as with emergency vehicles, you must move into a traffic lane that is not next to the construction vehicles when you encounter one working on the road. K.S.A. 8-1531
+· The driver of a vehicle turning left must yield the right-of-way to vehicles approaching from the opposite direction. If both cars enter the intersection at the same time, the car going straight through has the right-of-way.
+· Vehicles on a public street or highway have the right-of-way over vehicles entering from a private drive or side road. K.S.A 8-1555
+· The driver of a vehicle within a business or residential district emerging from an alley, driveway or building, must stop immediately prior to driving onto a sidewalk or onto the sidewalk area extending across any alleyway or driveway. After stopping the driver shall then yield the right-of-way.
+· Cars controlled by a yield sign need stop only when necessary to avoid interfering with other traffic that has the right-of-way, including pedestrians.
+· Do not enter an intersection, crosswalk, or RR crossing unless there is sufficient space on the other side for your vehicle. Even though you may have a green light, you may not enter an intersection if there isn't room to get all the way across. K.S.A. 8-1584

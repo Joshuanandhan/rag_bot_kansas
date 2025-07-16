@@ -1,0 +1,2 @@
+## 2.1.7 - After-trip Inspection and Report
+You may have to make a written report each day on the condition of the vehicle(s) you drove. Report anything affecting safety or possibly leading to mechanical breakdown.

@@ -1,0 +1,3 @@
+## 9.7 - Hazardous Materials -Emergencies
+## 9.7.1 - Emergency Response Guidebook (ERG)
+The Department of Transportation has a guidebook for firefighters, police, and industry workers on how to protect themselves and the public from hazardous materials. The guide is indexed by proper shipping name and hazardous materials identification number. Emergency personnel look for these things on the shipping paper. That is why it is vital that the proper shipping name, identification number, label, and placards are correct.

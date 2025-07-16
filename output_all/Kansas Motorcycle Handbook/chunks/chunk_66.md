@@ -1,0 +1,2 @@
+## Alcohol and the Law
+In Kansas, a person with a BAC of .08% or above is considered intoxicated. It doesn't matter how sober you may look or act. The breath or urine test is what usually determines whether you are riding legally or illegally. Your chances of being stopped for riding under the influence of alcohol are increasing. Law enforcement is stepping up across the country in response to the senseless deaths and injuries caused by drinking drivers and riders.

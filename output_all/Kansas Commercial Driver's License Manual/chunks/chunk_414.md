@@ -1,0 +1,2 @@
+## Lighting Indicators
+In addition to checking the lighting indicators listed in Section 10.2 of this manual, school bus drivers must also check the following lighting indicators (internal panel lights): Alternately flashing amber lights indicator, if equipped. Alternately flashing red lights indicator. Strobe light indicator, if equipped.

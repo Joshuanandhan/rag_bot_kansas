@@ -1,0 +1,3 @@
+## 3.2.4 - Balance the Weight
+Poor weight balance can make vehicle handling unsafe. Too much weight on the steering axle can cause hard steering. It can damage the steering axle and tires. Under-loaded front axles (caused by shifting weight too far to the rear) can make the steering axle weight too light to steer safely. Too little weight on the driving axles can cause poor traction. The drive wheels may spin easily. During bad weather, the truck may not be able to keep going. Weight that is loaded so there is a high center of gravity causes greater chance of rollover. On flat bed vehicles, there is also a greater chance that the load will shift to the side or fall off. See Figure 3.1.
+![LOADING CARGO Wrong Right Wrong Right Wrong Right Wrong Wrong Right Figure 3.1]()

@@ -1,0 +1,4 @@
+## Increasing Conspicuity
+In crashes with motorcyclists, drivers often say that they never saw the motorcycle. From ahead or behind, a motorcycle's outline is much smaller than a car's. Also, it's hard to see something you are not looking for, and most drivers are not looking for motorcycles. More likely, they are looking through the skinny, two-wheeled silhouette in search of cars that may pose a problem to them.
+Even if a driver does see you coming, you aren't necessarily safe. Smaller vehicles appear farther away and seem to be traveling slower than they are. It is common for drivers to pull out in front of motorcyclists, thinking they have plenty of time. Too often, they are wrong.
+However, you can do many things to make it easier for others to recognize you and your motorcycle.

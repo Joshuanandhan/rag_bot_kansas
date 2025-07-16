@@ -1,0 +1,5 @@
+## 5.4.6 - Proper Braking Technique
+Remember. The use of brakes on a long and/or steep downgrade is only a supplement to the braking effect of the engine. Once the vehicle is in the proper low gear, the following is the proper braking technique:
+Apply the brakes just hard enough to feel a definite slowdown.
+When your speed has been reduced to approximately five mph below your "safe" speed, release the brakes. (This application should last for about three seconds.) When your speed has increased to your "safe" speed, repeat steps 1 and 2.
+For example, if your "safe" speed is 40 mph, you would not apply the brakes until your speed reaches 40 mph. You now apply the brakes hard enough to gradually reduce your speed to 35 mph and then release the brakes. Repeat this as often as necessary until you have reached the end of the downgrade.

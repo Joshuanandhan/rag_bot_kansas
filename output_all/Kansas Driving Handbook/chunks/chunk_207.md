@@ -1,0 +1,2 @@
+## Basic Control Skills on Road Test
+During the Road Test you will be asked to demonstrate some of the basic control skills exercises (e.g., two- point turnabout, three-point turnabout, parallel parking) in a real-world setting. The examiner will provide you with instructions. Upon completion of the exercise, you will continue with the Road test.

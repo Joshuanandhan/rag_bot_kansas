@@ -1,0 +1,2 @@
+## Stuck Throttle
+Twist the throttle back and forth several times. If the throttle cable is stuck, this may free it. If the throttle stays stuck, immediately operate the engine cut-off switch and pull in the clutch at the same time. This will remove power from the rear wheel, though engine sound may not immediately decline. Once the motorcycle is "under control," pull off and stop. After you have stopped, check the throttle cable carefully to find the source of the trouble. Make certain the throttle works freely before you start to ride again.

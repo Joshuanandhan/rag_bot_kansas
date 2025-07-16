@@ -1,0 +1,2 @@
+## 7.4 - Doubles/Triples Air Brake Check
+Check the brakes on a double or triple trailer as you would any combination vehicle. Subsection 6.5.2 explains how to check air brakes on combination vehicles. You must also make the following checks on your double or triple trailers

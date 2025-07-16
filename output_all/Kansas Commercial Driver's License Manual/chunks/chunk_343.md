@@ -1,0 +1,2 @@
+## 9.6.2 - Parking a Placarded Vehicle Not Transporting Division 1.1, 1.2, or 1.3) Explosives
+You may park a placarded vehicle (not laden with explosives) within five feet of the traveled part of the road only if your work requires it. Do so only briefly. Someone must always watch the vehicle when parked on a public roadway or shoulder. Do not uncouple a trailer and leave it with hazardous materials on a public street. Do not park within 300 feet of an open fire.

@@ -1,0 +1,3 @@
+## Keep Your Distance
+Maintain close ranks but at the same time keep a safe distance to allow each rider in the group time and space to react to hazards. A close group takes up less space on the highway, is easier to see and is less likely to be separated. However, it must be done properly. Don't Pair Up - Never operate directly alongside another rider. There is no place to go if you must avoid a car or something on the road. To talk, wait until you are both stopped.
+![Staggered Formation]()

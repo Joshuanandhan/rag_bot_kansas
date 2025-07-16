@@ -1,0 +1,2 @@
+## Appointment Scheduling
+Appointments are recommended when visiting the driver's license office. Please visit https://www.ksrevenue.gov/DOVAppointmentInfo/ for information on scheduling with your local state driver's license office.

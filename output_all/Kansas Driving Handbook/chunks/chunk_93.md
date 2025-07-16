@@ -1,0 +1,3 @@
+## WRONG WAY
+Wrong Way - This sign tells you that your vehicle is moving in the wrong direction. You will see this sign on expressway ramps a short distance past the DO NOT ENTER sign. You also will see this sign if you turn the wrong way onto a one-way street, alley or driveway.
+Guide Signs - These signs are square and rectangular and are green, brown, or blue. They give information on intersecting roads, help direct you to cities and towns, and show points of interest along the highway. Guide signs can also help you find hospitals, service stations, restaurants, and hotels.

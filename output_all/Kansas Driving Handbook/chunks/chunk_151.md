@@ -1,0 +1,2 @@
+## Uneven Surface Drop-Offs
+Uneven surface drop-offs can cause serious crashes if you react improperly. Avoid panic steering, in which you try to return to the pavement as soon as your wheels leave the pavement. This maneuver can lead you to provide too much steering input before you have a chance to slow down.

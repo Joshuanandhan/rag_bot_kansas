@@ -1,0 +1,3 @@
+## If you are under 21
+If you are under the age of twenty-one (21), it is illegal to purchase, possess or drink alcoholic beverages. Alcohol and other impairing drugs affect a person's ability to perceive their surroundings, react to emergencies and skillfully operate a motor vehicle. For new drivers learning
+complex skills, the effects of alcohol and other impairing drugs is greater. All states have "Zero Tolerance" laws (no alcohol in the circulatory system) or similar laws for drivers under the age of 21.

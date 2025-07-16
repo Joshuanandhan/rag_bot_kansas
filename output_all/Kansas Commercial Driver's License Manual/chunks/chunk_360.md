@@ -1,0 +1,3 @@
+## 10.1.2 - Correct Mirror Adjustment
+Proper adjustment and use of all mirrors is vital to the safe operation of the school bus in order to observe the danger zone around the bus and look for students, traffic, and other objects in this area. You should always check each mirror before operating the school bus to obtain maximum viewing area. If necessary, have the mirrors adjusted.
+![THE DANGER ZONES 10 Feet Most Dangerous Danger From Passing Cars Walking Area SCHOOL BUS 10 Feet 10 Feet Danger Zones 10 Feet Most Dangerous Figure 10.1]()

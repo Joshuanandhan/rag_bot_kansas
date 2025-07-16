@@ -1,0 +1,8 @@
+## Emergency Vehicles
+Drivers of emergency vehicles must drive with regard for the safety of other roadway users, but they may, under emergency conditions, be exempt from traffic control laws, such as parking in places where you cannot do so, going through a red light or stop sign after slowing down, driving faster than the posted speed limit, and disregarding rules covering direction of movement or turning.
+Certain vehicles have sirens and flashing lights which assist in moving quickly through traffic to answer emergency calls. Emergency vehicles include fire department equipment, police vehicles, ambulances, and specialty-equipped vehicles (i.e., blood delivery vehicles, river rescue vehicles, hazmat response, etc.).
+As a driver:
+· When you hear a siren, or see a vehicle approaching with flashing lights, move to the right and pull over to the curb or edge of the road and stop. Position yourself parallel and as near to the curb as possible. Always keep intersections clear.
+· After the emergency vehicle passes, carefully look behind you for other vehicles, and when it is safe to do, so return to the roadway. You must stay at least 500 feet away from the emergency vehicle.
+· If an emergency vehicle is leaving or returning to its garage and the emergency lights are still flashing, you must stop until the emergency vehicle is safely out of your path.
+· During an emergency, you must obey the direction of law enforcement or emergency services personnel on the scene.

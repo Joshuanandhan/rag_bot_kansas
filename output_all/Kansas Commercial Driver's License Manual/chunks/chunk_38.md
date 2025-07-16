@@ -1,0 +1,3 @@
+## 1.3.3 - Serious Traffic Violations
+Serious traffic violations are excessive speeding (15 mph or more above the posted limit), reckless driving, improper or erratic lane changes, following a vehicle too closely, traffic offenses committed in a CMV in connection with fatal traffic accidents, driving a CMV without obtaining a CDL or having a CDL in the driver's possession, and driving a CMV without the proper class of CDL and/or endorsements.
+You will lose your CDL: For at least 60 days if you have committed two serious traffic violations within a three-year period involving a CMV. For at least 120 days for three or more serious traffic violations within a three-year period involving a CMV.

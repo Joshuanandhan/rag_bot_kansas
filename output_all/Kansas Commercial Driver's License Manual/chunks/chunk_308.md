@@ -1,0 +1,2 @@
+## 8.3.4 - Stopping Distance
+Keep in mind how much space you need to stop your vehicle. Remember that wet roads double the normal stopping distance. Empty tank vehicles may take longer to stop than full ones.

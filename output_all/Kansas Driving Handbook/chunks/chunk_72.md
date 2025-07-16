@@ -1,0 +1,3 @@
+## Traditional Mirror Settings
+· After the seat is properly adjusted and you are seated in an upright position, adjust the left side view mirror to see the left edge of the vehicle and adjust the right-side view mirror to see the right edge of the vehicle.
+· This setting may be more appropriate for trucks, vans and SUV type vehicles when towing or backing in tight areas. Passenger vehicle side view mirrors are not designed for backing the vehicle.

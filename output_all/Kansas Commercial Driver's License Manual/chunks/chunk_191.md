@@ -1,0 +1,3 @@
+## 4.3.3 - Common Accidents
+The Most Common Bus Accidents. Bus accidents often happen at intersections. Use caution, even if a signal or stop sign controls other traffic. School and mass transit buses sometimes scrape off mirrors or hit passing vehicles when pulling out from a bus stop. Remember the clearance your bus needs, and watch for poles and tree limbs at stops. Know the size of the gap your bus needs to accelerate and merge with
+traffic. Wait for the gap to open before leaving the stop. Never assume other drivers will brake to give you room when you signal or start to pull out.

@@ -1,0 +1,4 @@
+## 5.1.11 - Low Air Pressure Warning
+A low air pressure warning signal is required on vehicles with air brakes. A warning signal you can see must come on before the air pressure in the tanks falls below 55 psi. (Or one half the compressor governor cutout pressure on older vehicles.) The warning is usually a red light. A buzzer may also come on.
+Another type of warning is the "wig wag." This device drops a mechanical arm into your view when the pressure in the system drops below 55 psi. An automatic wig wag will rise out of your view when the pressure in the system goes above 55 psi. The manual reset type must be placed in the "out of view" position manually. It will not stay in place until the pressure in the system is above 55 psi.
+On large buses it is common for the low-pressure warning devices to signal at 80-85 psi.

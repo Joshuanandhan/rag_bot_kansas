@@ -1,0 +1,2 @@
+## PASSING ON THE RIGHT
+You may pass another vehicle on the right when driving on one-way streets and highways marked for two or more lanes of traffic moving in the same direction. Do not drive on the shoulder to pass except during an emergency or when directed by traffic authorities. When passing on the right check traffic ahead and behind and use signals to show your intention.

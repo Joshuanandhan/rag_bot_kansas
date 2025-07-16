@@ -1,0 +1,2 @@
+## 2.15 - Railroad-highway Crossings
+Railroad-highway grade crossings are a special kind of intersection where the roadway crosses train tracks. These crossings are always dangerous. Every such crossing must be approached with the expectation that a train is coming. It is extremely difficult to judge the distance of the train from the crossing as well as the speed of an approaching train.

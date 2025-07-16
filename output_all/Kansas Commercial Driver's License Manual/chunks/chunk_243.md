@@ -1,0 +1,3 @@
+## 6.2.1 - Trailer Hand Valve
+The trailer hand valve (also called the trolley valve or Johnson bar) works the trailer brakes. The trailer hand valve should be used only to test the trailer brakes. Do not use it in driving because of the danger of making the trailer skid. The foot brake sends air to all of the brakes on the vehicle (including the trailer(s)). There is much less danger of causing a skid or jackknife when using just the foot brake.
+Never use the hand valve for parking because all the air might leak out unlocking the brakes (in trailers that don't have spring brakes). Always use the parking brakes when parking. If the trailer does not have spring brakes, use wheel chocks to keep the trailer from moving.

@@ -1,0 +1,4 @@
+## 6.2.6 - Trailer Air Tanks
+Each trailer and converter dolly has one or more air tanks. They are filled by the emergency (supply) line from the tractor. They provide the air pressure used to operate trailer brakes. Air pressure is sent from the air tanks to the brakes by relay valves.
+The pressure in the service line tells how much pressure the relay valves should send to the trailer brakes. The pressure in the service line is controlled by the brake pedal (and the trailer hand brake).
+It is important that you don't let water and oil build up in the air tanks. If you do, the brakes may not work correctly. Each tank has a drain valve on it and you should drain each tank every day. If your tanks have automatic drains, they will keep most moisture out. But you should still open the drains to make sure.

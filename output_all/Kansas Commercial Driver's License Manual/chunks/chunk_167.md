@@ -1,0 +1,3 @@
+## 3.3 - Securing Cargo
+## 3.3.1 - Blocking and Bracing
+Blocking is used in the front, back, and/or sides of a piece of cargo to keep it from sliding. Blocking is shaped to fit snugly against cargo. It is secured to the cargo deck to prevent cargo movement. Bracing is also used to prevent movement of cargo. Bracing goes from the upper part of the cargo to the floor and/or walls of the cargo compartment.

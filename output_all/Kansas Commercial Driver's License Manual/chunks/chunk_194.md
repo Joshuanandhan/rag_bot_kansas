@@ -1,0 +1,3 @@
+## 4.3.6 - Drawbridges
+Stop at Drawbridges. Stop at drawbridges that do not have a signal light or traffic control attendant. Stop at least 50 feet before the draw of the bridge. Look to make sure the draw is completely closed before crossing. You do not need to stop, but must slow down and make sure it's safe, when: There is a traffic light showing green.
+The bridge has an attendant or traffic officer who controls traffic whenever the bridge opens.

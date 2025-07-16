@@ -1,0 +1,3 @@
+## 10.7 - Special Safety Considerations
+## 10.7.1 - Strobe Lights
+Some school buses are equipped with roof-mounted, white strobe lights. If your bus is so equipped, the overhead strobe light should be used when you have limited visibility. This means that you cannot easily see around you - in front, behind, or beside the school bus. Your visibility could be only slightly limited or it could be so bad that you can see nothing at all. In all instances, understand and obey your state or local regulations concerning the use of these lights.

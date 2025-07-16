@@ -1,0 +1,3 @@
+## · Use of Brake-door Interlocks
+Bus drivers must have a commercial driver license if they drive a vehicle designed to seat more than 16 or more persons, including the driver.
+Bus drivers must have a passenger endorsement on their commercial driver license. To get the endorsement you must pass a knowledge test on Sections 2 and 4 of this manual. (If your bus has air brakes, you must also pass a knowledge test on Section 5.) You must also pass the skills tests required for the class of vehicle you drive.

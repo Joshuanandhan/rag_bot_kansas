@@ -1,0 +1,3 @@
+## Driver's Education
+There are many online Driver's Education courses being offered over the internet. Internet courses do not meet requirements for a Driver's License in Kansas. A certificate of completion from an Internet Driver Education course will not be accepted for licensure.
+The only programs that are approved by the State of Kansas for Driver Education purposes are programs offered through a local, accredited school districts which have been approved by the Department of Education or approved private driver's education schools offering 8 hours of classroom instruction and 6 hours of behind-the-wheel instruction.

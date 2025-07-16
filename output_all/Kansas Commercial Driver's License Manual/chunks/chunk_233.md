@@ -1,0 +1,2 @@
+## 6.1 - Driving Combination Vehicles Safely
+Combination vehicles are usually heavier, longer, and require more driving skill than single commercial vehicles. This means that drivers of combination vehicles need more knowledge and skill than drivers of single vehicles. In this section, we talk about some important safety factors that apply specifically to combination vehicles.

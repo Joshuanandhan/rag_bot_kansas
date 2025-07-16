@@ -1,0 +1,6 @@
+## Backing
+It is hard for you to see behind your vehicle; therefore, try to do as little backing as possible. In a shopping center try to find a parking space you can drive through, so you can drive forward when you leave. When backing your vehicle, you must:
+· Check behind your vehicle before you get in. Children or small objects cannot be seen from the driver's seat.
+· Place your foot on the brake and shift to reverse. Grasp the steering wheel at 12 o'clock with your left hand. Turn the wheel to the right and place your right arm on the back of the seat and look directly through the rear window. You may use your rearview and side mirrors for backing but keep in mind that these mirrors do not show directly behind your vehicle.
+· Accelerate gently and smoothly, keeping speed slow. Your vehicle is much harder to steer while you are backing. Steer slightly in the direction the rear of the vehicle should move. If backing while turning, make quick checks to the front and sides. Continue looking to the rear until coming to a complete stop.
+![€]()

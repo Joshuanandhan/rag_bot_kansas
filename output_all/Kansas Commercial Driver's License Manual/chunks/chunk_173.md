@@ -1,0 +1,2 @@
+## 3.4.2 - Hanging Meat
+Hanging meat (suspended beef, pork, lamb) in a refrigerated truck can be a very unstable load with a high center of gravity. Particular caution is needed on sharp curves such as off ramps and on ramps. Go slowly.

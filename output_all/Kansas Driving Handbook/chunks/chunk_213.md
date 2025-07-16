@@ -1,0 +1,2 @@
+## Tornadoes
+Vehicles are notorious as death traps in tornadoes because they are easily tossed and destroyed. If you spot a tornado either leave the vehicle for sturdy shelter or drive out of the tornado's path. Avoid seeking shelter under bridges or overpasses. If a tornado moves through, winds will be stronger beneath the overpass due to a "wind tunnel effect." Bridges and overpasses provide little protection from flying objects.

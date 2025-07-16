@@ -1,0 +1,2 @@
+## 2.3.3 - Automatic Transmissions
+Some vehicles have automatic transmissions. You can select a low range to get greater engine braking when going down grades. The lower ranges prevent the transmission from shifting up beyond the selected gear (unless the governor rpm is exceeded). It is very important to use this braking effect when going down grades.

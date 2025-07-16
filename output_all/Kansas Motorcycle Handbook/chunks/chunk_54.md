@@ -1,0 +1,2 @@
+## Carrying Cargo and Passengers
+Only experienced riders should carry passengers or large loads. The extra weight changes the way the motorcycle handles, balances, speeds up and slows down. Before taking a passenger or a heavy load on the street, practice away from traffic.

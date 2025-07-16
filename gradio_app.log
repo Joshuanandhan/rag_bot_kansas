@@ -1,0 +1,425 @@
+2025-07-09 13:23:17,710 - INFO - 🚀 Initializing RAG Agent...
+2025-07-09 13:23:17,811 - INFO - Loading faiss.
+2025-07-09 13:23:17,831 - INFO - Successfully loaded faiss.
+2025-07-09 13:23:17,835 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-09 13:23:17,888 - INFO - ✅ RAG Agent initialized successfully
+2025-07-09 13:23:17,888 - INFO - 🎨 Creating Gradio interface...
+2025-07-09 13:23:17,911 - INFO - 🎭 Setting up Gradio blocks...
+2025-07-09 13:23:17,940 - INFO - ✅ Gradio interface created successfully
+2025-07-09 13:23:18,015 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-07-09 13:23:18,025 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-07-09 13:23:18,570 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-07-09 13:23:18,571 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-07-09 13:23:45,918 - INFO - 📝 New message received: hi...
+2025-07-09 13:23:45,919 - INFO - 🔄 Processing query for session web_132345
+2025-07-09 13:23:48,605 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-09 13:23:48,618 - INFO - {"timestamp": "2025-07-09T13:23:48.618760", "session_id": "web_132345", "language": "en", "user_query": "hi", "agent_response": "Hello! How can I assist you today?", "response_length": 34, "error": null}
+2025-07-09 13:24:05,166 - INFO - 📝 New message received: what can u do...
+2025-07-09 13:24:05,167 - INFO - 🔄 Processing query for session web_132405
+2025-07-09 13:24:07,933 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-09 13:24:07,935 - INFO - {"timestamp": "2025-07-09T13:24:07.935573", "session_id": "web_132405", "language": "en", "user_query": "what can u do", "agent_response": "I can assist you with a variety of tasks, including:\n\n1. **Answering Questions**: I can provide information on a wide range of topics, such as driving regulations, commercial driver's licenses, and mo...", "response_length": 566, "error": null}
+2025-07-09 13:24:18,754 - INFO - 📝 New message received: time ...
+2025-07-09 13:24:18,754 - INFO - 🔄 Processing query for session web_132418
+2025-07-09 13:24:19,569 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-09 13:24:19,575 - INFO - {"timestamp": "2025-07-09T13:24:19.575264", "session_id": "web_132418", "language": "en", "user_query": "time ", "agent_response": "I don't have the capability to check the current time. You can easily find the time on your device or by searching online.", "response_length": 122, "error": null}
+2025-07-09 13:24:35,993 - INFO - 📝 New message received: list the locations in kansas...
+2025-07-09 13:24:35,993 - INFO - 🔄 Processing query for session web_132435
+2025-07-09 13:24:36,697 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-09 13:24:37,125 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-09 13:24:41,368 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-09 13:24:41,372 - INFO - {"timestamp": "2025-07-09T13:24:41.372015", "session_id": "web_132435", "language": "en", "user_query": "list the locations in kansas", "agent_response": "Kansas has various county locations for the Department of Revenue Division of Vehicles. Here are some resources where you can find specific locations:\n\n1. **[Kansas DMV County Locations](https://www.k...", "response_length": 839, "error": null}
+2025-07-09 13:30:34,144 - INFO - 🚀 Initializing RAG Agent...
+2025-07-09 13:30:34,248 - INFO - Loading faiss.
+2025-07-09 13:30:34,270 - INFO - Successfully loaded faiss.
+2025-07-09 13:30:34,273 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-09 13:30:34,327 - INFO - ✅ RAG Agent initialized successfully
+2025-07-09 13:30:34,327 - INFO - 🎨 Creating Gradio interface...
+2025-07-09 13:30:34,350 - INFO - 🎭 Setting up Gradio blocks...
+2025-07-09 13:30:34,378 - INFO - ✅ Gradio interface created successfully
+2025-07-09 13:30:34,449 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-07-09 13:30:34,459 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-07-09 13:30:34,709 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-07-09 13:30:34,785 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-07-09 13:30:51,852 - INFO - 📝 New message received: hi...
+2025-07-09 13:30:51,852 - INFO - 🔄 Processing query for session web_133051
+2025-07-09 13:30:52,718 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-09 13:30:52,733 - INFO - {"timestamp": "2025-07-09T13:30:52.733475", "session_id": "web_133051", "language": "en", "user_query": "hi", "agent_response": "Hello! How can I assist you today?", "response_length": 34, "error": null}
+2025-07-09 13:31:22,507 - INFO - 🚀 Initializing RAG Agent...
+2025-07-09 13:31:22,602 - INFO - Loading faiss.
+2025-07-09 13:31:22,610 - INFO - Successfully loaded faiss.
+2025-07-09 13:31:22,613 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-09 13:31:22,667 - INFO - ✅ RAG Agent initialized successfully
+2025-07-09 13:31:22,667 - INFO - 🎨 Creating Gradio interface...
+2025-07-09 13:31:22,690 - INFO - 🎭 Setting up Gradio blocks...
+2025-07-09 13:31:22,719 - INFO - ✅ Gradio interface created successfully
+2025-07-09 13:31:22,789 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-07-09 13:31:22,798 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-07-09 13:31:23,039 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-07-09 13:31:23,170 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-07-09 13:34:35,190 - INFO - 🚀 Initializing RAG Agent...
+2025-07-09 13:34:35,287 - INFO - Loading faiss.
+2025-07-09 13:34:35,295 - INFO - Successfully loaded faiss.
+2025-07-09 13:34:35,298 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-09 13:34:35,348 - INFO - ✅ RAG Agent initialized successfully
+2025-07-09 13:34:35,348 - INFO - 🎨 Creating Gradio interface...
+2025-07-09 13:34:35,370 - INFO - 🎭 Setting up Gradio blocks...
+2025-07-09 13:34:35,399 - INFO - ✅ Gradio interface created successfully
+2025-07-09 13:34:35,470 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-07-09 13:34:35,479 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-07-09 13:34:35,716 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-07-09 13:34:35,812 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-07-09 13:34:52,019 - INFO - 📝 New message received: hi...
+2025-07-09 13:34:52,019 - INFO - 🔄 Processing query for session web_133452
+2025-07-09 13:34:54,124 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-09 13:34:54,140 - INFO - {"timestamp": "2025-07-09T13:34:54.139690", "session_id": "web_133452", "language": "en", "user_query": "hi", "agent_response": "Hello! How can I assist you today?", "response_length": 34, "error": null}
+2025-07-09 13:35:04,605 - INFO - 📝 New message received: what can you do...
+2025-07-09 13:35:04,605 - INFO - 🔄 Processing query for session web_133504
+2025-07-09 13:35:07,488 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-09 13:35:07,499 - INFO - {"timestamp": "2025-07-09T13:35:07.498582", "session_id": "web_133504", "language": "en", "user_query": "what can you do", "agent_response": "I can assist you with a variety of tasks, including:\n\n1. **Information Retrieval**: I can search for specific information related to Kansas driving, commercial driver's licenses, or motorcycle handboo...", "response_length": 565, "error": null}
+2025-07-09 13:35:22,773 - INFO - 📝 New message received: what is your name...
+2025-07-09 13:35:22,774 - INFO - 🔄 Processing query for session web_133522
+2025-07-09 13:35:23,855 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-09 13:35:23,857 - INFO - {"timestamp": "2025-07-09T13:35:23.857692", "session_id": "web_133522", "language": "en", "user_query": "what is your name", "agent_response": "I am an AI language model and don't have a personal name like a human. You can just call me Assistant! How can I help you today?", "response_length": 128, "error": null}
+2025-07-09 13:37:00,353 - INFO - 🚀 Initializing RAG Agent...
+2025-07-09 13:37:00,453 - INFO - Loading faiss.
+2025-07-09 13:37:00,473 - INFO - Successfully loaded faiss.
+2025-07-09 13:37:00,475 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-09 13:37:00,559 - INFO - ✅ RAG Agent initialized successfully
+2025-07-09 13:37:00,559 - INFO - 🎨 Creating Gradio interface...
+2025-07-09 13:37:00,583 - INFO - 🎭 Setting up Gradio blocks...
+2025-07-09 13:37:00,612 - INFO - ✅ Gradio interface created successfully
+2025-07-09 13:37:00,682 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-07-09 13:37:00,692 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-07-09 13:37:02,119 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-07-09 13:37:02,122 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-07-09 13:37:05,336 - INFO - 🎯 Sample prompt clicked: How do I renew my driver's license in Kansas?
+2025-07-09 13:37:05,337 - INFO - 🔄 Processing query for session web_133705
+2025-07-09 13:37:06,140 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-09 13:37:06,646 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-09 13:37:14,593 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-09 13:37:14,596 - INFO - {"timestamp": "2025-07-09T13:37:14.596624", "session_id": "web_133705", "language": "en", "user_query": "How do I renew my driver's license in Kansas?", "agent_response": "To renew your driver's license in Kansas, you can follow these steps:\n\n1. **Eligibility**: Ensure you meet the requirements to renew your license. You need to be a Kansas resident and provide valid id...", "response_length": 1507, "error": null}
+2025-07-09 13:37:45,944 - INFO - 📝 New message received: steps to cancel a DL...
+2025-07-09 13:37:45,944 - INFO - 🔄 Processing query for session web_133745
+2025-07-09 13:37:47,134 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-09 13:37:47,420 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-09 13:37:55,210 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-09 13:37:55,215 - INFO - {"timestamp": "2025-07-09T13:37:55.214623", "session_id": "web_133745", "language": "en", "user_query": "steps to cancel a DL", "agent_response": "To cancel a driver's license (DL) in Kansas, you can follow these steps:\n\n1. **Contact Driver Services**: You should reach out to the Kansas Department of Revenue, Division of Vehicles. They handle ch...", "response_length": 1398, "error": null}
+2025-07-09 13:44:09,668 - INFO - 🚀 Initializing RAG Agent...
+2025-07-09 13:44:09,768 - INFO - Loading faiss.
+2025-07-09 13:44:09,776 - INFO - Successfully loaded faiss.
+2025-07-09 13:44:09,779 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-09 13:44:09,829 - INFO - ✅ RAG Agent initialized successfully
+2025-07-09 13:44:09,829 - INFO - 🎨 Creating Gradio interface...
+2025-07-09 13:44:09,852 - INFO - 🎭 Setting up Gradio blocks...
+2025-07-09 13:44:09,880 - INFO - ✅ Gradio interface created successfully
+2025-07-09 13:44:09,952 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-07-09 13:44:09,961 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-07-09 13:44:10,228 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-07-09 13:44:10,282 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-07-09 13:44:15,954 - INFO - 🎯 Sample prompt clicked: How do I renew my driver's license in Kansas?
+2025-07-09 13:44:15,954 - INFO - 🔄 Processing query for session web_134415
+2025-07-09 13:44:17,230 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-09 13:44:20,375 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-09 13:44:32,345 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-09 13:44:32,352 - INFO - {"timestamp": "2025-07-09T13:44:32.351901", "session_id": "web_134415", "language": "en", "user_query": "How do I renew my driver's license in Kansas?", "agent_response": "To renew your driver's license in Kansas, you can follow these steps:\n\n1. **Online Renewal**: It's encouraged to use the iKan application, which is the official online and mobile app for driver’s lice...", "response_length": 1802, "error": null}
+2025-07-09 13:45:22,003 - INFO - 📝 New message received: best time to visit an office in person...
+2025-07-09 13:45:22,003 - INFO - 🔄 Processing query for session web_134522
+2025-07-09 13:45:28,007 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-09 13:45:28,014 - INFO - {"timestamp": "2025-07-09T13:45:28.013784", "session_id": "web_134522", "language": "en", "user_query": "best time to visit an office in person", "agent_response": "The best time to visit an office in person typically depends on the type of office and its hours of operation. However, here are some general guidelines:\n\n1. **Mid-Morning (10 AM - 11 AM)**: This is u...", "response_length": 1039, "error": null}
+2025-07-09 15:01:44,543 - INFO - 🚀 Initializing RAG Agent...
+2025-07-09 15:01:44,647 - INFO - Loading faiss.
+2025-07-09 15:01:44,667 - INFO - Successfully loaded faiss.
+2025-07-09 15:01:44,669 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-09 15:01:44,722 - INFO - ✅ RAG Agent initialized successfully
+2025-07-09 15:01:44,722 - INFO - 🎨 Creating Gradio interface...
+2025-07-09 15:01:44,747 - INFO - 🎭 Setting up Gradio blocks...
+2025-07-09 15:01:44,777 - INFO - ✅ Gradio interface created successfully
+2025-07-09 15:01:44,855 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-07-09 15:01:44,865 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-07-09 15:01:45,598 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-07-09 15:01:45,620 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-07-10 09:19:12,742 - INFO - 🎯 Sample prompt clicked: How do I schedule a driving test appointment?
+2025-07-10 09:19:12,743 - INFO - 🔄 Processing query for session web_091912
+2025-07-10 09:19:14,170 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-10 09:19:15,476 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-10 09:19:20,737 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-10 09:19:20,745 - INFO - {"timestamp": "2025-07-10T09:19:20.744996", "session_id": "web_091912", "language": "en", "user_query": "How do I schedule a driving test appointment?", "agent_response": "To schedule a driving test appointment in Kansas, you can follow these steps:\n\n1. **For Regular Driving Tests**: It is recommended to visit the Kansas Department of Revenue's appointment scheduling pa...", "response_length": 1068, "error": null}
+2025-07-10 09:19:50,691 - INFO - 📝 New message received: what are your limitations...
+2025-07-10 09:19:50,691 - INFO - 🔄 Processing query for session web_091950
+2025-07-10 09:19:56,458 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-10 09:19:56,506 - INFO - {"timestamp": "2025-07-10T09:19:56.505800", "session_id": "web_091950", "language": "en", "user_query": "what are your limitations", "agent_response": "I have several limitations, including:\n\n1. **Knowledge Cutoff**: My training data only goes up until October 2023, so I may not have the latest information or developments that occurred after that dat...", "response_length": 1296, "error": null}
+2025-07-10 09:20:23,703 - INFO - 📝 New message received: from were did u get that date ?...
+2025-07-10 09:20:23,703 - INFO - 🔄 Processing query for session web_092023
+2025-07-10 09:20:26,375 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-10 09:20:26,380 - INFO - {"timestamp": "2025-07-10T09:20:26.379923", "session_id": "web_092023", "language": "en", "user_query": "from were did u get that date ?", "agent_response": "I have been trained on a variety of data sources, including books, websites, and other texts, but my training was completed in October 2021. Therefore, my knowledge is based on the information availab...", "response_length": 280, "error": null}
+2025-07-10 09:26:33,965 - INFO - 🚀 Initializing RAG Agent...
+2025-07-10 09:26:34,066 - INFO - Loading faiss.
+2025-07-10 09:26:34,086 - INFO - Successfully loaded faiss.
+2025-07-10 09:26:34,088 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-10 09:26:34,137 - INFO - ✅ RAG Agent initialized successfully
+2025-07-10 09:26:34,138 - INFO - 🎨 Creating Gradio interface...
+2025-07-10 09:26:34,161 - INFO - 🎭 Setting up Gradio blocks...
+2025-07-10 09:26:34,187 - INFO - ✅ Gradio interface created successfully
+2025-07-10 09:26:34,263 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-07-10 09:26:34,271 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-07-10 09:26:34,830 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-07-10 09:26:34,831 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-07-10 09:27:41,064 - INFO - 🚀 Initializing RAG Agent...
+2025-07-10 09:27:41,155 - INFO - Loading faiss.
+2025-07-10 09:27:41,163 - INFO - Successfully loaded faiss.
+2025-07-10 09:27:41,165 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-10 09:27:41,214 - INFO - ✅ RAG Agent initialized successfully
+2025-07-10 09:27:41,214 - INFO - 🎨 Creating Gradio interface...
+2025-07-10 09:27:41,236 - INFO - 🎭 Setting up Gradio blocks...
+2025-07-10 09:27:41,263 - INFO - ✅ Gradio interface created successfully
+2025-07-10 09:27:41,333 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-07-10 09:27:41,342 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-07-10 09:27:41,544 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-07-10 09:27:41,773 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-07-10 09:27:47,468 - INFO - 🎯 Sample prompt clicked: How do I renew my driver's license in Kansas?
+2025-07-10 09:27:47,469 - INFO - 🔄 Processing query for session web_092747
+2025-07-10 09:27:48,334 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-10 09:27:48,717 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-10 09:27:57,874 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-10 09:27:57,879 - INFO - {"timestamp": "2025-07-10T09:27:57.878808", "session_id": "web_092747", "language": "en", "user_query": "How do I renew my driver's license in Kansas?", "agent_response": "To renew your driver's license in Kansas, you can follow these steps:\n\n1. **Eligibility**: You can renew your driver's license online through the iKan application if you are between 21 and 64 years of...", "response_length": 1642, "error": null}
+2025-07-10 09:28:40,953 - INFO - 🚀 Initializing RAG Agent...
+2025-07-10 09:28:41,045 - INFO - Loading faiss.
+2025-07-10 09:28:41,053 - INFO - Successfully loaded faiss.
+2025-07-10 09:28:41,056 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-10 09:28:41,104 - INFO - ✅ RAG Agent initialized successfully
+2025-07-10 09:28:41,104 - INFO - 🎨 Creating Gradio interface...
+2025-07-10 09:28:41,126 - INFO - 🎭 Setting up Gradio blocks...
+2025-07-10 09:28:41,153 - INFO - ✅ Gradio interface created successfully
+2025-07-10 09:28:41,225 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-07-10 09:28:41,233 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-07-10 09:28:41,463 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-07-10 09:28:41,553 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-07-10 09:28:47,514 - INFO - 🌐 Language switched to Spanish
+2025-07-10 09:28:48,691 - INFO - 🌐 Language switched to English
+2025-07-10 09:28:49,403 - INFO - 🌐 Language switched to Spanish
+2025-07-10 09:28:50,370 - INFO - 🎯 Sample prompt clicked: What documents do I need to register a new vehicle?
+2025-07-10 09:28:50,371 - INFO - 🔄 Processing query for session web_092850
+2025-07-10 09:28:51,232 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-10 09:28:51,592 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-10 09:28:55,835 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-10 09:28:55,841 - INFO - 🔄 Translating to es: To register a new vehicle in Kansas, you typically need to provide the following documents:
+
+1. **Pr...
+2025-07-10 09:28:56,884 - INFO - ✅ Translation completed
+2025-07-10 09:28:56,886 - INFO - {"timestamp": "2025-07-10T09:28:56.885629", "session_id": "web_092850", "language": "es", "user_query": "What documents do I need to register a new vehicle?", "agent_response": "Para registrar un vehículo nuevo en Kansas, generalmente necesita proporcionar los siguientes documentos:\n\n1. ** Prueba de propiedad **: Este puede ser el título del vehículo o una factura de venta.\n2...", "response_length": 795, "error": null}
+2025-07-15 09:15:06,934 - INFO - 🚀 Initializing RAG Agent...
+2025-07-15 09:15:07,048 - INFO - Loading faiss.
+2025-07-15 09:15:07,078 - INFO - Successfully loaded faiss.
+2025-07-15 09:15:07,080 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-15 09:15:07,136 - INFO - ✅ RAG Agent initialized successfully
+2025-07-15 09:15:07,136 - INFO - 🎨 Creating Gradio interface...
+2025-07-15 09:15:07,159 - INFO - 🎭 Setting up Gradio blocks...
+2025-07-15 09:15:07,185 - INFO - ✅ Gradio interface created successfully
+2025-07-15 09:15:07,290 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-07-15 09:15:07,300 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-07-15 09:15:07,807 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-07-15 09:15:07,817 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-07-15 09:15:26,645 - INFO - 🎯 Sample prompt clicked: How do I renew my driver's license in Kansas?
+2025-07-15 09:15:26,645 - INFO - 🔄 Processing query for session web_091526
+2025-07-15 09:15:27,917 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 09:15:30,288 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-15 09:15:39,080 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 09:15:39,094 - INFO - {"timestamp": "2025-07-15T09:15:39.092924", "session_id": "web_091526", "language": "en", "user_query": "How do I renew my driver's license in Kansas?", "agent_response": "To renew your driver's license in Kansas, you can follow these steps:\n\n1. **Eligibility**: Ensure you are a Kansas resident and have a valid Kansas driver's license. If your license has expired for mo...", "response_length": 1736, "error": null}
+2025-07-15 10:39:53,771 - INFO - 🎯 Sample prompt clicked: How do I schedule a driving test appointment?
+2025-07-15 10:39:53,772 - INFO - 🔄 Processing query for session web_103953
+2025-07-15 10:39:55,358 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 10:39:56,076 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-15 10:40:00,218 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 10:40:00,224 - INFO - {"timestamp": "2025-07-15T10:40:00.224212", "session_id": "web_103953", "language": "en", "user_query": "How do I schedule a driving test appointment?", "agent_response": "To schedule a driving test appointment in Kansas, you can follow these steps:\n\n1. **For CDL (Commercial Driver's License)**: \n   - CDL skills exams are by appointment only. You need to call or email y...", "response_length": 1040, "error": null}
+2025-07-15 18:06:41,812 - INFO - 🚀 Initializing RAG Agent...
+2025-07-15 18:06:41,923 - INFO - Loading faiss.
+2025-07-15 18:06:41,941 - INFO - Successfully loaded faiss.
+2025-07-15 18:06:41,944 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-15 18:06:42,001 - INFO - ✅ RAG Agent initialized successfully
+2025-07-15 18:06:42,001 - INFO - 🎨 Creating Gradio interface...
+2025-07-15 18:06:42,024 - INFO - 🎭 Setting up Gradio blocks...
+2025-07-15 18:06:42,051 - INFO - ✅ Gradio interface created successfully
+2025-07-15 18:06:42,131 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-07-15 18:06:42,140 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-07-15 18:06:43,187 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-07-15 18:06:43,248 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-07-15 18:14:52,670 - INFO - 🚀 Initializing RAG Agent...
+2025-07-15 18:14:52,779 - INFO - Loading faiss.
+2025-07-15 18:14:52,788 - INFO - Successfully loaded faiss.
+2025-07-15 18:14:52,791 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-15 18:14:52,850 - INFO - ✅ RAG Agent initialized successfully
+2025-07-15 18:14:52,850 - INFO - 🎨 Creating Gradio interface...
+2025-07-15 18:14:52,875 - INFO - 🎭 Setting up Gradio blocks...
+2025-07-15 18:14:52,906 - INFO - ✅ Gradio interface created successfully
+2025-07-15 18:14:52,988 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-07-15 18:14:52,999 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-07-15 18:14:53,241 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-07-15 18:14:53,283 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-07-15 18:16:40,906 - INFO - 📝 New message received: How much it'll cost me to renew kansas driving lic...
+2025-07-15 18:16:40,907 - INFO - 🔄 Processing query for session web_181640
+2025-07-15 18:16:41,770 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:16:42,135 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-15 18:16:44,276 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:16:44,282 - INFO - {"timestamp": "2025-07-15T18:16:44.282118", "session_id": "web_181640", "language": "en", "user_query": "How much it'll cost me to renew kansas driving licence", "agent_response": "The cost to renew a Kansas driver's license typically includes a renewal fee, which is around $20. However, if your license has expired, there may be an additional penalty fee of $1.00 for each year i...", "response_length": 552, "error": null}
+2025-07-15 18:18:05,262 - INFO - 🎯 Sample prompt clicked: Where is the nearest DMV office to me?
+2025-07-15 18:18:05,262 - INFO - 🔄 Processing query for session web_181805
+2025-07-15 18:18:06,198 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:18:06,203 - INFO - {"timestamp": "2025-07-15T18:18:06.203388", "session_id": "web_181805", "language": "en", "user_query": "Where is the nearest DMV office to me?", "agent_response": "To help you find the nearest DMV office, I need to know your current location or the city you're in. Can you please provide that information?", "response_length": 141, "error": null}
+2025-07-15 18:18:35,117 - INFO - 📝 New message received: Kansas...
+2025-07-15 18:18:35,118 - INFO - 🔄 Processing query for session web_181835
+2025-07-15 18:18:35,670 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:18:35,918 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-15 18:18:40,206 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:18:40,210 - INFO - {"timestamp": "2025-07-15T18:18:40.210054", "session_id": "web_181835", "language": "en", "user_query": "Kansas", "agent_response": "Kansas is a state in the Midwestern region of the United States, known for its vast prairies, agriculture, and historical significance, particularly during the \"Bleeding Kansas\" period leading up to t...", "response_length": 855, "error": null}
+2025-07-15 18:19:08,281 - INFO - 📝 New message received: what was the first question i asked...
+2025-07-15 18:19:08,282 - INFO - 🔄 Processing query for session web_181908
+2025-07-15 18:19:09,002 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:19:09,009 - INFO - {"timestamp": "2025-07-15T18:19:09.009534", "session_id": "web_181908", "language": "en", "user_query": "what was the first question i asked", "agent_response": "Your first question was about searching for relevant information regarding Kansas driving, commercial driver's licenses, or motorcycle handbook content.", "response_length": 152, "error": null}
+2025-07-15 18:19:20,613 - INFO - 📝 New message received: exact question...
+2025-07-15 18:19:20,613 - INFO - 🔄 Processing query for session web_181920
+2025-07-15 18:19:21,523 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:19:21,525 - INFO - {"timestamp": "2025-07-15T18:19:21.525720", "session_id": "web_181920", "language": "en", "user_query": "exact question", "agent_response": "It seems you may want to ask a specific question, but I need a bit more context to assist you. Could you please provide more details or clarify your question?", "response_length": 158, "error": null}
+2025-07-15 19:57:18,145 - INFO - 🚀 Initializing RAG Agent...
+2025-07-15 19:57:18,245 - INFO - Loading faiss.
+2025-07-15 19:57:18,265 - INFO - Successfully loaded faiss.
+2025-07-15 19:57:18,267 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-15 19:57:18,318 - INFO - ✅ RAG Agent initialized successfully
+2025-07-15 19:57:18,318 - INFO - 🎨 Creating Gradio interface...
+2025-07-15 19:57:18,342 - INFO - 🎭 Setting up Gradio blocks...
+2025-07-15 19:57:18,369 - INFO - ✅ Gradio interface created successfully
+2025-07-15 19:57:18,446 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-07-15 19:57:18,456 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-07-15 19:57:18,851 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-07-15 19:57:18,856 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-07-15 19:57:32,270 - INFO - 🎯 Sample prompt clicked: What documents do I need to register a new vehicle?
+2025-07-15 19:57:32,271 - INFO - 🔄 Processing query for session web_195732
+2025-07-15 19:57:33,061 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 19:57:33,638 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-15 19:57:37,024 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 19:57:37,032 - INFO - {"timestamp": "2025-07-15T19:57:37.031529", "session_id": "web_195732", "language": "en", "user_query": "What documents do I need to register a new vehicle?", "agent_response": "To register a new vehicle in Kansas, you typically need the following documents:\n\n1. **Proof of Ownership**: This can be a Manufacturer's Certificate of Origin (MCO) for new vehicles or a title from t...", "response_length": 1054, "error": null}
+2025-07-15 19:57:59,490 - INFO - 🎯 Sample prompt clicked: Where is the nearest DMV office to me?
+2025-07-15 19:57:59,491 - INFO - 🔄 Processing query for session web_195759
+2025-07-15 19:58:00,467 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 19:58:00,475 - INFO - {"timestamp": "2025-07-15T19:58:00.475069", "session_id": "web_195759", "language": "en", "user_query": "Where is the nearest DMV office to me?", "agent_response": "To help you find the nearest DMV office, could you please provide me with your current location or the city you are in?", "response_length": 119, "error": null}
+2025-07-15 19:58:06,197 - INFO - 📝 New message received: kansas...
+2025-07-15 19:58:06,197 - INFO - 🔄 Processing query for session web_195806
+2025-07-15 19:58:06,725 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 19:58:07,103 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-15 19:58:13,656 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 19:58:13,661 - INFO - {"timestamp": "2025-07-15T19:58:13.661130", "session_id": "web_195806", "language": "en", "user_query": "kansas", "agent_response": "Kansas is a state rich in history and culture, with numerous historic sites that tell the story of its past. Some notable historic sites include:\n\n1. **Constitution Hall State Historic Site** - This s...", "response_length": 1888, "error": null}
+2025-07-15 19:59:04,159 - INFO - 📝 New message received: age limit...
+2025-07-15 19:59:04,160 - INFO - 🔄 Processing query for session web_195904
+2025-07-15 19:59:04,886 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 19:59:05,165 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-15 19:59:10,026 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 19:59:10,031 - INFO - {"timestamp": "2025-07-15T19:59:10.030852", "session_id": "web_195904", "language": "en", "user_query": "age limit", "agent_response": "In Kansas, the age limits and requirements for driving and obtaining a driver's license are as follows:\n\n1. **Instruction Permit**:\n   - **Ages 14-16**: Minimum age is 14. A licensed adult (minimum ag...", "response_length": 1237, "error": null}
+2025-07-15 20:38:13,041 - INFO - 📝 New message received: hi...
+2025-07-15 20:38:13,042 - INFO - 🔄 Processing query for session web_203813
+2025-07-15 20:38:13,513 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 20:38:13,519 - INFO - {"timestamp": "2025-07-15T20:38:13.519195", "session_id": "web_203813", "language": "en", "user_query": "hi", "agent_response": "Hello! How can I assist you today?", "response_length": 34, "error": null}
+2025-07-15 20:38:27,802 - INFO - 📝 New message received: do you hve memory capability ?...
+2025-07-15 20:38:27,803 - INFO - 🔄 Processing query for session web_203827
+2025-07-15 20:38:29,329 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 20:38:29,333 - INFO - {"timestamp": "2025-07-15T20:38:29.332971", "session_id": "web_203827", "language": "en", "user_query": "do you hve memory capability ?", "agent_response": "I don't have memory in this chat, so I can't remember past interactions once our conversation ends. Each session is independent. However, when I do have memory, I can retain information you choose to ...", "response_length": 394, "error": null}
+2025-07-15 20:38:52,416 - INFO - 📝 New message received: what was the first question i asked...
+2025-07-15 20:38:52,417 - INFO - 🔄 Processing query for session web_203852
+2025-07-15 20:38:53,333 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 20:38:53,340 - INFO - {"timestamp": "2025-07-15T20:38:53.339822", "session_id": "web_203852", "language": "en", "user_query": "what was the first question i asked", "agent_response": "The first question you asked was about searching the knowledge base for relevant information regarding Kansas driving, commercial driver's license, or motorcycle handbook content.", "response_length": 179, "error": null}
+2025-07-15 20:39:04,768 - INFO - 📝 New message received: exact questions...
+2025-07-15 20:39:04,769 - INFO - 🔄 Processing query for session web_203904
+2025-07-15 20:39:05,404 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 20:39:05,412 - INFO - {"timestamp": "2025-07-15T20:39:05.412518", "session_id": "web_203904", "language": "en", "user_query": "exact questions", "agent_response": "Could you please specify what exact questions you have in mind? This will help me assist you better!", "response_length": 100, "error": null}
+2025-07-15 20:48:45,702 - INFO - 🚀 Initializing RAG Agent...
+2025-07-15 20:48:45,809 - INFO - Loading faiss.
+2025-07-15 20:48:45,818 - INFO - Successfully loaded faiss.
+2025-07-15 20:48:45,821 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-15 20:48:45,887 - INFO - ✅ RAG Agent initialized successfully with conversational memory
+2025-07-15 20:48:45,887 - INFO - 🎨 Creating Gradio interface...
+2025-07-15 20:48:45,912 - INFO - 🎭 Setting up Gradio blocks...
+2025-07-15 20:48:45,943 - INFO - ✅ Gradio interface created successfully with conversational memory
+2025-07-15 20:48:46,313 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-07-15 20:49:20,596 - INFO - 🚀 Initializing RAG Agent...
+2025-07-15 20:49:20,689 - INFO - Loading faiss.
+2025-07-15 20:49:20,697 - INFO - Successfully loaded faiss.
+2025-07-15 20:49:20,699 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-15 20:49:20,749 - INFO - ✅ RAG Agent initialized successfully with conversational memory
+2025-07-15 20:49:20,749 - INFO - 🎨 Creating Gradio interface...
+2025-07-15 20:49:20,771 - INFO - 🎭 Setting up Gradio blocks...
+2025-07-15 20:49:20,798 - INFO - ✅ Gradio interface created successfully with conversational memory
+2025-07-15 20:49:20,875 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-07-15 20:49:20,885 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-07-15 20:49:21,036 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-07-15 20:49:21,158 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-07-15 20:49:44,429 - INFO - 🎯 Sample prompt clicked: Where is the nearest DMV office to me? (Session: web_20250715_204920_13ffbd95)
+2025-07-15 20:49:44,430 - INFO - 🔄 Processing query for session web_20250715_204920_13ffbd95 (Memory: ENABLED)
+2025-07-15 20:49:45,329 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 20:49:45,347 - INFO - {"timestamp": "2025-07-15T20:49:45.347306", "session_id": "web_20250715_204920_13ffbd95", "language": "en", "user_query": "Where is the nearest DMV office to me?", "agent_response": "To help you find the nearest DMV office, I need to know your current location or the city you are in. Could you please provide that information?", "response_length": 144, "error": null}
+2025-07-15 20:49:51,352 - INFO - 📝 New message received: kansas... (Session: web_20250715_204920_13ffbd95)
+2025-07-15 20:49:51,353 - INFO - 🔄 Processing query for session web_20250715_204920_13ffbd95 (Memory: ENABLED)
+2025-07-15 20:49:52,094 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 20:49:52,407 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-15 20:49:54,460 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 20:49:54,463 - INFO - {"timestamp": "2025-07-15T20:49:54.463211", "session_id": "web_20250715_204920_13ffbd95", "language": "en", "user_query": "kansas", "agent_response": "To find the nearest DMV office in Kansas, you can visit the Kansas DMV Office Finder at [DMV.ORG](https://www.dmv.org/ks-kansas/dmv-office-finder.php). There, you can enter your ZIP code or city to lo...", "response_length": 461, "error": null}
+2025-07-15 20:50:40,234 - INFO - 📝 New message received: what was the first questions i asked... (Session: web_20250715_204920_13ffbd95)
+2025-07-15 20:50:40,235 - INFO - 🔄 Processing query for session web_20250715_204920_13ffbd95 (Memory: ENABLED)
+2025-07-15 20:50:41,065 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 20:50:41,073 - INFO - {"timestamp": "2025-07-15T20:50:41.073059", "session_id": "web_20250715_204920_13ffbd95", "language": "en", "user_query": "what was the first questions i asked", "agent_response": "The first question you asked was, \"Where is the nearest DMV office to me?\"", "response_length": 74, "error": null}
+2025-07-15 20:52:20,955 - INFO - 🚀 Initializing RAG Agent...
+2025-07-15 20:52:21,054 - INFO - Loading faiss.
+2025-07-15 20:52:21,062 - INFO - Successfully loaded faiss.
+2025-07-15 20:52:21,064 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-07-15 20:52:21,118 - INFO - ✅ RAG Agent initialized successfully with conversational memory
+2025-07-15 20:52:21,118 - INFO - 🎨 Creating Gradio interface...
+2025-07-15 20:52:21,140 - INFO - 🎭 Setting up Gradio blocks...
+2025-07-15 20:52:21,168 - INFO - ✅ Gradio interface created successfully with conversational memory
+2025-07-15 20:52:21,245 - INFO - HTTP Request: GET http://localhost:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-07-15 20:52:21,255 - INFO - HTTP Request: HEAD http://localhost:7860/ "HTTP/1.1 200 OK"
+2025-07-15 20:52:21,426 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-07-15 20:52:21,537 - INFO - HTTP Request: GET https://api.gradio.app/v3/tunnel-request "HTTP/1.1 200 OK"
+2025-07-15 20:52:58,913 - INFO - 🗑️ Conversation cleared. New session: web_20250715_205258_6afe51a7
+2025-07-15 20:53:06,461 - INFO - 📝 New message received: hi... (Session: web_20250715_205258_6afe51a7)
+2025-07-15 20:53:06,462 - INFO - 🔄 Processing query for session web_20250715_205258_6afe51a7 (Memory: ENABLED)
+2025-07-15 20:53:07,046 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 20:53:07,064 - INFO - {"timestamp": "2025-07-15T20:53:07.063973", "session_id": "web_20250715_205258_6afe51a7", "language": "en", "user_query": "hi", "agent_response": "Hello! How can I assist you today?", "response_length": 34, "error": null}
+2025-07-15 20:53:15,361 - INFO - 📝 New message received: what can u do... (Session: web_20250715_205258_6afe51a7)
+2025-07-15 20:53:15,361 - INFO - 🔄 Processing query for session web_20250715_205258_6afe51a7 (Memory: ENABLED)
+2025-07-15 20:53:17,107 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 20:53:17,111 - INFO - {"timestamp": "2025-07-15T20:53:17.111231", "session_id": "web_20250715_205258_6afe51a7", "language": "en", "user_query": "what can u do", "agent_response": "I can help you with a variety of tasks, including:\n\n1. Answering questions about driving regulations and licensing.\n2. Providing information related to specific states, such as Kansas.\n3. Helping you ...", "response_length": 450, "error": null}
+2025-07-15 20:53:28,859 - INFO - 📝 New message received: nearest dmv... (Session: web_20250715_205258_6afe51a7)
+2025-07-15 20:53:28,860 - INFO - 🔄 Processing query for session web_20250715_205258_6afe51a7 (Memory: ENABLED)
+2025-07-15 20:53:29,600 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 20:53:29,604 - INFO - {"timestamp": "2025-07-15T20:53:29.604571", "session_id": "web_20250715_205258_6afe51a7", "language": "en", "user_query": "nearest dmv", "agent_response": "Could you please provide me with your current location or the city you're in so I can help you find the nearest DMV?", "response_length": 116, "error": null}
+2025-07-15 20:53:39,436 - INFO - 📝 New message received: overland park... (Session: web_20250715_205258_6afe51a7)
+2025-07-15 20:53:39,436 - INFO - 🔄 Processing query for session web_20250715_205258_6afe51a7 (Memory: ENABLED)
+2025-07-15 20:53:40,409 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 20:53:40,871 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-15 20:53:44,070 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 20:53:44,078 - INFO - {"timestamp": "2025-07-15T20:53:44.078259", "session_id": "web_20250715_205258_6afe51a7", "language": "en", "user_query": "overland park", "agent_response": "In Overland Park, Kansas, you can visit the Kansas Department of Revenue's Division of Vehicles for DMV services. Here are some details to help you find the nearest office:\n\n1. **Kansas Department of ...", "response_length": 842, "error": null}
+2025-07-15 20:54:06,094 - INFO - 🗑️ Conversation cleared. New session: web_20250715_205406_f6557e33
+2025-07-15 20:54:21,233 - INFO - 📝 New message received: maximum load a car can carry... (Session: web_20250715_205406_f6557e33)
+2025-07-15 20:54:21,233 - INFO - 🔄 Processing query for session web_20250715_205406_f6557e33 (Memory: ENABLED)
+2025-07-15 20:54:22,099 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 20:54:22,471 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-15 20:54:25,068 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 20:54:25,073 - INFO - {"timestamp": "2025-07-15T20:54:25.073006", "session_id": "web_20250715_205406_f6557e33", "language": "en", "user_query": "maximum load a car can carry", "agent_response": "The maximum load a car can carry is determined by its Gross Vehicle Weight Rating (GVWR), which is specified by the manufacturer. The GVWR indicates the maximum safe weight of the vehicle when fully l...", "response_length": 791, "error": null}
+2025-07-15 20:54:47,494 - INFO - 📝 New message received: sppeed regulation in payola... (Session: web_20250715_205406_f6557e33)
+2025-07-15 20:54:47,495 - INFO - 🔄 Processing query for session web_20250715_205406_f6557e33 (Memory: ENABLED)
+2025-07-15 20:54:48,264 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 20:54:48,544 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-15 20:54:55,413 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 20:54:55,418 - INFO - {"timestamp": "2025-07-15T20:54:55.417816", "session_id": "web_20250715_205406_f6557e33", "language": "en", "user_query": "sppeed regulation in payola", "agent_response": "Speed regulations in Payola (and more generally in Kansas) emphasize the importance of adjusting speed based on various driving conditions and adhering to posted speed limits. Here are key points rega...", "response_length": 1717, "error": null}
+2025-07-15 20:55:27,206 - INFO - 🗑️ Conversation cleared. New session: web_20250715_205527_fba10523
+2025-07-15 20:55:29,400 - INFO - 🌐 Language switched to Spanish
+2025-07-15 20:55:31,185 - INFO - 🎯 Sample prompt clicked: What documents do I need to register a new vehicle? (Session: web_20250715_205527_fba10523)
+2025-07-15 20:55:31,186 - INFO - 🔄 Processing query for session web_20250715_205527_fba10523 (Memory: ENABLED)
+2025-07-15 20:55:31,967 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 20:55:32,240 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-15 20:55:38,466 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 20:55:38,472 - INFO - 🔄 Translating to es: To register a new vehicle in Kansas, you will typically need to provide the following documents:
+
+1....
+2025-07-15 20:55:39,942 - INFO - ✅ Translation completed
+2025-07-15 20:55:39,944 - INFO - {"timestamp": "2025-07-15T20:55:39.943500", "session_id": "web_20250715_205527_fba10523", "language": "es", "user_query": "What documents do I need to register a new vehicle?", "agent_response": "Para registrar un vehículo nuevo en Kansas, generalmente deberá proporcionar los siguientes documentos:\n\n1. ** Prueba de identidad **: \n   - Un documento de presencia legal, como un certificado de nac...", "response_length": 1744, "error": null}
+2025-07-15 20:55:44,707 - INFO - 🗑️ Conversation cleared. New session: web_20250715_205544_c479e8b7
+2025-07-15 20:55:46,031 - INFO - 🗑️ Conversation cleared. New session: web_20250715_205546_81aa7fd5
+2025-07-15 20:55:48,072 - INFO - 🗑️ Conversation cleared. New session: web_20250715_205548_39ef0ae3

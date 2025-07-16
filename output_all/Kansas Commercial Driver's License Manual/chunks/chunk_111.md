@@ -1,0 +1,4 @@
+## 2.9.7 - Watch Out for Other Distracted Drivers
+You need to be able to recognize other drivers who are engaged in any form of driving distraction. Not recognizing other distracted drivers can prevent you from perceiving or reacting correctly in time to prevent a crash. Watch for:
+Vehicles that may drift over the lane divider lines or within their own lane. Vehicles traveling at inconsistent speeds.
+Drivers who are preoccupied with maps, food, cigarettes, cell phones, or other objects. Drivers who appear to be involved in conversations with their passengers. Give a distracted driver plenty of room and maintain your safe following distance. Be very careful when passing a driver who seems to be distracted. The other driver may not be aware of your presence, and they may drift in front of you.

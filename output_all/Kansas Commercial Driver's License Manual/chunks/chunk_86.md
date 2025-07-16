@@ -1,0 +1,3 @@
+## 2.6.3 - Speed and Curves
+Drivers must adjust their speed for curves in the road. If you take a curve too fast, two things can happen. The tires can lose their traction and continue straight ahead, so you skid off the road. Or, the tires may keep their traction and the vehicle rolls over. Tests have shown that trucks with a high center of gravity can roll over at the posted speed limit for a curve.
+Slow to a safe speed before you enter a curve. Braking in a curve is dangerous because it is easier to lock the wheels and cause a skid. Slow down as needed. Don't ever exceed the posted speed limit for the curve. Be in a gear that will let you accelerate slightly in the curve. This will help you keep control.

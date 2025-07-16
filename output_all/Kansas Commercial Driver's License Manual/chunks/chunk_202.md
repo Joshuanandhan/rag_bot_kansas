@@ -1,0 +1,2 @@
+## 5.1.2 - Air Compressor Governor
+The governor controls when the air compressor will pump air into the air storage tanks. When air tank pressure rises to the "cut-out" level (around 125 pounds per-square-inch or "psi"), the governor stops the compressor from pumping air. When the tank pressure falls to the "cut-in" pressure (around 100 psi), the governor allows the compressor to start pumping again.

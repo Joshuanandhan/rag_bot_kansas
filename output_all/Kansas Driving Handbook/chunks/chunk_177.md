@@ -1,0 +1,6 @@
+## Flooded Roadways
+Flooding can occur when streams and rivers flow over their banks, when dams or levees break, when there is run-off from deep snow or any time there is rainfall. Floodwaters can be found on roads, bridges and low areas. Flash floods can come rapidly and unexpectedly. They can occur within a few minutes or hours of excessive rainfall. Be cautious, especially at night, during storm seasons, or any time that flooding is common in your area.
+· Do not drive through flooded areas. If you see a flooded roadway ahead, turn around and find another route to get to your destination.
+· Remember, 6 inches of water will reach the bottom of most passenger cars, causing loss of control or possible stalling and 2 feet of rushing water can carry away most vehicles.
+· Even if the water appears shallow enough to cross, do not attempt to cross a flooded road. Water can hide dips, or worse, floodwaters can damage roadways by washing away the underlying road surface.
+· If there is no other route, proceed to higher ground and wait for the waters to subside.

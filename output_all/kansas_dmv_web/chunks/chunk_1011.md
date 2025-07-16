@@ -1,0 +1,11 @@
+# Rhode Island DMV Locations & Opening Hours Near Me | DMV.ORG
+
+**Source URL:** https://www.dmv.org/ri-rhode-island/dmv-office-finder.php
+**Domain:** www.dmv.org
+**Scraped:** 2025-07-09T12:55:07.705197
+**Crawl Depth:** 5
+**Links Found:** 0
+
+---
+
+DMV Office Finder in Rhode Island Rhode Island DMV Locations Search For What's Your Location? Near: Search Please enter your ZIP code OR city and state abbreviation Rhode Island may be the smallest state in the union, but there are still plenty of DMVs packed into its tiny borders. Make sure you know which DMV office is closest to you, and how to get to your nearest DMV with the help of our DMV office finder. Enter your zip code above or find your county below to begin your journey. And keep reading on to see the types of services offered at your closest DMV office.RI DMV Office Services You can address all your auto-related needs at the Rhode Island Division of Motor Vehicles (DMV)—from maintaining your personal paperwork to keeping your vehicle's requirements up-to-date. Specifically, you can visit the RI DMV to complete tasks related to: Driving permits. Driver's licenses for: Teens. Adults. Commercial drivers. Motorcycle riders. State ID cards. Vehicle registration. Titles. License plates. Find your county below or enter your zip code above to find the closest DMV office where you can take care of business.Save Time—Go Online Don't forget: The Rhode Island Division of Motor Vehicles offers a number of online services that could help you get your task done from the comfort of your own home. You may be able to save yourself the trip all together! If not, you may be able to schedule an appointment for your task ahead of time—saving you a long wait in the stand-by line!RI Emissions Inspection Sites Vehicles that are required to undergo a smog check for registration or renewal will need to be taken to an approved inspection location for its test. To find an inspection center near you, visit the state's list of certified technicians. For more on smog checks in the state, visit our guide to Rhode Island vehicle inspections.Rhode Island DMV Contact Information Rhode Island Division of Motor Vehicles Call center: (401) 462-4368 Address: Division of Motor Vehicles 600 New London Ave. Cranston, RI 02920

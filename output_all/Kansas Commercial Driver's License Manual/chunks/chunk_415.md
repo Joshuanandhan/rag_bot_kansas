@@ -1,0 +1,3 @@
+## Lights/Reflectors
+In addition to checking the lights and reflective devices listed in Section 10.2 of this manual, school bus drivers must also check the following (external) lights and reflectors: Strobe light, if equipped is operational and is not broken. Stop arm light, if equipped.
+Alternately flashing amber lights, if equipped are operational and not broken. Alternately flashing red lights, on both the front and back of the vehicle are operational and not broken ..

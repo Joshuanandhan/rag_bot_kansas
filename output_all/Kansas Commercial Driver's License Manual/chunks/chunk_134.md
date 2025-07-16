@@ -1,0 +1,7 @@
+## 2.17.1 - Steering to Avoid a Crash
+Stopping is not always the safest thing to do in an emergency. When you don't have enough room to stop, you may have to steer away from what's ahead. Remember, you can almost always turn to miss an obstacle more quickly than you can stop. (However, top-heavy vehicles and tractors with multiple trailers may flip over.)
+Keep Both Hands on the Steering Wheel. In order to turn quickly, you must have a firm grip on the steering wheel with both hands. The best way to have both hands on the wheel, if there is an emergency, is to keep them there all the time.
+How to Turn Quickly and Safely. A quick turn can be made safely if it's done the right way. Here are some points that safe drivers use:
+· Do not apply the brake while you are turning. It's very easy to lock your wheels while turning. If that happens, you may skid out of control.
+. Do not turn any more than needed to clear whatever is in your way. The more sharply you turn, the greater the chances of a skid or rollover.
+· Be prepared to "counter-steer," that is, to turn the wheel back in the other direction, once you've passed whatever was in your path. Unless you are prepared to counter-steer, you won't be able to do it quickly enough. You should think of emergency steering and counter-steering as two parts of one driving action.

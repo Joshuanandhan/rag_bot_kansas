@@ -1,0 +1,4 @@
+## FOLLOWING OTHER VEHICLES (K.S.A. 8-1523)
+The law requires that you not follow a vehicle more closely than what is "reasonable and prudent". Weather, road conditions, and traffic will influence how far this distance is. You must be able to stop or turn to avoid a collision if the vehicle in front of you suddenly stops. Use the two-second rule for measuring a safe following distance under prime conditions. Under adverse conditions use a four-second following rule.
+When you are following vehicles, which stop often or make sudden turns (buses, delivery vans, police cars etc.) you should increase your following distance. When driving in bad weather you should increase your following distance even more.
+Following too closely reduces the ability to see road and traffic conditions ahead. Without seeing what it is ahead is more difficult to avoid trouble as it develops.

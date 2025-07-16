@@ -1,0 +1,2 @@
+## 5.1.6 - Safety Valve
+A safety relief valve is installed in the first tank the air compressor pumps air to. The safety valve protects the tank and the rest of the system from too much pressure. The valve is usually set to open at 150 psi. If the safety valve releases air, something is wrong. Have the fault fixed by a mechanic.

@@ -1,0 +1,11 @@
+# Kansas Department of Revenue Property Valuation Home Page
+
+**Source URL:** https://www.ksrevenue.gov/pvdindex.html
+**Domain:** www.ksrevenue.gov
+**Scraped:** 2025-07-09T12:37:18.832099
+**Crawl Depth:** 3
+**Links Found:** 29
+
+---
+
+PROPERTY VALUATION EXPRESS ABSTRACTS AG USE EDUCATION REGISTRATION RATIO STUDY PERSONAL PROPERTY FORMS DATA PORTAL Please visit the Property Valuation Division Data Portal, an open data, public facing website with easily accessible property valuation information. The open data portal features aggregated appraised value data on all real property types in Kansas in easy-to-read charts and graphs. The site is available free of charge. Visit the Data Portal DID YOU KNOW Questions about assessed property tax on a specific piece of real or personal property should be directed to the Kansas County Appraisers Association (KCAA). Visit the KCAA PROPERTY VALUATION APPEAL PROCESS Appeal the "Notice of Value" for your property that you receive in the spring by contacting the county appraiser's office within 30 days from the date the notice was mailed, or complete and file a "Payment Under Protest" form with the county treasurer at the time you pay your taxes. Whether you pay half or all of your taxes, you must file this form by December 20. More information here Budget, Levy and Tax Deadlines Governing bodies certify budget to county clerk - 8/25 County clerk certifies tax roll to county treasurer - 11/1 County clerk certifies abstract of value, levy, and tax to Director of Property Valuation - 11/15 Tax statements sent by county treasurer - 12/15 Tax payments due - full or first half - 12/20 DON'T PUT IT OFF! Taxpayers have 30 days from date county mailed notice to file Equalization Appeal. Learn more by visiting the Appeal Information page here. PROPERTY VALUATION SECTIONS Abstracts Agricultural Use Appeals Assistance and Speaker Requests Attorney General Opinions CAMA Cartography Complex Industrial Property Appraisals Court Cases Directives Education Forms Machinery and Equipment Regulations Memorandums Oil and Gas Personal Property Property Tax Calendar Property Tax Exemptions Property Tax Relief Public Utility Ratio Study Statewide Tax Unit Boundary Map Statistics Substantial Compliance Summary 2010-2023 Valuation Guides

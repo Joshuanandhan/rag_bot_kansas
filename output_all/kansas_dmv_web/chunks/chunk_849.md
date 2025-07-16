@@ -1,0 +1,11 @@
+# Kansas Department of Revenue Tax Policy - Targeted Employment Credit
+
+**Source URL:** https://www.ksrevenue.gov/prtaxcredits-targeted.html
+**Domain:** www.ksrevenue.gov
+**Scraped:** 2025-07-09T12:49:12.037669
+**Crawl Depth:** 5
+**Links Found:** 0
+
+---
+
+Targeted Employment Credit INCOME AND PRIVILEGE TAXPAYERS - Effective for tax years 2022 through 2027. Qualifications A tax credit for a targeted employment business or a taxpayer outsourcing work to a targeted employment business, that employ individuals who are residents with developmental disabilities. Credit Amount The credit is equal to 50% of the wages paid to the eligible individual on an hourly basis not to exceed $7.50 per hour. The credit is not refundable and cannot be carried forward and can only be used once each taxable year. Procedures to Claim the Credit You may download Schedule K-69 to claim the Targeted Employment tax credit. This schedule must be completed and submitted with the income return. You may also call the Department of Revenue voice mail system at 785-296-4937 to request Schedule K-69. You will be asked to give your name, address, phone number and form(s) you desire. Please allow two weeks for delivery of your forms. Back to Tax Credits page. Definitions Eligible Individual “Eligible individual” means an individual, including a high school student, who is a Kansas resident, is employed by an employer in a competitive integrated setting, has a developmental disability that has been documented as required by the secretary for aging and disability services and who has agreed to provide the secretary for aging and disability services, or the secretary’s designee, information required by the secretary pursuant to the Kansas targeted employment act, or to permit the secretary of revenue to provide such information to the secretary for aging and disability services. Targeted Employment Business “Targeted employment business” means those employers employing eligible individuals in competitive integrated employment in a competitive integrated setting and who are authorized to do business in Kansas. In order to qualify as a “targeted employment business,” the employer must pay earned income to an eligible individual in a calendar year. “Targeted employment business” does not include a community service provider. Back to Tax Credits page.

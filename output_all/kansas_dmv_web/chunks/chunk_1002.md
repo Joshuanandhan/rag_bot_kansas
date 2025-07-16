@@ -1,0 +1,11 @@
+# New Jersey MVC Locations & Opening Hours Near Me | DMV.ORG
+
+**Source URL:** https://www.dmv.org/nj-new-jersey/dmv-office-finder.php
+**Domain:** www.dmv.org
+**Scraped:** 2025-07-09T12:54:44.172790
+**Crawl Depth:** 5
+**Links Found:** 0
+
+---
+
+DMV Office Finder in New Jersey New Jersey MVC Office Locations Search For What's Your Location? Near: Search Please enter your ZIP code OR city and state abbreviation New Jersey may be the Garden State, but there's plenty of pavement connecting it all together. Luckily, when it comes to the DMV—which, in New Jersey, is the MVC—we can tell you exactly which of those roads will get you to your local office the fastest. Enter your zip code above or click on your county below to find the nearest DMV to you, or keep reading to find out more about the types of services the New Jersey MVC offers.New Jersey MVC Office Services All driving-related services in New Jersey are handled by the NJ Motor Vehicle Commission (MVC), whether they deal with your personal paperwork or the documents you need to ensure your car follows state protocol. Specifically, you can visit the New Jersey MVC for help with: Driving permits. Driver's licenses for: Teens. Adults. Commercial drivers. Motorcycle riders. State ID cards. Vehicle registration. Titles. License plates. Find the closest Motor Vehicle Commission office to you by clicking on your county below or entering your zip code above.Save Time Online Before you leave your house, make sure to check out the online services the NJ MVC has on offer. You may be able to take care of your task without leaving home! If you do need to visit an office in person, see if you can make an appointment for your chosen transaction. That way you can skip ahead of the people waiting on stand-by!MVC Inspection Centers When your regular vehicle inspection rolls around, you can visit any number of MVC-run inspection stations around the state. See the MVC's list of state inspection centers to get started.MVC Contact Information New Jersey Motor Vehicle Commission Call center: (609) 292-6500 Deaf or hard of hearing: 7-1-1 NJ Relay Mailing address: Motor Vehicle Commission Customer Advocacy Office P.O. Box 403 Trenton, NJ 08666

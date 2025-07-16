@@ -1,0 +1,2 @@
+## Adjusting Speed
+The faster your vehicle is going, the more time and distance it will take for turning, slowing, or stopping. Driving safely means adjusting your vehicle speed for roadway and traffic conditions, seeing well ahead in the travel path, providing an adequate following interval, and obeying the appropriate speed limits.

@@ -1,0 +1,166 @@
+{
+  "configuration": {
+    "chunk_processing": {
+      "ignore_headers_and_footers": true,
+      "target_length": 1024,
+      "tokenizer": {
+        "Enum": "Cl100kBase"
+      }
+    },
+    "expires_in": null,
+    "error_handling": "Fail",
+    "high_resolution": true,
+    "ocr_strategy": "All",
+    "segment_processing": {
+      "caption": {
+        "html": "Auto",
+        "llm": null,
+        "markdown": "Auto",
+        "crop_image": "Auto",
+        "embed_sources": [
+          "Markdown"
+        ],
+        "extended_context": false
+      },
+      "footnote": {
+        "html": "Auto",
+        "llm": null,
+        "markdown": "Auto",
+        "crop_image": "Auto",
+        "embed_sources": [
+          "Markdown"
+        ],
+        "extended_context": false
+      },
+      "formula": {
+        "html": "LLM",
+        "llm": null,
+        "markdown": "LLM",
+        "crop_image": "Auto",
+        "embed_sources": [
+          "Markdown"
+        ],
+        "extended_context": false
+      },
+      "list_item": {
+        "html": "Auto",
+        "llm": null,
+        "markdown": "Auto",
+        "crop_image": "Auto",
+        "embed_sources": [
+          "Markdown"
+        ],
+        "extended_context": false
+      },
+      "page": {
+        "html": "LLM",
+        "llm": null,
+        "markdown": "LLM",
+        "crop_image": "Auto",
+        "embed_sources": [
+          "Markdown"
+        ],
+        "extended_context": false
+      },
+      "page_footer": {
+        "html": "Auto",
+        "llm": null,
+        "markdown": "Auto",
+        "crop_image": "Auto",
+        "embed_sources": [
+          "Markdown"
+        ],
+        "extended_context": false
+      },
+      "page_header": {
+        "html": "Auto",
+        "llm": null,
+        "markdown": "Auto",
+        "crop_image": "Auto",
+        "embed_sources": [
+          "Markdown"
+        ],
+        "extended_context": false
+      },
+      "picture": {
+        "html": "Auto",
+        "llm": null,
+        "markdown": "Auto",
+        "crop_image": "All",
+        "embed_sources": [
+          "Markdown"
+        ],
+        "extended_context": false
+      },
+      "section_header": {
+        "html": "Auto",
+        "llm": null,
+        "markdown": "Auto",
+        "crop_image": "Auto",
+        "embed_sources": [
+          "Markdown"
+        ],
+        "extended_context": false
+      },
+      "table": {
+        "html": "LLM",
+        "llm": null,
+        "markdown": "LLM",
+        "crop_image": "Auto",
+        "embed_sources": [
+          "Markdown"
+        ],
+        "extended_context": false
+      },
+      "text": {
+        "html": "Auto",
+        "llm": null,
+        "markdown": "Auto",
+        "crop_image": "Auto",
+        "embed_sources": [
+          "Markdown"
+        ],
+        "extended_context": false
+      },
+      "title": {
+        "html": "Auto",
+        "llm": null,
+        "markdown": "Auto",
+        "crop_image": "Auto",
+        "embed_sources": [
+          "Markdown"
+        ],
+        "extended_context": false
+      }
+    },
+    "segmentation_strategy": "LayoutAnalysis",
+    "pipeline": "Azure",
+    "llm_processing": {
+      "model_id": "gemini-pro-1.5",
+      "fallback_strategy": {
+        "Model": "gemini-flash-2.0"
+      },
+      "max_completion_tokens": null,
+      "temperature": 0.0
+    },
+    "input_file_url": "https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/06fe8f5a-4e12-4789-8f4a-3e2f9d8070a7/Kansas%20Motorcycle%20Handbook.pdf?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T202106Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4ce817d01c7885b5f3b021661c08bdb72ed000af5bbe921cf6fff74efbc77bee",
+    "json_schema": null,
+    "model": null,
+    "target_chunk_length": null
+  },
+  "created_at": "2025-06-22T20:21:05.827121+00:00",
+  "expires_at": null,
+  "finished_at": null,
+  "message": "Page limit exceeded",
+  "output": {
+    "chunks": [],
+    "file_name": "Kansas Motorcycle Handbook.pdf",
+    "page_count": 0,
+    "pdf_url": "https://storage.googleapis.com/chunkr-prod-bucket/5894d5d9-1d3c-45e4-8999-33384f1e23ff/06fe8f5a-4e12-4789-8f4a-3e2f9d8070a7/Kansas%20Motorcycle%20Handbook.pdf?x-id=GetObject&response-content-disposition=inline&response-content-encoding=utf-8&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EBMQ2D33SPB3VQ4MMVJEKXWQFNK5WS57JRFVYUSD3ZCA76OC3B74IG7C%2F20250622%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250622T202106Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4ce817d01c7885b5f3b021661c08bdb72ed000af5bbe921cf6fff74efbc77bee"
+  },
+  "started_at": "2025-06-22T20:21:05.922828+00:00",
+  "status": "Failed",
+  "task_id": "06fe8f5a-4e12-4789-8f4a-3e2f9d8070a7",
+  "task_url": "https://api.chunkr.ai/api/v1/task/06fe8f5a-4e12-4789-8f4a-3e2f9d8070a7",
+  "include_chunks": false
+}

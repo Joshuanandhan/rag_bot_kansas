@@ -1,0 +1,11 @@
+# Kansas Department of Revenue - Business Seizure - 05-21-2025
+
+**Source URL:** https://www.ksrevenue.gov/press/2025/bs05212025.html
+**Domain:** www.ksrevenue.gov
+**Scraped:** 2025-07-09T12:49:21.350930
+**Crawl Depth:** 5
+**Links Found:** 0
+
+---
+
+KDOR seizes assets in execution of Ford County tax warrant 05/21/2025 The warrants were filed in Ford. The assets were seized at 9:00 at 202 E Frontview Dodge City KS. The types of assets seized include all known bank accounts, on-site cash, business inventory, as well as personal property belonging to the owner. The business was sealed closed with a public notice posted on the outside. All seized assets will be sold at public auction and the proceeds will pay for the delinquent taxes. KDOR’s policy and practice is to work with taxpayers in delinquent status to voluntarily enter into repayment agreements. It is only after these efforts and multiple failed collection attempts that the Department is forced to execute a tax warrant, utilizing such actions as bank levies, till taps, and ultimately asset seizure to ensure compliance with the law. KDOR’s responsibility to recover delinquent taxes not only ensures fairness for individuals and business owners who do pay their taxes, but also ensures that money is lawfully collected to fund state and local programs on which Kansans depend. These programs include education, highways, public safety, and human services. Customers, employees or others that may have items at the business may contact the agent assigned to this case at 785-296-3289. Provecho LLC, 202 E Frontview, Dodge City KS 67801 Alysia Guzman, 810 Wright Ave Apt A, Dodge City KS 67801 Tax Warrants Executed: Sales Tax, FO-2024-ST-000067, Ford County Sales Tax, FO-2024-ST-000392, Ford County Withholding Tax, FO-2024-ST-000391, Ford County Sales Tax, FO-2024-ST-000693, Ford County Sales Tax, FO-2025-ST-000048, Ford County Withholding Tax, FO-2025-ST-000049, Ford County Sales Tax, FO-2025-ST-000119, Ford County Sales Tax, FO-2025-ST-000141, Ford County Sales Tax, FO-2025-ST-000242, Ford County Sales Tax, FO-2025-ST-000243, Ford County Sales Tax - $37,273.26 Withholding - $556.75 Combined total: $37,830.01 Responsible Party - $35,815.18 Back to the siezures page.

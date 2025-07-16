@@ -1,0 +1,2 @@
+## Runaway Ramps
+On long downgrades there may be special escape or runway ramps for large vehicles. These ramps are to be used only by large vehicles that are out of control or cannot stop because of brake failure. Never stop or park in the area of these ramps.

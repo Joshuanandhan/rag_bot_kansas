@@ -1,0 +1,2 @@
+## 2.6 - Controlling Speed
+Driving too fast is a major cause of fatal crashes. You must adjust your speed depending on driving conditions. These include traction, curves, visibility, traffic and hills.

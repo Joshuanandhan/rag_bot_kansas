@@ -1,0 +1,2 @@
+## 7.1.6 - Adverse Conditions
+Be more careful in adverse conditions. In bad weather, slippery conditions, and mountain driving, you must be especially careful if you drive double and triple bottoms. You will have greater length and more dead axles to pull with your drive axles than other drivers. There is more chance for skids and loss of traction.

@@ -1,0 +1,2 @@
+## 10.3 - Emergency Exit and Evacuation
+An emergency situation can happen to anyone, anytime, anywhere. It could be a crash, a stalled school bus on a railroad-highway crossing or in a high-speed intersection, an electrical fire in the engine compartment, a medical emergency to a student on the school bus, etc. Knowing what to do in an emergency-before, during and after an evacuation-can mean the difference between life and death.

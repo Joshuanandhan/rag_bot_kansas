@@ -1,0 +1,6 @@
+## Correct
+## Incorrect
+· The lap belt should be adjusted so that it is snug and lies low across your hips after fastening. If you have an automatic shoulder belt, be sure to buckle your lap belt as well. Otherwise, in a collision you could slide out of the belt and be hurt or killed.
+· You should be seated upright with your back against the seat and feet on the floor. Improper seating positions, such as slouching or resting one's feet on the dashboard can result in reduced effectiveness of the vehicle's restraint system and possibly result in injury.
+· Safety belts should be worn even if the vehicle is equipped with air bags. While air bags are good protection against hitting the steering wheel, dashboard, or windshield, they do not protect you if you are hit from the side or rear or if the vehicle rolls over. In addition, an air bag will not keep you behind the wheel in these situations.
+· The law requires that all children under the age of 14 must be secured in the rear seat and wear appropriate safety restraints while the vehicle is in motion.

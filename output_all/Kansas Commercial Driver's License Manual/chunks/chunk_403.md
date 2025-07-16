@@ -1,0 +1,2 @@
+## Steering Linkage
+See that connecting links, arms, and rods from the steering box to the wheel are not worn or cracked. Check that joints and sockets are not worn or loose and that there are no missing nuts, bolts, or cotter keys.

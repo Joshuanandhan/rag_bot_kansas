@@ -1,0 +1,2 @@
+## 4.3.4 - Speed on Curves
+Crashes on curves that kill people and destroy buses result from excessive speed, often when rain or snow has made the road slippery. Every banked curve has a safe "design speed." In good weather, the posted speed is safe for cars but it may be too high for many buses. With good traction, the bus may roll over; with poor traction, it might slide off the curve. Reduce speed for curves! If your bus leans toward the outside on a banked curve, you are driving too fast.

@@ -1,0 +1,2 @@
+## 3.4.4 - Oversized Loads
+Over-length, over-width, and/or overweight loads require special transit permits. Driving is usually limited to certain times. Special equipment may be necessary such as "wide load" signs, flashing lights, flags, etc. Such loads may require a police escort or pilot vehicles bearing warning signs and/or flashing lights. These special loads require special driving care.

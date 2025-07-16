@@ -1,0 +1,2 @@
+## 6.2 - Combination Vehicle Air Brakes
+You should study Section 5: Air Brakes before reading this. In combination vehicles the braking system has parts to control the trailer brakes, in addition to the parts described in Section 5. These parts are described below.

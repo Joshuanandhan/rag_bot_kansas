@@ -1,0 +1,8 @@
+## 2.7.6 - Space for Turns
+The space around a truck or bus is important in turns. Because of wide turning and off-tracking, large vehicles can hit other vehicles or objects during turns.
+Right Turns. Here are some rules to help prevent right-turn crashes: Turn slowly to give yourself and others more time to avoid problems.
+If you are driving a truck or bus that cannot make the right turn without swinging into another lane, turn wide as you complete the turn. Keep the rear of your vehicle close to the curb. This will stop other drivers from passing you on the right. Don't turn wide to the left as you start the turn. A following driver may think you are turning left and try to pass you on the right. You may crash into the other vehicle as you complete your turn. If you must cross into the oncoming lane to make a turn, watch out for vehicles coming toward you. Give them room to go by or to stop. However, don't back up for them, because you might hit someone behind you. See Figure 2.13.
+![Jug Handle INCORRECT Button Hook CORRECT]()
+_Figure 2.13_
+Left Turns. On a left turn, make sure you have reached the center of the intersection before you start the left turn. If you turn too soon, the left side of your vehicle may hit another vehicle because of off tracking. If there are two turning lanes, always take the right turn lane. Don't start in the inside lane because you may have to swing right to make the turn. Drivers on your left can be more readily seen. See Figure 2.14.
+![Figure 2.14]()

@@ -1,0 +1,2 @@
+## 13.1.9 - Bridge/Overpass/Sign
+After driving under an overpass, you may be asked to tell the examiner what the posted clearance or height was. After going over a bridge, you may be asked to tell the examiner what the posted weight limit was. If your test route does not have a bridge or overpass, you may be asked about another traffic sign. When asked, be prepared to identify and explain to the examiner any traffic sign which may appear on the route.

@@ -1,0 +1,3 @@
+## 2.1.5 - Seven-step Inspection Method
+Method of Inspection. You should do a Vehicle inspection the same way each time so you will learn all the steps and be less likely to forget something.
+Approaching the Vehicle. Notice general condition. Look for damage or vehicle leaning to one side. Look under the vehicle for fresh oil, coolant, grease, or fuel leaks. Check the area around the vehicle for hazards to vehicle movement (people, other vehicles, objects, low-hanging wires, limbs, etc.).

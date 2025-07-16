@@ -1,0 +1,2 @@
+## 5.1.10 - Application Pressure Gauge
+This gauge shows how much air pressure you are applying to the brakes. (This gauge is not on all vehicles.) Increasing application pressure to hold the same speed means the brakes are fading. You should slow down and use a lower gear. The need for increased pressure can also be caused by brakes out of adjustment, air leaks, or mechanical problems.

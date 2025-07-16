@@ -1,0 +1,7 @@
+## 9.3.7 - Package Markings and Labels
+Shippers print required markings directly on the package, an attached label, or tag. An important package marking is the name of the hazardous material. It is the same name as the one on the shipping paper. The requirements for marking vary by package size and material being transported. When required, the shipper will put the following on the package:
+· The name and address of shipper or consignee.
+· The hazardous material's shipping name and identification number.
+· The labels required.
+It is a good idea to compare the shipping paper to the markings and labels. Always make sure that the shipper shows the correct basic description on the shipping paper, and verifies that the proper labels are shown on the packages. If you are not familiar with the material, ask the shipper to contact your office.
+If rules require it, the shipper will put RQ, MARINE POLLUTANT, BIOHAZARD, HOT, or INHALATION-HAZARD on the package. Packages with liquid containers inside will also have package orientation markings with the arrows pointing in the correct upright direction. The labels used always reflect the hazard class of the product. If a package needs more than one label, the labels must be close together, near the proper shipping name.

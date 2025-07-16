@@ -1,0 +1,2 @@
+## 2.1.4 - CDL Vehicle Inspection Test
+In order to obtain a CDL you will be required to pass a Vehicle inspection test. You will be tested to see if you know whether your vehicle is safe to drive. You will be asked to do a Vehicle inspection of your vehicle. You must point to/touch and name the item you are inspecting and explain to the examiner what you would inspect and why. The following seven-step inspection method should be useful.

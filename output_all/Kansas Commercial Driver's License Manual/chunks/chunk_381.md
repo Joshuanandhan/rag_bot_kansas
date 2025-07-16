@@ -1,0 +1,3 @@
+## 10.6.2 - How ABS Helps You
+When you brake hard on slippery surfaces in a vehicle without ABS, your wheels may lock up. When your steering wheels lock up, you lose steering control. When your other wheels lock up, you may skid or even spin the vehicle.
+ABS helps you avoid wheel lock up and maintain control. You may or may not be able to stop faster with ABS, but you should be able to steer around an obstacle while braking, and avoid skids caused by over braking.

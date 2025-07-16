@@ -1,0 +1,11 @@
+# California DMV Locations & Opening Hours Near Me | DMV.ORG
+
+**Source URL:** https://www.dmv.org/ca-california/dmv-office-finder.php
+**Domain:** www.dmv.org
+**Scraped:** 2025-07-09T12:53:40.117880
+**Crawl Depth:** 5
+**Links Found:** 0
+
+---
+
+DMV Office Finder in California Search For Your DMV Office Near: Search Please enter your ZIP code OR city and state abbreviation With several California Department of Motor Vehicles (DMV) offices throughout the state, you're likely to find a location nearby where you can take care of your driver's license and vehicle related tasks. Enter your zip code above, or browse below to find your local DMV office.CA DMV Office ServicesIn California, you can visit Department of Motor Vehicles offices to take care of most of your driver's license and vehicle related needs, including (but not limited to): Driver's licenses and permits for: Adults. Teens. State ID cards. Vehicle registration. Vehicle titling. Avoid the Lines—Go OnlineBefore heading out to your local DMV office branch, you might consider: Making an appointment—this allows you to jump the line and get in and out of the office much faster. Using the online services provided by the CA DMV, saving you a trip to the office altogether.Other DMV-Related ServicesCDL TestingWhile knowledge and skills tests for driver's licenses are primarily administered at DMV offices, many of these offices are not equipped to administer tests for commercial driver's licenses. The CA DMV provides a list of its offices that do provide CDL road testing. Smog TestingCalifornia sets the standard for emissions testing, and most vehicles on CA roads must pass a smog inspection several times throughout the years they're registered in the state. You can have your car inspected at any DMV-approved STAR certified station.California DMV Contact InformationTo reach the CA Department of Motor Vehicles by phone, you can call the main line at: (800) 777-0133. Hearing impaired: (800) 368-4327.The Call Center is open: Monday thru Friday: 8 am to 5 pm.Some CA DMV offices have extended hours or Saturday hours.If you need to write in to the California DMV main offices, send your mail to the appropriate address listed on the CA DMV's contact page.

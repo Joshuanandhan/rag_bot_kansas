@@ -1,0 +1,7 @@
+## Clothing
+The right clothing protects you in a collision. It also provides comfort, as well as protection from heat, cold, debris and hot and moving parts of the motorcycle.
+Jacket and pants should cover arms and legs completely. They should fit snugly enough to keep from flapping in the wind, yet loosely enough to allow the operator to move freely. Leather offers the most protection. Sturdy synthetic material provides a lot of protection as well.
+Wear a jacket even in warm weather to prevent dehydration. Many are designed to protect without getting you overheated, even on summer days.
+Boots or shoes should be high and sturdy enough to cover your ankles and give them support. Soles should be made of hard, durable, slip-resistant material. Keep heels short so they do not catch on rough surfaces. Tuck in laces so they won't catch on your motorcycle.
+Gloves allow a better grip and help protect your hands in a crash. Your gloves should be made of leather or similar durable material.
+In cold or wet weather, your clothes should keep you warm and dry, as well as protect you from injury. You cannot control a motorcycle well if you are numb. Riding for long periods in cold weather can cause severe chill and fatigue. A winter jacket should resist wind and fit snugly at the neck, wrists and waist. Good-quality rain suits designed for motorcycle riding resist tearing apart or ballooning up at high speeds.

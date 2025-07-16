@@ -1,0 +1,2 @@
+## Merging Cars
+Drivers on an entrance ramp may not see you on the highway. Give them plenty of room. Change to another lane if one is open. If there is no room for a lane change, adjust speed to open space for the merging driver.

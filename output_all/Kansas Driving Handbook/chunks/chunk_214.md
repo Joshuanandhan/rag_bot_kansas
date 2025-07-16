@@ -1,0 +1,2 @@
+## Lightning
+Only a hard-topped vehicle will protect you in a lightning storm. Make sure all doors are closed and windows are up. Do not touch any metal surfaces. Do not use radios connected to an external antenna mounted on the vehicle. Otherwise, the safest place to be during a thunderstorm is inside a well-constructed building with plumbing and electric wiring.

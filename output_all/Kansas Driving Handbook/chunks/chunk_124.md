@@ -1,0 +1,2 @@
+## Special Handling Characteristics
+Larger vehicles with a higher center of gravity have special handling characteristics and are more prone to rollovers. When driving larger vehicles, such as sport utility vehicles (SUVs), vans, pickup trucks, and moving trucks, you should drive at a slower speed that is safe for the roadway, do not make sudden changes in direction and be sure to slow down before curves.

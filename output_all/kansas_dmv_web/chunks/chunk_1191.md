@@ -1,0 +1,11 @@
+# Special Driver's Licenses | DMV.ORG
+
+**Source URL:** https://www.dmv.org/special-licenses.php
+**Domain:** www.dmv.org
+**Scraped:** 2025-07-09T13:01:55.112246
+**Crawl Depth:** 5
+**Links Found:** 0
+
+---
+
+Other Licenses & Endorsements Choose Your State Hawaii Alaska Florida New Hampshire Michigan Vermont Maine Rhode Island New York Pennsylvania New Jersey Delaware Maryland Virginia West Virginia Ohio Indiana Illinois Connecticut Wisconsin North Carolina Washington DC Massachusetts Tennessee Arkansas Missouri Georgia South Carolina Kentucky Alabama Louisiana Missouri Iowa Minnesota Oklahoma Texas New Mexico Kansas Nebraska South Dakota North Dakota Wyoming Montana Colorado Idaho Utah Arizona Nevada Oregon Washington California Or Select Your State: AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyomingWashington DC Please enter your ZIP Code to access Other Licenses & Endorsements specific to your state: ZIP Code Go Certain occupations and situations call for special driversâ€™ licenses. If you are transporting people or goods you will want to make sure you are holding the proper license. So whether you are driving a taxi, a bus, a shuttle, certain sports vehicles, or acting as a chauffeur, we have the information you need to get and stay legally licensed. Select your state to learn which type of license you need, how to qualify for that license, which forms you need to fill out, and how much the license will cost. Choose Your State AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyomingWashington DC

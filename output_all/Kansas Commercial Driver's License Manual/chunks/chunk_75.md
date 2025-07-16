@@ -1,0 +1,2 @@
+## 2.3.2 - Multi-speed Rear Axles and Auxiliary Transmissions
+Multi-speed rear axles and auxiliary transmissions are used on many vehicles to provide extra gears. You usually control them by a selector knob or switch on the gearshift lever of the main transmission. There are many different shift patterns. Learn the right way to shift gears in the vehicle you will drive.

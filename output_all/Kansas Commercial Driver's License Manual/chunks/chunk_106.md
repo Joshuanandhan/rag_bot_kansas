@@ -1,0 +1,2 @@
+## 2.9.2 - Effects of Distracted Driving
+Effects of distracted driving include slowed perception, which may cause you to be delayed in perceiving or completely fail to perceive an important traffic event; delayed decision making and improper action, which can cause you to be delayed in taking the proper action or make incorrect inputs to the steering, accelerator, or brakes.

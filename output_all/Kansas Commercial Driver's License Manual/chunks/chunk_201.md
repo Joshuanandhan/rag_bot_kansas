@@ -1,0 +1,2 @@
+## 5.1.1 - Air Compressor
+The air compressor pumps air into the air storage tanks (reservoirs). The air compressor is connected to the engine through gears or a v-belt. The compressor may be air cooled or may be cooled by the engine cooling system. It may have its own oil supply or be lubricated by engine oil. If the compressor has its own oil supply, check the oil level before driving.

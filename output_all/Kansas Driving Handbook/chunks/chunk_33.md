@@ -1,0 +1,3 @@
+## Unsuccessful Examinations
+If you fail to pass either the written test or driving test, you may take again the next working day after paying a $1.50 re-exam fee. You may wait longer if you wish to study the handbook or practice driving. You have four chances to pass the written test and four chances to pass the driving test. After the fourth failure of either test, you must wait a minimum of six (6) months from the most recent failed exam before retesting.
+Once you have successfully passed all the required tests and met all other licensing requirements you may be issued a Driver's License. Remember, getting a Driver's License is not a right; it is a privilege that must be earned and maintained.

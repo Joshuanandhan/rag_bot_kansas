@@ -1,0 +1,7 @@
+## Swerving or Turning Quickly
+Sometimes you may not have enough room to stop, even if you use both brakes properly. An object might appear suddenly in your path. Or the car ahead might squeal to a stop. The only way to avoid a crash may be to turn quickly, or swerve around it.
+A swerve is any sudden change in direction. It can be two quick turns, or a rapid shift to the side. Apply a small amount of hand pressure to the handle grip located on the side of your intended direction of escape. This will cause the motorcycle to lean quickly. The sharper the turn(s), the more the motorcycle must lean.
+Keep your body upright and allow the motorcycle to lean in the direction of the turn while keeping your knees against the tank and your feet solidly on the footrests. Let the motorcycle move underneath you. Make your escape route the target of your vision. Press on the opposite handle grip once you clear the obstacle to return you to your original direction of travel. To swerve to the left, press the left handle grip, then press the right to recover. To swerve to the right, press right, then left.
+IF BRAKING IS REQUIRED, SEPARATE IT FROM SWERVING. Brake before or after - never while swerving.
+![Swerve, then Brake]()
+![Brake, then Swerve]()

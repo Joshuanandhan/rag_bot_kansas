@@ -1,0 +1,3 @@
+## Emergencies
+All drivers eventually will find themselves in an emergency situation. As careful as you are, there are situations that could cause a problem for you. If you are prepared, you may be able to prevent any serious outcomes.
+There is always a chance of a vehicle problem while driving. You should follow the recommended maintenance schedule listed in the vehicle owner's manual. Following these preventive measures greatly reduces the chance that your vehicle will have a problem.

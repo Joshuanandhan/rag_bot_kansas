@@ -1,0 +1,2 @@
+## Flood
+If you cannot open the door or window, there will be a small air pocket near the part of the vehicle which is highest in the water. If you can't get a side window open, take a breath and kick the window out. Go to the air pocket for one more breath and then escape.

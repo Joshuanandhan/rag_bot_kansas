@@ -1,0 +1,2 @@
+## Pavement Markings:
+Pavement markings are lines, arrows, words, or symbols painted on the roadway to give you directions or warnings. They are used to divide lanes, tell you when you may pass other vehicles or change lanes, which lanes to use for turns, define pedestrian walkways and where you must stop for signs or traffic signals.

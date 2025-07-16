@@ -1,0 +1,2 @@
+## 9.6.11 - Equipment for Chlorine
+A driver transporting chlorine in cargo tanks must have an approved gas mask in the vehicle. The driver must also have an emergency kit for controlling leaks in dome cover plate fittings on the cargo tank.

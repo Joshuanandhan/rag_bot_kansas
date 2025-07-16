@@ -1,0 +1,11 @@
+# Kansas Department of Revenue Tax Policy - Assistive Technology Contribution Credit
+
+**Source URL:** https://www.ksrevenue.gov/prtaxcredits-assistive.html
+**Domain:** www.ksrevenue.gov
+**Scraped:** 2025-07-09T12:47:56.388646
+**Crawl Depth:** 5
+**Links Found:** 0
+
+---
+
+Assistive Technology Contribution Credit Income Taxpayer-Effective for all taxable years commencing after Dec. 31, 2002. Beginning in tax year 2013, this credit shall only be available to corporations that are subject to the Kansas corporate income tax, i.e. C corporations. This credit shall not be available to individuals, partnerships, S corporations, limited liability companies, and other pass-through entities. An income tax credit shall be allowed for any program contributor that makes a contribution to an individual development account reserve fund. The purpose of the individual development account program for assistive technology is to provide eligible families and individuals with an opportunity to establish special savings accounts for moneys which may be used by them to purchase assistive technology. Qualifications A program contributor must receive approval from Assistive Technology for Kansans. For information about establishing an assistive technology individual development account (IDA), or making contributions, contact: Assistive Technology for Kansas 2601 Gabriel Parsons, KS 67357 800-526-3648 atk.ku.edu/ Credit Amount The credit is 25 percent of the total amount of the contribution. Limitation of Credit The total credits authorized shall not exceed $6,250 in any fiscal year. Procedures to Claim the Credit You may download Schedule K-42 to claim the assistive technology contribution credit. This schedule must be completed and submitted with the income tax return. You may also call the Department of Revenue voice mail system at 785-296-4937 to request Schedule K-42. You will be asked to give your name, address, phone number and form(s) you desire. Please allow two weeks for delivery of your forms. Assistive Technology Assistive technology means any item, piece of equipment or product system, whether acquired commercially, off the shelf, modified or customized, that is used to increase, maintain or improve functional capabilities of individuals with disabilities. Back Back to Tax Credits page.

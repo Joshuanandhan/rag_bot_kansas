@@ -1,0 +1,2 @@
+## 9.1.2 - Communicate the Risk
+To communicate the risk, shippers must warn drivers and others about the material's hazards. The regulations require shippers to put hazard warning labels on packages, provide proper shipping papers, emergency response information, and placards. These steps communicate the hazard to the shipper, the carrier, and the driver.
