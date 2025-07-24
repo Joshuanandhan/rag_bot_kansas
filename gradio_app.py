@@ -28,7 +28,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-def log_interaction(session_id: str, user_query: str, agent_response: str, language: str = "en", error: str = None):
+def log_interaction(session_id: str, user_query: str, agent_response: str, language: str = "en", error: str = None, location: str = None):
     """
     Log user interactions with detailed information
     
@@ -38,6 +38,7 @@ def log_interaction(session_id: str, user_query: str, agent_response: str, langu
         agent_response: Agent's response
         language: Selected language
         error: Error message if any
+        location: User's location if available
     """
     log_data = {
         'timestamp': datetime.now().isoformat(),
@@ -46,13 +47,15 @@ def log_interaction(session_id: str, user_query: str, agent_response: str, langu
         'user_query': user_query,
         'agent_response': agent_response[:200] + "..." if len(agent_response) > 200 else agent_response,
         'response_length': len(agent_response),
-        'error': error
+        'error': error,
+        'location': location
     }
     
     # Terminal output with colors
     print(f"\n{'='*80}")
     print(f"🕐 {datetime.now().strftime('%H:%M:%S')} | Session: {session_id}")
     print(f"🌐 Language: {language}")
+    print(f"📍 Location: {location if location else 'Not provided'}")
     print(f"💬 Conversation Memory: ENABLED")
     print(f"{'='*80}")
     
@@ -223,20 +226,34 @@ def simulate_streaming_response(response_text: str, history: List[Tuple[str, str
         
         yield history
 
-def chat_response_streaming(message: str, history: List[Tuple[str, str]], language: str, session_id: str):
+def chat_response_streaming(message: str, history: List[Tuple[str, str]], language: str, session_id: str, location: str = None):
     """Process chat message with streaming response and persistent session."""
     global agent
     
     if not message.strip():
         return history
     
+    # Extract location from message if present
+    extracted_location = location
+    original_message = message
+    
+    # Check for location prefix in message
+    if message.startswith('[Location: ') and ']' in message:
+        end_bracket = message.find(']')
+        extracted_location = message[10:end_bracket]  # Remove '[Location: ' and ']'
+        original_message = message[end_bracket + 1:].strip()
+        logger.info(f"📍 Location extracted from message: {extracted_location}")
+    
+    # Use extracted location if available, otherwise use the state location
+    final_location = extracted_location if extracted_location and extracted_location != "Location not available" else location
+    
     # Initialize agent if needed
     if agent is None:
         logger.info("🔄 Agent not initialized, initializing now...")
         init_result = initialize_agent()
         if "Error" in init_result:
-            log_interaction(session_id, message, init_result, language, error=init_result)
-            history.append((message, init_result))
+            log_interaction(session_id, original_message, init_result, language, error=init_result, location=final_location)
+            history.append((original_message, init_result))
             yield history
             return
     
@@ -244,11 +261,23 @@ def chat_response_streaming(message: str, history: List[Tuple[str, str]], langua
         logger.info(f"🔄 Processing query for session {session_id} (Memory: ENABLED)")
         
         # Add user message with typing indicator
-        history.append((message, "🤔 Thinking..."))
+        history.append((original_message, "🤔 Thinking..."))
         yield history
         
+        # Prepare message with location context if available
+        enhanced_message = original_message
+        if final_location and final_location != "Location not available":
+            # Check if user is asking about DMV office locations
+            location_keywords = ["dmv office", "nearest dmv", "dmv location", "where is", "office", "nearest office"]
+            is_location_query = any(keyword in original_message.lower() for keyword in location_keywords)
+            
+            if is_location_query:
+                enhanced_message = f"User's current location: {final_location}\n\nUser's question: {original_message}\n\nNote: The user is asking about DMV office locations. Use the find_nearest_dmv tool with the provided location."
+            else:
+                enhanced_message = f"User's current location: {final_location}\n\nUser's question: {original_message}"
+        
         # Get response from agent with persistent session_id
-        response = agent.chat(message, session_id)
+        response = agent.chat(enhanced_message, session_id)
         
         # Translate response if Spanish is selected
         if language == "es":
@@ -258,18 +287,72 @@ def chat_response_streaming(message: str, history: List[Tuple[str, str]], langua
         formatted_response = format_response_text(response)
         
         # Log the interaction
-        log_interaction(session_id, message, response, language)
+        log_interaction(session_id, original_message, response, language, location=final_location)
         
         # Stream the formatted response
-        for updated_history in simulate_streaming_response(formatted_response, history[:-1], message):
+        for updated_history in simulate_streaming_response(formatted_response, history[:-1], original_message):
             yield updated_history
         
     except Exception as e:
         error_msg = f"Error processing query: {str(e)}"
         logger.error(f"❌ {error_msg}")
-        log_interaction(session_id, message, error_msg, language, error=error_msg)
-        history[-1] = (message, f"❌ {error_msg}")
+        log_interaction(session_id, original_message, error_msg, language, error=error_msg, location=final_location)
+        history[-1] = (original_message, f"❌ {error_msg}")
         yield history
+
+def chat_response(message: str, history: List[Tuple[str, str]], language: str, session_id: str, location: str = None) -> Tuple[str, List[Tuple[str, str]]]:
+    """Process chat message and return response (fallback for non-streaming)."""
+    global agent
+    
+    if not message.strip():
+        return "", history
+    
+    # Initialize agent if needed
+    if agent is None:
+        logger.info("🔄 Agent not initialized, initializing now...")
+        init_result = initialize_agent()
+        if "Error" in init_result:
+            log_interaction(session_id, message, init_result, language, error=init_result, location=location)
+            history.append((message, init_result))
+            return "", history
+    
+    try:
+        logger.info(f"🔄 Processing query for session {session_id} (Memory: ENABLED)")
+        
+        # Prepare message with location context if available
+        enhanced_message = message
+        if location and location != "Location not available":
+            # Check if user is asking about DMV office locations
+            location_keywords = ["dmv office", "nearest dmv", "dmv location", "where is", "office", "nearest office"]
+            is_location_query = any(keyword in message.lower() for keyword in location_keywords)
+            
+            if is_location_query:
+                enhanced_message = f"User's current location: {location}\n\nUser's question: {message}\n\nNote: The user is asking about DMV office locations. Use the find_nearest_dmv tool with the provided location."
+            else:
+                enhanced_message = f"User's current location: {location}\n\nUser's question: {message}"
+        
+        # Get response from agent with persistent session_id
+        response = agent.chat(enhanced_message, session_id)
+        
+        # Translate response if Spanish is selected
+        if language == "es":
+            response = translate_text(response, "es")
+        
+        # Format the response for better display
+        formatted_response = format_response_text(response)
+        
+        # Log the interaction
+        log_interaction(session_id, message, response, language, location=location)
+        
+        history.append((message, formatted_response))
+        return "", history
+        
+    except Exception as e:
+        error_msg = f"Error processing query: {str(e)}"
+        logger.error(f"❌ {error_msg}")
+        log_interaction(session_id, message, error_msg, language, error=error_msg, location=location)
+        history.append((message, f"❌ {error_msg}"))
+        return "", history
 
 def clear_conversation(session_id: str):
     """Clear the conversation history for the current session."""
@@ -319,54 +402,12 @@ def get_conversation_summary(session_id: str):
         logger.error(f"❌ Error getting conversation summary: {str(e)}")
         return f"Error retrieving conversation summary: {str(e)}"
 
-def chat_response(message: str, history: List[Tuple[str, str]], language: str, session_id: str) -> Tuple[str, List[Tuple[str, str]]]:
-    """Process chat message and return response (fallback for non-streaming)."""
-    global agent
-    
-    if not message.strip():
-        return "", history
-    
-    # Initialize agent if needed
-    if agent is None:
-        logger.info("🔄 Agent not initialized, initializing now...")
-        init_result = initialize_agent()
-        if "Error" in init_result:
-            log_interaction(session_id, message, init_result, language, error=init_result)
-            history.append((message, init_result))
-            return "", history
-    
-    try:
-        logger.info(f"🔄 Processing query for session {session_id} (Memory: ENABLED)")
-        
-        # Get response from agent with persistent session_id
-        response = agent.chat(message, session_id)
-        
-        # Translate response if Spanish is selected
-        if language == "es":
-            response = translate_text(response, "es")
-        
-        # Format the response for better display
-        formatted_response = format_response_text(response)
-        
-        # Log the interaction
-        log_interaction(session_id, message, response, language)
-        
-        history.append((message, formatted_response))
-        return "", history
-        
-    except Exception as e:
-        error_msg = f"Error processing query: {str(e)}"
-        logger.error(f"❌ {error_msg}")
-        log_interaction(session_id, message, error_msg, language, error=error_msg)
-        history.append((message, f"❌ {error_msg}"))
-        return "", history
-
 def create_app():
     """Create the modern ChatGPT-inspired interface."""
     
     logger.info("🎨 Creating Gradio interface...")
     
-    # Custom CSS matching the screenshot design
+    # Custom CSS with location button styles
     custom_css = """
     /* Global Styles */
     .gradio-container {
@@ -465,6 +506,28 @@ def create_app():
         transform: translateY(-2px) !important;
     }
     
+    .location-btn {
+        background: rgba(34,197,94,0.2) !important;
+        border: 1px solid rgba(34,197,94,0.3) !important;
+        color: white !important;
+        padding: 8px 16px !important;
+        border-radius: 20px !important;
+        cursor: pointer !important;
+        transition: all 0.3s ease !important;
+        font-size: 14px !important;
+        font-weight: 500 !important;
+    }
+    
+    .location-btn:hover {
+        background: rgba(34,197,94,0.3) !important;
+        transform: translateY(-2px) !important;
+    }
+    
+    .location-btn.active {
+        background: rgba(34,197,94,0.4) !important;
+        border-color: rgba(34,197,94,0.6) !important;
+    }
+    
     .clear-btn {
         background: rgba(255,87,87,0.2) !important;
         border: 1px solid rgba(255,87,87,0.3) !important;
@@ -497,6 +560,44 @@ def create_app():
     .info-btn:hover {
         background: rgba(52,152,219,0.3) !important;
         transform: translateY(-2px) !important;
+    }
+    
+    /* Location Status */
+    .location-status {
+        font-size: 12px !important;
+        color: rgba(255,255,255,0.8) !important;
+        margin-top: 4px !important;
+    }
+    
+    /* Location Fallback */
+    .location-fallback {
+        background: #fff3cd !important;
+        border: 1px solid #ffeaa7 !important;
+        border-radius: 10px !important;
+        padding: 15px !important;
+        margin: 10px 20px !important;
+        box-shadow: 0 2px 10px rgba(0,0,0,0.1) !important;
+    }
+    
+    .location-fallback input {
+        border: 1px solid #ddd !important;
+        border-radius: 5px !important;
+        padding: 8px 12px !important;
+        font-size: 14px !important;
+    }
+    
+    .location-fallback button {
+        background: #28a745 !important;
+        color: white !important;
+        border: none !important;
+        border-radius: 5px !important;
+        padding: 8px 16px !important;
+        font-size: 14px !important;
+        cursor: pointer !important;
+    }
+    
+    .location-fallback button:hover {
+        background: #218838 !important;
     }
     
     /* Chat Area */
@@ -804,13 +905,374 @@ def create_app():
     }
     """
     
-    with gr.Blocks(css=custom_css, title="Kansas DMV Assistant") as app:
+    # JavaScript for location functionality
+    location_js = """
+    <script>
+        let locationUpdateInterval;
+        
+        function getLocation() {
+            console.log('🔍 getLocation() called');
+            
+            const locationBtn = document.querySelector('.location-btn');
+            
+            if (!locationBtn) {
+                console.error('❌ Location button not found');
+                setTimeout(getLocation, 1000);
+                return;
+            }
+            
+            console.log('✅ Location button found');
+            
+            if (navigator.geolocation) {
+                console.log('✅ Geolocation supported');
+                locationBtn.textContent = '📍 Getting Location...';
+                locationBtn.classList.add('active');
+                
+                navigator.geolocation.getCurrentPosition(
+                    function(position) {
+                        console.log('✅ Position obtained:', position);
+                        const lat = position.coords.latitude;
+                        const lon = position.coords.longitude;
+                        
+                        console.log(`📍 Coordinates: ${lat}, ${lon}`);
+                        
+                        // Try reverse geocoding
+                        fetch(`https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=${lat}&longitude=${lon}&localityLanguage=en`)
+                            .then(response => response.json())
+                            .then(data => {
+                                console.log('🗺️ Geocoding data:', data);
+                                const city = data.city || data.locality || 'Unknown';
+                                const state = data.principalSubdivision || 'Unknown';
+                                const locationText = `${lat},${lon} (${city}, ${state})`;
+                                
+                                // Store in global variable
+                                window.userLocationData = locationText;
+                                console.log('✅ Location stored globally:', locationText);
+                                
+                                // Update UI
+                                updateLocationUI(locationText);
+                                
+                                // Try to update Gradio input with retry
+                                attemptLocationUpdate(locationText, 5);
+                                
+                                locationBtn.textContent = '📍 Location Shared';
+                            })
+                            .catch(error => {
+                                console.error('❌ Error getting location name:', error);
+                                const locationText = `${lat},${lon}`;
+                                
+                                // Store in global variable
+                                window.userLocationData = locationText;
+                                console.log('✅ Location stored globally:', locationText);
+                                
+                                // Update UI
+                                updateLocationUI(locationText);
+                                
+                                // Try to update Gradio input with retry
+                                attemptLocationUpdate(locationText, 5);
+                                
+                                locationBtn.textContent = '📍 Location Shared';
+                            });
+                    },
+                    function(error) {
+                        console.error('❌ Geolocation error:', error);
+                        locationBtn.textContent = '📍 Share Location';
+                        locationBtn.classList.remove('active');
+                        
+                        // Show manual location input as fallback
+                        showManualLocationInput();
+                        
+                        // Show user-friendly error message
+                        let errorMessage = 'Unable to get your location automatically. ';
+                        switch(error.code) {
+                            case error.PERMISSION_DENIED:
+                                errorMessage += 'Please allow location access in your browser settings.';
+                                break;
+                            case error.POSITION_UNAVAILABLE:
+                                errorMessage += 'Location information is unavailable.';
+                                break;
+                            case error.TIMEOUT:
+                                errorMessage += 'Location request timed out.';
+                                break;
+                            default:
+                                errorMessage += 'An unknown error occurred.';
+                                break;
+                        }
+                        alert(errorMessage + ' Please enter your location manually below.');
+                    },
+                    {
+                        enableHighAccuracy: true,
+                        timeout: 10000,
+                        maximumAge: 300000
+                    }
+                );
+            } else {
+                console.error('❌ Geolocation not supported by this browser');
+                showManualLocationInput();
+                alert('Geolocation not supported by this browser. Please enter your location manually below.');
+            }
+        }
+        
+        function attemptLocationUpdate(locationText, maxRetries) {
+            let retries = 0;
+            
+            function tryUpdate() {
+                if (retries >= maxRetries) {
+                    console.error('❌ Failed to update location after', maxRetries, 'attempts');
+                    showManualLocationInput();
+                    return;
+                }
+                
+                console.log(`🔄 Attempting location update (${retries + 1}/${maxRetries})`);
+                
+                if (updateLocationInGradio(locationText)) {
+                    console.log('✅ Location update successful');
+                    return;
+                }
+                
+                retries++;
+                setTimeout(tryUpdate, 1000);
+            }
+            
+            tryUpdate();
+        }
+        
+        function updateLocationUI(locationText) {
+            console.log('🎨 Updating location UI:', locationText);
+            
+            // Update location status display
+            const statusElement = document.querySelector('#location-status');
+            if (statusElement) {
+                statusElement.innerHTML = `📍 **Location:** ${locationText}`;
+                console.log('✅ Location status updated');
+            }
+            
+            // Show location status row
+            const statusRow = document.querySelector('#location-status').closest('.gradio-row');
+            if (statusRow) {
+                statusRow.style.display = 'flex';
+                console.log('✅ Location status row shown');
+            }
+        }
+        
+        function updateLocationInGradio(locationText) {
+            console.log('💾 Updating location in Gradio:', locationText);
+            
+            // Strategy 1: Direct element ID targeting
+            const locationInput = document.getElementById('location-input');
+            if (locationInput) {
+                const inputElement = locationInput.querySelector('input, textarea') || locationInput;
+                if (inputElement) {
+                    console.log('✅ Strategy 1: Direct ID targeting successful');
+                    inputElement.value = locationText;
+                    inputElement.dispatchEvent(new Event('input', { bubbles: true }));
+                    inputElement.dispatchEvent(new Event('change', { bubbles: true }));
+                    return true;
+                }
+            }
+            
+            // Strategy 2: Class-based targeting
+            const locationElements = document.querySelectorAll('.location-data input, .location-data textarea, .location-data');
+            for (let element of locationElements) {
+                if (element.tagName === 'INPUT' || element.tagName === 'TEXTAREA') {
+                    console.log('✅ Strategy 2: Class-based targeting successful');
+                    element.value = locationText;
+                    element.dispatchEvent(new Event('input', { bubbles: true }));
+                    element.dispatchEvent(new Event('change', { bubbles: true }));
+                    return true;
+                }
+            }
+            
+            // Strategy 3: Search by placeholder or nearby elements
+            const allInputs = document.querySelectorAll('input, textarea');
+            for (let input of allInputs) {
+                if (input.style.display === 'none' || input.type === 'hidden') {
+                    if (input.id === 'location-input' || 
+                        input.parentElement?.id === 'location-input' ||
+                        input.closest('#location-input') ||
+                        input.classList.contains('location-data')) {
+                        console.log('✅ Strategy 3: Hidden input search successful');
+                        input.value = locationText;
+                        input.dispatchEvent(new Event('input', { bubbles: true }));
+                        input.dispatchEvent(new Event('change', { bubbles: true }));
+                        return true;
+                    }
+                }
+            }
+            
+            // Strategy 4: Force update by finding Gradio component
+            setTimeout(() => {
+                const gradioComponents = document.querySelectorAll('[data-testid="textbox"]');
+                for (let component of gradioComponents) {
+                    if (component.style.display === 'none' || component.offsetParent === null) {
+                        const input = component.querySelector('input, textarea');
+                        if (input) {
+                            console.log('✅ Strategy 4: Gradio component targeting successful');
+                            input.value = locationText;
+                            input.dispatchEvent(new Event('input', { bubbles: true }));
+                            input.dispatchEvent(new Event('change', { bubbles: true }));
+                            return true;
+                        }
+                    }
+                }
+            }, 500);
+            
+            console.log('❌ All strategies failed to update location input');
+            return false;
+        }
+        
+        function showManualLocationInput() {
+            const fallbackRow = document.querySelector('.location-fallback');
+            if (fallbackRow) {
+                fallbackRow.style.display = 'flex';
+                console.log('✅ Manual location input shown');
+            } else {
+                console.error('❌ Manual location input not found');
+            }
+        }
+        
+        function submitManualLocation() {
+            const manualInput = document.querySelector('input[placeholder*="Enter your city"]');
+            if (manualInput && manualInput.value.trim()) {
+                const locationText = manualInput.value.trim();
+                console.log('✅ Manual location entered:', locationText);
+                
+                // Store in global variable
+                window.userLocationData = locationText;
+                
+                // Update UI
+                updateLocationUI(locationText);
+                
+                // Try to update Gradio input (fallback)
+                updateLocationInGradio(locationText);
+                
+                // Hide the manual input
+                const fallbackRow = document.querySelector('.location-fallback');
+                if (fallbackRow) {
+                    fallbackRow.style.display = 'none';
+                }
+                
+                // Update location button
+                const locationBtn = document.querySelector('.location-btn');
+                if (locationBtn) {
+                    locationBtn.textContent = '📍 Location Set';
+                    locationBtn.classList.add('active');
+                }
+                
+                return true;
+            }
+            return false;
+        }
+        
+        // Enhanced initialization
+        function initializeLocationFeatures() {
+            console.log('🚀 Initializing location features...');
+            
+            // Add manual location input event listeners
+            const manualInput = document.querySelector('input[placeholder*="Enter your city"]');
+            if (manualInput) {
+                manualInput.addEventListener('keypress', function(e) {
+                    if (e.key === 'Enter') {
+                        submitManualLocation();
+                    }
+                });
+            }
+            
+            // Test location components
+            console.log('🧪 Testing location components...');
+            console.log('Location button:', document.querySelector('.location-btn'));
+            console.log('Location input:', document.querySelector('#location-input input'));
+            console.log('Manual input:', document.querySelector('input[placeholder*="Enter your city"]'));
+            console.log('Fallback row:', document.querySelector('.location-fallback'));
+            console.log('Navigator geolocation:', navigator.geolocation);
+        }
+        
+        // Function to get current location for message enhancement
+        function getCurrentLocation() {
+            return window.userLocationData || 'Location not available';
+        }
+        
+        // Function to enhance message with location if available
+        function enhanceMessageWithLocation(message) {
+            const location = getCurrentLocation();
+            console.log('🔍 Enhancing message with location:', location);
+            
+            if (location && location !== 'Location not available') {
+                // Always add location for DMV office queries
+                const locationKeywords = ['dmv office', 'nearest dmv', 'dmv location', 'where is', 'office', 'nearest office', 'location'];
+                const isLocationQuery = locationKeywords.some(keyword => message.toLowerCase().includes(keyword));
+                
+                if (isLocationQuery) {
+                    const enhancedMessage = `[Location: ${location}] ${message}`;
+                    console.log('✅ Enhanced message:', enhancedMessage);
+                    return enhancedMessage;
+                }
+            }
+            return message;
+        }
+        
+        // Override message sending to include location
+        function interceptMessageSend() {
+            console.log('🚀 Setting up message interception');
+            
+            // Monitor all text inputs for Enter key
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Enter' && !e.shiftKey) {
+                    const target = e.target;
+                    if (target.classList.contains('input-box') || target.matches('.input-box')) {
+                        const currentMessage = target.value;
+                        const enhancedMessage = enhanceMessageWithLocation(currentMessage);
+                        if (enhancedMessage !== currentMessage) {
+                            target.value = enhancedMessage;
+                            console.log('🎯 Message enhanced with location');
+                        }
+                    }
+                }
+            });
+            
+            // Also monitor button clicks
+            document.addEventListener('click', function(e) {
+                if (e.target.classList.contains('send-button') || e.target.matches('.send-button')) {
+                    const inputBox = document.querySelector('.input-box');
+                    if (inputBox) {
+                        const currentMessage = inputBox.value;
+                        const enhancedMessage = enhanceMessageWithLocation(currentMessage);
+                        if (enhancedMessage !== currentMessage) {
+                            inputBox.value = enhancedMessage;
+                            console.log('🎯 Message enhanced with location via button');
+                        }
+                    }
+                }
+            });
+        }
+        
+        // Initialize when DOM is ready
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', function() {
+                initializeLocationFeatures();
+                setTimeout(interceptMessageSend, 2000);
+            });
+        } else {
+            initializeLocationFeatures();
+            setTimeout(interceptMessageSend, 2000);
+        }
+        
+        // Also initialize after a delay to ensure Gradio components are ready
+        setTimeout(function() {
+            initializeLocationFeatures();
+            interceptMessageSend();
+        }, 3000);
+    </script>
+    """
+    
+    with gr.Blocks(css=custom_css, title="Kansas DMV Assistant", head=location_js) as app:
         logger.info("🎭 Setting up Gradio blocks...")
         
         # State variables
         show_welcome = gr.State(True)
         current_language = gr.State("en")
         session_id = gr.State(generate_session_id())  # Persistent session ID
+        user_location = gr.State("Location not available")  # User location state
         
         with gr.Column(elem_classes=["main-container"]):
             # Header
@@ -821,16 +1283,42 @@ def create_app():
                         <div class="ks-logo">KS</div>
                         <div class="title-section">
                             <h1>Kansas DMV Assistant</h1>
-                            <p>Your 24/7 Motor Vehicle Services Helper with Memory</p>
+                            <p>Your 24/7 Motor Vehicle Services Helper with Location</p>
                         </div>
                     </div>
                     """)
                 with gr.Column():
                     with gr.Row():
+                        location_btn = gr.Button("📍 Share Location", elem_classes=["location-btn"], scale=1)
                         lang_display_btn = gr.Button("🌐 Spanish", elem_classes=["glass-btn"], scale=1)
                         clear_btn = gr.Button("🗑️ Clear", elem_classes=["clear-btn"], scale=1)
                         info_btn = gr.Button("📊 Info", elem_classes=["info-btn"], scale=1)
                     
+            # Hidden location input - make it more accessible
+            location_input = gr.Textbox(
+                visible=False, 
+                elem_id="location-input", 
+                interactive=True,
+                value="Location not available",
+                elem_classes=["location-data"]
+            )
+            
+            # Additional hidden location state for reliability
+            location_state = gr.State("Location not available")
+
+            # Manual location input (fallback)
+            with gr.Row(visible=False, elem_classes=["location-fallback"]) as location_fallback:
+                manual_location = gr.Textbox(
+                    placeholder="Enter your city, state (e.g., Wichita, KS)",
+                    label="Manual Location Entry",
+                    scale=3,
+                    elem_id="manual-location-input"
+                )
+                location_submit = gr.Button("📍 Use Location", scale=1)
+            
+            # Location status display
+            with gr.Row(visible=True) as location_status_row:
+                location_status = gr.Markdown("📍 **Location:** Not shared", elem_id="location-status")
             
             # Chat Container
             with gr.Column(elem_classes=["chat-container"]):
@@ -838,7 +1326,7 @@ def create_app():
                 welcome_html = gr.HTML("""
                 <div class="welcome-screen" id="welcome-screen">
                     <h2 class="welcome-title">Welcome to Kansas DMV Assistant</h2>
-                    <p class="welcome-subtitle">Get instant help with licenses, registrations, renewals, and more. Ask me anything about Kansas motor vehicle services!</p>
+                    <p class="welcome-subtitle">Get instant help with licenses, registrations, renewals, and more. Share your location to find the nearest DMV office!</p>
                     
                     <div class="prompts-grid">
                         <div class="prompt-card" onclick="document.getElementById('prompt-btn-0').click()">
@@ -911,27 +1399,50 @@ def create_app():
             prompt_buttons.append(btn)
         
         # Event handlers
-        def handle_message_streaming(message, history, language, session_id):
+        def handle_message_streaming(message, history, language, session_id, location):
             """Handle message with ChatGPT-like streaming"""
             if message.strip():
                 logger.info(f"📝 New message received: {message[:50]}... (Session: {session_id})")
                 # Process with streaming
-                for updated_history in chat_response_streaming(message, history, language, session_id):
+                for updated_history in chat_response_streaming(message, history, language, session_id, location):
                     yield "", updated_history, gr.update(visible=False), gr.update(visible=True), gr.update(visible=False)
         
-        def handle_message(message, history, welcome_visible, language, session_id):
+        def handle_message(message, history, welcome_visible, language, session_id, location):
             if message.strip():
                 logger.info(f"📝 New message received: {message[:50]}... (Session: {session_id})")
                 # Process the message and hide welcome screen
-                new_msg, new_history = chat_response(message, history, language, session_id)
+                new_msg, new_history = chat_response(message, history, language, session_id, location)
                 return new_msg, new_history, gr.update(visible=False), gr.update(visible=True), False, gr.update(visible=False)
             return "", history, welcome_html, chatbot, welcome_visible, gr.update(visible=False)
         
-        def handle_prompt_click(prompt_text, history, language, session_id):
+        def handle_prompt_click(prompt_text, history, language, session_id, location):
             logger.info(f"🎯 Sample prompt clicked: {prompt_text} (Session: {session_id})")
             # Process the prompt with streaming
-            for updated_history in chat_response_streaming(prompt_text, history, language, session_id):
+            for updated_history in chat_response_streaming(prompt_text, history, language, session_id, location):
                 yield "", updated_history, gr.update(visible=False), gr.update(visible=True), gr.update(visible=False)
+        
+        def handle_location_btn():
+            """Handle location button click"""
+            return gr.update(value="getLocation()", visible=False)
+        
+        def update_location(location_text):
+            """Update location state when location is received"""
+            if location_text and location_text.strip() and location_text != "Location not available":
+                logger.info(f"📍 Location updated: {location_text}")
+                status_text = f"📍 **Location:** {location_text}"
+                return location_text, status_text
+            else:
+                logger.warning("📍 Empty or invalid location text received")
+                return "Location not available", "📍 **Location:** Not shared"
+        
+        def submit_manual_location(manual_location_text):
+            """Handle manual location submission"""
+            if manual_location_text.strip():
+                logger.info(f"📍 Manual location submitted: {manual_location_text}")
+                # Clear the input field and hide the fallback
+                location_status_text = f"📍 **Location:** {manual_location_text}"
+                return manual_location_text, gr.update(visible=False), gr.update(value=""), gr.update(value=location_status_text)
+            return "Location not available", gr.update(visible=True), gr.update(value=""), gr.update(value="📍 **Location:** Not shared")
         
         def toggle_language(current_lang):
             """Toggle between English and Spanish."""
@@ -959,17 +1470,44 @@ def create_app():
             """Hide the info display."""
             return gr.update(visible=False)
         
-        # Bind events with streaming
+        # Bind events with streaming and location
         msg.submit(
             handle_message_streaming,
-            inputs=[msg, chatbot, current_language, session_id],
+            inputs=[msg, chatbot, current_language, session_id, user_location],
             outputs=[msg, chatbot, welcome_html, chatbot, info_display]
         )
         
         send_btn.click(
             handle_message_streaming,
-            inputs=[msg, chatbot, current_language, session_id],
+            inputs=[msg, chatbot, current_language, session_id, user_location],
             outputs=[msg, chatbot, welcome_html, chatbot, info_display]
+        )
+        
+        # Location button event
+        location_btn.click(
+            fn=None,
+            js="getLocation"
+        )
+        
+        # Location input change event
+        location_input.change(
+            update_location,
+            inputs=[location_input],
+            outputs=[user_location, location_status]
+        )
+
+        # Manual location submit event
+        location_submit.click(
+            fn=submit_manual_location,
+            inputs=[manual_location],
+            outputs=[user_location, location_fallback, manual_location, location_status]
+        )
+        
+        # Manual location input on Enter key
+        manual_location.submit(
+            fn=submit_manual_location,
+            inputs=[manual_location],
+            outputs=[user_location, location_fallback, manual_location, location_status]
         )
         
         # Language toggle event
@@ -999,15 +1537,15 @@ def create_app():
             outputs=[info_display]
         )
         
-        # Bind prompt button events with streaming
+        # Bind prompt button events with streaming and location
         for i, (btn, prompt) in enumerate(zip(prompt_buttons, sample_prompts)):
             btn.click(
                 handle_prompt_click,
-                inputs=[gr.State(prompt), chatbot, current_language, session_id],
+                inputs=[gr.State(prompt), chatbot, current_language, session_id, user_location],
                 outputs=[msg, chatbot, welcome_html, chatbot, info_display]
             )
     
-    logger.info("✅ Gradio interface created successfully with conversational memory")
+    logger.info("✅ Gradio interface created successfully with location support")
     return app
 
 if __name__ == "__main__":
@@ -1026,6 +1564,8 @@ if __name__ == "__main__":
     print("   ✅ Clear Conversation - Reset conversation history")
     print("   ✅ Conversation Info - View conversation summary")
     print("   ✅ Persistent Session - Same session across all messages")
+    print("   ✅ Location Sharing - Share your current location with the agent!")
+    print("   ✅ Manual Location - Enter your location manually if auto-detection fails")
     print("\n📝 LIVE LOGS - User interactions will appear below:")
     print("="*80)
     
@@ -1033,9 +1573,9 @@ if __name__ == "__main__":
     
     try:
         app.launch(
-            server_name="0.0.0.0",
+            server_name="localhost",
             server_port=7860,
-            share=True,
+            share=False,
             show_error=True
         )
     except KeyboardInterrupt:

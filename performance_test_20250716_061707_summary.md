@@ -1,16 +1,16 @@
 # RAG Agent Performance Test Results
 
-**Generated:** 2025-07-15T20:52:53.089122
+**Generated:** 2025-07-16T06:17:08.291605
 
 ## Performance Visualizations
 
 The following charts provide visual analysis of the performance test results:
 
-### Performance Test 20250715 205251 Dashboard
-![Performance Test 20250715 205251 Dashboard](performance_test_20250715_205251_dashboard.png)
+### Performance Test 20250716 061707 Dashboard
+![Performance Test 20250716 061707 Dashboard](performance_test_20250716_061707_dashboard.png)
 
-### Performance Test 20250715 205251 Cost Analysis
-![Performance Test 20250715 205251 Cost Analysis](performance_test_20250715_205251_cost_analysis.png)
+### Performance Test 20250716 061707 Cost Analysis
+![Performance Test 20250716 061707 Cost Analysis](performance_test_20250716_061707_cost_analysis.png)
 
 ---
 
@@ -22,30 +22,30 @@ The following charts provide visual analysis of the performance test results:
 
 ## Performance Metrics
 
-- **Average Retrieval Time:** 0.262s
-- **Average Generation Time:** 2.609s
-- **Average Total Time:** 2.871s
-- **Fastest Response:** 0.561s
-- **Slowest Response:** 9.854s
+- **Average Retrieval Time:** 0.339s
+- **Average Generation Time:** 2.775s
+- **Average Total Time:** 3.114s
+- **Fastest Response:** 0.671s
+- **Slowest Response:** 10.757s
 
 ## Top Performing Configurations
 
 ### 🏆 Fastest Overall Configuration
-- **Embedding Model:** text-embedding-ada-002
-- **Search Algorithm:** faiss_cosine
+- **Embedding Model:** text-embedding-3-large
+- **Search Algorithm:** basic_cosine
 - **LLM Model:** gpt-3.5-turbo
-- **Chunk Size:** 3
-- **Total Time:** 0.561s
-- **Retrieval Time:** 0.108s
-- **Generation Time:** 0.452s
+- **Chunk Size:** 5
+- **Total Time:** 0.671s
+- **Retrieval Time:** 0.203s
+- **Generation Time:** 0.469s
 
 ### 🔍 Fastest Retrieval Configuration
-- **Configuration:** text-embedding-ada-002 + faiss_l2
-- **Retrieval Time:** 0.107s
+- **Configuration:** text-embedding-ada-002 + basic_cosine
+- **Retrieval Time:** 0.109s
 
 ### 🤖 Fastest Generation Configuration
 - **LLM Model:** gpt-3.5-turbo
-- **Generation Time:** 0.450s
+- **Generation Time:** 0.440s
 
 ## Model Performance Comparison
 

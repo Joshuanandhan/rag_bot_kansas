@@ -257,10 +257,15 @@ class VectorBenchmark:
         print(f"📊 Found {len(documents)} documents")
         
         # For benchmark, use a reasonable sample to avoid token limits
-        # Use first 50 documents for testing
-        sample_size = min(50, len(documents))
+        # Some algorithms need more training data, so use adaptive sampling
+        min_sample_size = 50   # Minimum for basic algorithms
+        max_sample_size = 300  # Maximum to avoid token limits
+        
+        # Use more documents if available, but cap at reasonable limit
+        sample_size = min(max_sample_size, max(min_sample_size, len(documents)))
         documents = documents[:sample_size]
         print(f"📊 Using {sample_size} documents for testing")
+        print(f"   ℹ️  Some algorithms need 200+ documents for proper training")
         
         # Create embeddings
         embeddings_model = OpenAIEmbeddings(model="text-embedding-3-small")  # Use small for speed
@@ -303,7 +308,7 @@ class VectorBenchmark:
         
         return documents, np.array(all_embeddings)
     
-    def create_faiss_index(self, embeddings: np.ndarray, index_type: str) -> faiss.Index:
+    def create_faiss_index(self, embeddings: np.ndarray, index_type: str) -> tuple[faiss.Index, np.ndarray]:
         """Create different types of FAISS indexes"""
         
         dimension = embeddings.shape[1]
@@ -318,8 +323,14 @@ class VectorBenchmark:
         elif index_type == "flat_ip":
             # Flat Inner Product (cosine similarity)
             index = faiss.IndexFlatIP(dimension)
-            # Normalize embeddings for cosine similarity
-            faiss.normalize_L2(embeddings)
+            # Normalize embeddings for cosine similarity - create copy to avoid in-place modification
+            try:
+                embeddings_copy = embeddings.copy().astype(np.float32)
+                faiss.normalize_L2(embeddings_copy)
+                embeddings = embeddings_copy
+            except Exception as e:
+                print(f"      ⚠️  Normalization failed: {e}")
+                print(f"      ⚠️  Using unnormalized embeddings (may affect accuracy)")
             
         elif index_type == "ivf_flat":
             # IVF with flat vectors (approximate search)
@@ -329,10 +340,21 @@ class VectorBenchmark:
             
         elif index_type == "ivf_pq":
             # IVF with Product Quantization (memory efficient)
-            nlist = min(100, n_vectors // 10)
-            m = 8  # Number of subquantizers
+            # Check if we have enough training data
+            min_required = 256  # PQ typically needs 256+ vectors
+            if n_vectors < min_required:
+                print(f"      ⚠️  PQ needs {min_required}+ vectors, but only have {n_vectors}")
+                print(f"      ⚠️  Falling back to simpler PQ configuration")
+                nlist = min(10, n_vectors // 5)  # Fewer clusters
+                m = 4  # Fewer subquantizers
+                nbits = 4  # Fewer bits per subquantizer
+            else:
+                nlist = min(100, n_vectors // 10)
+                m = 8  # Number of subquantizers
+                nbits = 8
+            
             quantizer = faiss.IndexFlatL2(dimension)
-            index = faiss.IndexIVFPQ(quantizer, dimension, nlist, m, 8)
+            index = faiss.IndexIVFPQ(quantizer, dimension, nlist, m, nbits)
             
         elif index_type == "hnsw":
             # HNSW (Hierarchical Navigable Small World)
@@ -343,7 +365,7 @@ class VectorBenchmark:
         else:
             raise ValueError(f"Unknown index type: {index_type}")
         
-        return index
+        return index, embeddings
     
     def benchmark_index_creation(self, embeddings: np.ndarray, index_type: str) -> Dict[str, Any]:
         """Benchmark index creation time"""
@@ -351,7 +373,7 @@ class VectorBenchmark:
         start_time = time.time()
         
         try:
-            index = self.create_faiss_index(embeddings, index_type)
+            index, embeddings = self.create_faiss_index(embeddings, index_type)
             
             # Train index if needed
             if hasattr(index, 'is_trained') and not index.is_trained:

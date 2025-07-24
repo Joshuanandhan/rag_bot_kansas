@@ -1,0 +1,146 @@
+{
+  "summary": {
+    "total_tests": 324,
+    "successful_tests": 324,
+    "success_rate": 100.0
+  },
+  "performance_metrics": {
+    "avg_retrieval_time": 0.33903827490629973,
+    "avg_generation_time": 2.7745994211714944,
+    "avg_total_time": 3.1136376960777943,
+    "fastest_total_time": 0.6714670658111572,
+    "slowest_total_time": 10.757299423217773
+  },
+  "best_configurations": {
+    "fastest_retrieval": {
+      "embedding_model": "text-embedding-ada-002",
+      "search_algorithm": "basic_cosine",
+      "llm_model": "gpt-4o-mini",
+      "chunk_size": 3,
+      "query": "How do I renew my driver's license?",
+      "retrieval_time": 0.1088552474975586,
+      "generation_time": 4.93099308013916,
+      "total_time": 5.039848327636719,
+      "chunks_retrieved": 3,
+      "response_length": 1501,
+      "relevance_scores": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "response_preview": "To renew your driver's license, you can follow these general steps:\n\n1. **Check Eligibility**: Verify if you are eligible for renewal. This may depend on factors such as your age, the condition of you...",
+      "success": true
+    },
+    "fastest_generation": {
+      "embedding_model": "text-embedding-3-small",
+      "search_algorithm": "faiss_cosine",
+      "llm_model": "gpt-3.5-turbo",
+      "chunk_size": 5,
+      "query": "What documents do I need for vehicle registration?",
+      "retrieval_time": 0.25927209854125977,
+      "generation_time": 0.4398610591888428,
+      "total_time": 0.6991331577301025,
+      "chunks_retrieved": 5,
+      "response_length": 144,
+      "relevance_scores": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "response_preview": "You will need your vehicle's title, proof of insurance, driver's license, and any required inspection certificates or smog check certifications.",
+      "success": true
+    },
+    "fastest_overall": {
+      "embedding_model": "text-embedding-3-large",
+      "search_algorithm": "basic_cosine",
+      "llm_model": "gpt-3.5-turbo",
+      "chunk_size": 5,
+      "query": "What documents do I need for vehicle registration?",
+      "retrieval_time": 0.20286321640014648,
+      "generation_time": 0.46860384941101074,
+      "total_time": 0.6714670658111572,
+      "chunks_retrieved": 5,
+      "response_length": 183,
+      "relevance_scores": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "response_preview": "To determine the specific documents required for vehicle registration, you should visit the Kansas Department of Revenue Division of Vehicles website or contact their office directly.",
+      "success": true
+    }
+  },
+  "model_performance": {
+    "by_embedding_model": {
+      "mean": {
+        "text-embedding-3-large": 3.023359219233195,
+        "text-embedding-3-small": 3.2103130420049033,
+        "text-embedding-ada-002": 3.1072408269952843
+      },
+      "min": {
+        "text-embedding-3-large": 0.6714670658111572,
+        "text-embedding-3-small": 0.6959788799285889,
+        "text-embedding-ada-002": 0.7246296405792236
+      },
+      "max": {
+        "text-embedding-3-large": 8.368232727050781,
+        "text-embedding-3-small": 10.757299423217773,
+        "text-embedding-ada-002": 7.485713005065918
+      }
+    },
+    "by_search_algorithm": {
+      "mean": {
+        "basic_cosine": 3.127426125385143,
+        "faiss_cosine": 3.087140131879736,
+        "faiss_l2": 3.1263468309685036
+      },
+      "min": {
+        "basic_cosine": 0.6714670658111572,
+        "faiss_cosine": 0.684194803237915,
+        "faiss_l2": 0.6852471828460693
+      },
+      "max": {
+        "basic_cosine": 10.757299423217773,
+        "faiss_cosine": 6.921703100204468,
+        "faiss_l2": 8.368232727050781
+      }
+    },
+    "by_llm_model": {
+      "mean": {
+        "gpt-3.5-turbo": 1.1447616396126923,
+        "gpt-4o": 3.3135620090696545,
+        "gpt-4o-mini": 4.882589439551036
+      },
+      "min": {
+        "gpt-3.5-turbo": 0.6714670658111572,
+        "gpt-4o": 1.4519760608673096,
+        "gpt-4o-mini": 1.9689362049102783
+      },
+      "max": {
+        "gpt-3.5-turbo": 3.9399960041046143,
+        "gpt-4o": 7.485713005065918,
+        "gpt-4o-mini": 10.757299423217773
+      }
+    },
+    "by_chunk_size": {
+      "mean": {
+        "3": 3.0005837870232854,
+        "5": 3.1117507027991023,
+        "7": 3.1235418643480464,
+        "10": 3.2186744301407426
+      },
+      "min": {
+        "3": 0.6852471828460693,
+        "5": 0.6714670658111572,
+        "7": 0.7428219318389893,
+        "10": 0.7246296405792236
+      },
+      "max": {
+        "3": 7.472393989562988,
+        "5": 10.757299423217773,
+        "7": 9.156661987304688,
+        "10": 7.394116640090942
+      }
+    }
+  }
+}

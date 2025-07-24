@@ -1,26 +1,26 @@
 🎯 QUICK PERFORMANCE TEST TERMINAL SUMMARY
 ==================================================
-Generated: 2025-07-15T20:30:05.305666
+Generated: 2025-07-16T05:30:50.672071
 
 🏆 PERFORMANCE RANKING:
-1. Fast & Cheap: 2.74s
-2. Balanced: 3.70s
-3. High Quality: 11.97s
+1. Fast & Cheap: 2.46s
+2. High Quality: 3.52s
+3. Balanced: 4.20s
 
-🥇 FASTEST CONFIGURATION: Fast & Cheap (2.74s)
-   ⚡ Retrieval: 0.67s
-   🤖 Generation: 0.68s
+🥇 FASTEST CONFIGURATION: Fast & Cheap (2.46s)
+   ⚡ Retrieval: 0.20s
+   🤖 Generation: 0.96s
    📝 Response length: 89 chars
 
 💰 ESTIMATED COSTS PER 1000 QUERIES:
    Fast & Cheap: ~$0.76
-   Balanced: ~$0.29
    High Quality: ~$7.56
+   Balanced: ~$0.29
 
 📁 GENERATED FILES:
-   📄 Raw results: quick_test_20250715_203004.json
-   📊 Dashboard: quick_test_20250715_203004_dashboard.png
-   📋 Terminal summary: quick_test_20250715_203004_terminal_summary.txt
+   📄 Raw results: quick_test_20250716_053050.json
+   📊 Dashboard: quick_test_20250716_053050_dashboard.png
+   📋 Terminal summary: quick_test_20250716_053050_terminal_summary.txt
 
 🔍 NEXT STEPS:
 1. View the dashboard PNG file for visual analysis

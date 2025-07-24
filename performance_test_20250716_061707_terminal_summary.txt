@@ -1,0 +1,30 @@
+🎯 RAG PERFORMANCE TEST TERMINAL SUMMARY
+==================================================
+Generated: 2025-07-16T06:17:08.291474
+
+🎯 QUICK SUMMARY:
+   Average response time: 3.114s
+   Fastest response: 0.671s
+   Success rate: 100.0%
+
+🏆 BEST CONFIGURATION:
+   text-embedding-3-large + basic_cosine + gpt-3.5-turbo (k=5)
+   Response time: 0.671s
+   Retrieval time: 0.203s
+   Generation time: 0.469s
+
+📁 GENERATED FILES:
+   📄 Raw results: performance_test_20250716_061707_results.json
+   📊 Analysis: performance_test_20250716_061707_analysis.json
+   📋 CSV data: performance_test_20250716_061707_results.csv
+   📝 Summary report: performance_test_20250716_061707_summary.md
+   📊 Performance dashboard: performance_test_20250716_061707_dashboard.png
+   📊 Comparison charts: performance_test_20250716_061707_comparison.png
+   💰 Cost analysis: performance_test_20250716_061707_cost_analysis.png
+   📋 Terminal summary: performance_test_20250716_061707_terminal_summary.txt
+
+🔍 NEXT STEPS:
+1. Open the dashboard PNG files to view performance graphs
+2. Read the summary.md file for detailed analysis
+3. Use the CSV file for further data analysis
+4. Implement the best configuration in your production system
